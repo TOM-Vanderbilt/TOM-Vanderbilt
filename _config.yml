@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elizabeth Walther"
+title                    : "Tikkun Olam Makers"
 title_separator          : "-"
-subtitle                 : "Engineering Portfolio"
-name                     : &name "Elizabeth Walther" # &name is a YAML anchor which can be *referenced later
-description              : &description "Engineering Portfolio"
-url                      : https://waltheeg.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Vanderbilt"
+name                     : &name "TOM: Vanderbilt" # &name is a YAML anchor which can be *referenced later
+description              : &description "???"
+url                      : https://tom-vanderbilt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-   # - "https://www.instagram.com/dr.dflo"
 
 # Analytics
 analytics:
@@ -98,26 +97,32 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/img/Elizabeth Walther Headshot Square.jpg"
-  bio              : "A mechanical engineering junior with a passion for rehabilitation engineering"
-  location         : "Glencoe, IL"
+  bio              : "The TOM community at Vanderbilt University!"
+  location         : "Nashville, TN"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/waltheeg"
+    - label: "TOM Global"
+      icon: "fab fa-fw fa-globe"
+      url: "https://tomglobal.org/community?id=5ca3885bb506a2297168a93e"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/vanderbilt_tom/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/elizabeth-walther/"
+      url: "https://www.linkedin.com/company/tikkun-olam-makers-tom-vanderbilt/about/"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/waltheeg"
+    - label: "TOM Global"
+      icon: "fab fa-fw fa-globe"
+      url: "https://tomglobal.org/community?id=5ca3885bb506a2297168a93e"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/vanderbilt_tom/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/elizabeth-walther/"
+      url: "https://www.linkedin.com/company/tikkun-olam-makers-tom-vanderbilt/about/"
 
 
 # Reading Files

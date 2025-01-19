@@ -4,9 +4,5 @@ main:
     url: /portfolio/
   - title: "About"
     url: /_pages/about
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Contact Us"
+    url: /_pages/about

@@ -5,12 +5,27 @@ title: "Contact Us"
 gallery:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Blank Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
 
 gallery2:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
+
+gallery3:
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+
+gallery4:
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+
+gallery5:
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Blank Headshot.jpg
 ---
 
 ## General Email
@@ -18,29 +33,26 @@ vanderbilt@tomglobal.org
 ## 2025 Executive Board
 
 {% include gallery %}
-|![Elizabeth Walther](assets/img/Elizabeth Walther Headshot.jpg)|![Elizabeth Walther](assets/img/Elizabeth Walther Headshot.jpg)|![Elizabeth Walther](assets/img/Elizabeth Walther Headshot.jpg)|
-| **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) |  |
+
+| **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) | **Maya Miller**<br>Logistics Chair<br>[maya.g.miller@vanderbilt.edu](mailto:maya.g.miller@vanderiblt.edu) |
 
 
 {% include gallery id="gallery2" %}
 
 
-| **Maya Miller**<br>Logistics Chair<br>[maya.g.miller@vanderbilt.edu](mailto:maya.g.miller@vanderiblt.edu) | **Isabella Murano**<br>Logistics Chair<br>[isabella.s.murano@vanderbilt.edu](mailto:isabella.s.murano@vanderbilt.edu) | **Shannon Gordon**<br>Logistics Chair<br>[shannon.a.gordon@vanderbilt.edu](mailto:shannon.a.gordon@vanderbilt.edu) |
+| **Isabella Murano**<br>Logistics Chair<br>[isabella.s.murano@vanderbilt.edu](mailto:isabella.s.murano@vanderbilt.edu) | **Shannon Gordon**<br>Logistics Chair<br>[shannon.a.gordon@vanderbilt.edu](mailto:shannon.a.gordon@vanderbilt.edu) | **Victor Dunagan**<br>Finance Chair<br>[victor.l.dunagan@vanderbilt.edu](mailto:victor.l.dunagan@vanderbilt.edu) |
 
+{% include gallery id="gallery3" %}
 
+| **Hailey Jane Frank**<br>Finance Chair<br>[hailey.j.frank@vanderbilt.edu](mailto:hailey.j.frank@vanderbilt.edu) | **Kanani Silva**<br>Fundraising Chair<br>[kanani.a.silva@vanderbilt.edu](mailto:kanani.a.silva@vanderbilt.edu) | **Rylan Hunt**<br>Maker Recruitment Chair<br>[rylan.t.hunt@vanderbilt.edu](mailto:rylan.t.hunt@vanderbilt.edu) |
 
+{% include gallery id="gallery4" %}
 
-| **Ethan White**<br>Sales Lead<br>[ethanwhite@example.com](mailto:ethanwhite@example.com) | **Fiona Gray**<br>Designer<br>[fionagray@example.com](mailto:fionagray@example.com) | **George King**<br>Operations<br>[georgeking@example.com](mailto:georgeking@example.com) |
+| **Dani Topper**<br>Maker Recruitment Chair<br>[danielle.m.topper@vanderbilt.edu](mailto:danielle.m.topper@vanderbilt.edu) | **Kalyn Day**<br>Need Knower Recruitment Chair<br>[kalyn.j.day@vanderbilt.edu](mailto:kalyn.j.day@vanderbilt.edu) | **Isabella Blauzdys**<br>Need Knower Recruitment Chair<br>[isabella.m.blauzdys@vanderbilt.edu](mailto:isabella.m.blauzdys@vanderbilt.edu) |
 
+{% include gallery id="gallery5" %}
 
-
-
-| **Hannah Blue**<br>Software Engineer<br>[hannahblue@example.com](mailto:hannahblue@example.com) | **Isaac Green**<br>Product Manager<br>[isaacgreen@example.com](mailto:isaacgreen@example.com) | **Jack Black**<br>Lead Developer<br>[jackblack@example.com](mailto:jackblack@example.com) |
-
-
-
-
-| **Kim White**<br>UX Specialist<br>[kimwhite@example.com](mailto:kimwhite@example.com) | **Leo Stone**<br>Data Scientist<br>[leostone@example.com](mailto:leostone@example.com) | |
+| **Ella Provancher**<br>PR Chair<br>[ella.e.provancher@vanderbilt.edu](mailto:ella.e.provancher@vanderbilt.edu) | **Chloe Park**<br>PR Chair<br>[chloe.j.park@vanderbilt.edu](mailto:chloe.j.park@vanderbilt.edu) | |
 
 
 ## Previous Executive Boards

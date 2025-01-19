@@ -28,7 +28,7 @@ feature_row:
 
 ---
 
-{% include feature_row %}
+{% include feature_row feature_row=page.feature_row %}
 
 ## Previous Executive Boards
 

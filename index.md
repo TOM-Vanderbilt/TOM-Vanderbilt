@@ -3,7 +3,7 @@ title: "TOM: Vanderbilt"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.3"
+  overlay_filter: "0"
   overlay_image: assets/img/Wond'ry 2.jpg
   actions:
     - label: "Our Projects"

@@ -26,6 +26,10 @@ feature_row:
     title: "Maya Miller"
     excerpt: "Logistics Chair"
 
+---
+
+{% include feature_row %}
+
 ## Previous Executive Boards
 
 ### 2024 Executive Board
@@ -59,8 +63,3 @@ xx
 ### 2017 Executive Board
 
 xx
-
-
----
-
-{% include feature_row %}

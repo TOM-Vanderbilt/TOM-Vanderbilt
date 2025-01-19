@@ -18,7 +18,7 @@ vanderbilt@tomglobal.org
 ## 2025 Executive Board
 
 {% include gallery %}
-
+|image_path: assets/img/Elizabeth Walther Headshot.jpg|image_path: assets/img/Elizabeth Walther Headshot.jpg|image_path: assets/img/Elizabeth Walther Headshot.jpg|
 | **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) |  |
 
 

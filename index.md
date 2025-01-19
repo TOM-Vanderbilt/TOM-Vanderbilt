@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/img/Wond'ry 2.jpg
+  overlay_image: assets/img/Wond'ry 1.jpg
   actions:
     - label: "Our Projects"
       url: "/portfolio/"

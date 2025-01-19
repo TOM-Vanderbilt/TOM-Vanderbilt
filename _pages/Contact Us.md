@@ -3,9 +3,9 @@
 title: "Contact Us"
 
 gallery:
-  - image_path: assets/img/Syringe Pump Rendering 1.png
-  - image_path: assets/img/Syringe Pump Rendering 2.png
-  - image_path: assets/img/Syringe Pump Wiring.png
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
 
 ---
 
@@ -13,7 +13,7 @@ gallery:
 vanderbilt@tomglobal.org
 ## 2025 Executive Board
 
-{% include gallery caption="Syringe Pump Gallery" %}
+{% include gallery %}
 
 | !(https://tomglobal.org/assets/images/tom-logo-color.svg) | ![Tessa Mahoney](images/TOM Vandy Logo.jpg) | ![Maya Miller](images/TOM Vandy Logo.jpg) |
 | **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Jane Smith**<br>CTO<br>[janesmith@example.com](mailto:janesmith@example.com) | **Alice Johnson**<br>Marketing Manager<br>[alicej@example.com](mailto:alicej@example.com) |

@@ -10,7 +10,7 @@ header:
       url: "/portfolio/"
 excerpt: "As one of the highest performing TOM communities, TOM: Vanderbilt is dedicated to designing and disseminating accessible, open source solutions for individuals with disabilities and other unmet needs."
 feature_row:
-  - image_path: assets/img/Limb Attachment Award.JPG
+  - image_path: assets/img/Limb Attachment Award.jpg
     alt: "Limb Attachment Best Documentation"
     title: "2024 TOM Global Innovation Challenge - Best Documentation"
     excerpt: "Out of more than 400 participants from 20 countries, Vanderbilt's Limb Attachment with Interchangeable Implements was awarded Best Documentation."

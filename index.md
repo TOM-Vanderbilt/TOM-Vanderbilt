@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: assets/img/Wond'ry 1.jpg
+  overlay_image: https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/291/2019/08/19174104/600x600-WondryAutumn.jpg
   actions:
     - label: "Our Projects"
       url: "/portfolio/"
@@ -15,12 +15,12 @@ feature_row:
     title: "2024 TOM Global Innovation Challenge - Best Documentation"
     excerpt: "Out of more than 400 participants from 20 countries, Vanderbilt's Limb Attachment with Interchangeable Implements was awarded Best Documentation."
 
- - image_path: assets/img/Limb Attachment Award.JPG
+ - image_path: https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/291/2019/08/19174104/600x600-WondryAutumn.jpg
     alt: "VALE - Community Engagement"
     title: "2024 Vanderbilt Awards for Leadership Excellence - Community Engagement"
     excerpt: "Awarded for TOM: Vanderbilt's service efforts that have engaged the local, national, and global community with the intention of creating meaningful and sustainable change."
 
- - image_path: assets/img/Limb Attachment Award.JPG
+ - image_path: https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/291/2019/08/19174104/600x600-WondryAutumn.jpg
     alt: "Independent Feeding Device Grand Prize"
     title: "2023 TOM Global Innovation Challenge - Grand Prize Winner"
     excerpt: "Out of more than 500 participants from 27 countries, Vanderbilt's Independent Feeding Device was awarded the Grand Prize."

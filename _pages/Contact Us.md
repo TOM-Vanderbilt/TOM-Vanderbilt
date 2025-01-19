@@ -5,6 +5,7 @@ title: "Contact Us"
 gallery:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Blank Headshot.jpg
 
 gallery2:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
@@ -18,13 +19,13 @@ vanderbilt@tomglobal.org
 
 {% include gallery %}
 
-| **Elizabeth Walther**<br>Co-President<br>[<font size="2">elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) |  |
+| **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) |  |
 
 
 {% include gallery id="gallery2" %}
 
 
-| **Maya Miller**<br>Logistics Chair<br>[Email](mailto:maya.g.miller@vanderiblt.edu) | **Charlie Lee**<br>Developer<br>[charlielee@example.com](mailto:charlielee@example.com) | **Diana Scott**<br>HR Manager<br>[dianascott@example.com](mailto:dianascott@example.com) |
+| **Maya Miller**<br>Logistics Chair<br>[maya.g.miller@vanderbilt.edu](mailto:maya.g.miller@vanderiblt.edu) | **Isabella Murano**<br>Logistics Chair<br>[isabella.s.murano@vanderbilt.edu](mailto:isabella.s.murano@vanderbilt.edu) | **Shannon Gordon**<br>Logistics Chair<br>[shannon.a.gordon@vanderbilt.edu](mailto:shannon.a.gordon@vanderbilt.edu) |
 
 
 

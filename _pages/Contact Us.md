@@ -5,7 +5,6 @@ title: "Contact Us"
 gallery:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
 
 gallery2:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
@@ -19,13 +18,13 @@ vanderbilt@tomglobal.org
 
 {% include gallery %}
 
-| **Elizabeth Walther**<br>Co-President<br><font size="4">[Email](mailto:elizabeth.g.walther@vanderbilt.edu)</font> | **Tessa Mahoney**<br>Co-President<br>[Email](mailto:tessa.j.mahoney@vanderbilt.edu) | **Maya Miller**<br>Logistics Chair<br>[Email](mailto:maya.g.miller@vanderiblt.edu) |
+| **Elizabeth Walther**<br>Co-President<br>[<font size="2">elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) |  |
 
 
 {% include gallery id="gallery2" %}
 
 
-| **Bob Brown**<br>Product Designer<br>[bobbrown@example.com](mailto:bobbrown@example.com) | **Charlie Lee**<br>Developer<br>[charlielee@example.com](mailto:charlielee@example.com) | **Diana Scott**<br>HR Manager<br>[dianascott@example.com](mailto:dianascott@example.com) |
+| **Maya Miller**<br>Logistics Chair<br>[Email](mailto:maya.g.miller@vanderiblt.edu) | **Charlie Lee**<br>Developer<br>[charlielee@example.com](mailto:charlielee@example.com) | **Diana Scott**<br>HR Manager<br>[dianascott@example.com](mailto:dianascott@example.com) |
 
 
 

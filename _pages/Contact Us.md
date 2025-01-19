@@ -1,13 +1,7 @@
 ---
-
 title: "Contact Us"
-
----
-
 ## General Email
-
 vanderbilt@tomglobal.org
-
 ## 2025 Executive Board
 
 feature_row:
@@ -15,20 +9,17 @@ feature_row:
     alt: "Elizabeth Walther"
     title: "Elizabeth Walther"
     excerpt: "Co-President"
-
   - image_path: assets/img/TOM Vandy Logo.jpg
     alt: "Tessa Mahoney"
     title: "Tessa Mahoney"
     excerpt: "Co-President"
-
   - image_path: assets/img/TOM Vandy Logo.jpg
     alt: "Maya Miller"
     title: "Maya Miller"
     excerpt: "Logistics Chair"
-
 ---
 
-{% include feature_row feature_row=page.feature_row %}
+{% include feature_row %}
 
 ## Previous Executive Boards
 

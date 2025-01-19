@@ -101,7 +101,7 @@ author:
   location         : "Nashville, TN"
   links:
     - label: "TOM Global"
-      icon: "fab fa-fw fa-globe"
+      icon: "fas fa-globe"
       url: "https://tomglobal.org/community?id=5ca3885bb506a2297168a93e"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -115,7 +115,7 @@ author:
 footer:
   links:
     - label: "TOM Global"
-      icon: "fab fa-fw fa-globe"
+      icon: "fas fa-globe"
       url: "https://tomglobal.org/community?id=5ca3885bb506a2297168a93e"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

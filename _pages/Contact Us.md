@@ -6,6 +6,7 @@ gallery:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Blank Headshot.jpg
 
 gallery2:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg

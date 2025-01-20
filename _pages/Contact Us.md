@@ -34,7 +34,7 @@ vanderbilt@tomglobal.org
 
 {% include gallery %}
 
-| **Elizabeth Walther**<br>Co-President<br><a href="mailto:elizabeth.g.walther@vanderbilt.edu" style="font-size: 0.75em;">elizabeth.g.walther@vanderbilt.edu</a> | <td style="padding-left: 15px;">**Tessa Mahoney**<br>Co-President<br><a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.75em;">tessa.j.mahoney@vanderbilt.edu</a></td> | <div style="padding-left: 10px;">**Maya Miller**<br>Logistics Chair<br><a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.75em;">maya.g.miller@vanderiblt.edu</a></div> |
+| **Elizabeth Walther**<br>Co-President<br><a href="mailto:elizabeth.g.walther@vanderbilt.edu" style="font-size: 0.75em;">elizabeth.g.walther@vanderbilt.edu</a> | &nbsp;**Tessa Mahoney**<br>Co-President<br><a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.75em;">tessa.j.mahoney@vanderbilt.edu</a> | **Maya Miller**<br>Logistics Chair<br><a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.75em;">maya.g.miller@vanderiblt.edu</a> |
 
 {% include gallery id="gallery2" %}
 

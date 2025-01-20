@@ -33,13 +33,10 @@ vanderbilt@tomglobal.org
 ## 2025 Executive Board
 
 {% include gallery %}
-| **Elizabeth Walther**<br>Co-President<br><a href="mailto:elizabeth.g.walther@vanderbilt.edu" style="font-size: 0.85em;">elizabeth.g.walther@vanderbilt.edu</a> | **Tessa Mahoney**<br>Co-President<br><a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.85em;">tessa.j.mahoney@vanderbilt.edu</a> | **Maya Miller**<br>Logistics Chair<br><a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.85em;">maya.g.miller@vanderiblt.edu</a> |
 
-| **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) | **Maya Miller**<br>Logistics Chair<br>[maya.g.miller@vanderbilt.edu](mailto:maya.g.miller@vanderiblt.edu) |
-
+| **Elizabeth Walther**<br>Co-President<br><a href="mailto:elizabeth.g.walther@vanderbilt.edu" style="font-size: 0.75em;">elizabeth.g.walther@vanderbilt.edu</a> | **Tessa Mahoney**<br>Co-President<br><a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.75em;">tessa.j.mahoney@vanderbilt.edu</a> | **Maya Miller**<br>Logistics Chair<br><a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.75em;">maya.g.miller@vanderiblt.edu</a> |
 
 {% include gallery id="gallery2" %}
-
 
 | **Isabella Murano**<br>Logistics Chair<br>[isabella.s.murano@vanderbilt.edu](mailto:isabella.s.murano@vanderbilt.edu) | **Shannon Gordon**<br>Logistics Chair<br>[shannon.a.gordon@vanderbilt.edu](mailto:shannon.a.gordon@vanderbilt.edu) | **Victor Dunagan**<br>Finance Chair<br>[victor.l.dunagan@vanderbilt.edu](mailto:victor.l.dunagan@vanderbilt.edu) |
 

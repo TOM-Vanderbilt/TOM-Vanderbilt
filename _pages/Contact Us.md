@@ -38,19 +38,20 @@ vanderbilt@tomglobal.org
 
 {% include gallery id="gallery2" %}
 
-| **Isabella Murano**<br>Logistics Chair<br>[isabella.s.murano@vanderbilt.edu](mailto:isabella.s.murano@vanderbilt.edu) | **Shannon Gordon**<br>Logistics Chair<br>[shannon.a.gordon@vanderbilt.edu](mailto:shannon.a.gordon@vanderbilt.edu) | **Victor Dunagan**<br>Finance Chair<br>[victor.l.dunagan@vanderbilt.edu](mailto:victor.l.dunagan@vanderbilt.edu) |
+| **Isabella Murano**<br>Logistics Chair<br><a href="mailto:isabella.s.murano@vanderbilt.edu" style="font-size: 0.75em;">isabella.s.murano@vanderbilt.edu</a> | &nbsp;&nbsp;**Shannon Gordon**<br>&nbsp;&nbsp;Logistics Chair<br>&nbsp;&nbsp;<a href="mailto:shannon.a.gordon@vanderbilt.edu" style="font-size: 0.75em;">shannon.a.gordon@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Victor Dunagan**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finance Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:victor.l.dunagan@vanderbilt.edu" style="font-size: 0.75em;">victor.l.dunagan@vanderbilt.edu</a> |
 
 {% include gallery id="gallery3" %}
 
-| **Hailey Jane Frank**<br>Finance Chair<br>[hailey.j.frank@vanderbilt.edu](mailto:hailey.j.frank@vanderbilt.edu) | **Kanani Silva**<br>Fundraising Chair<br>[kanani.a.silva@vanderbilt.edu](mailto:kanani.a.silva@vanderbilt.edu) | **Rylan Hunt**<br>Maker Recruitment Chair<br>[rylan.t.hunt@vanderbilt.edu](mailto:rylan.t.hunt@vanderbilt.edu) |
+| **Hailey Jane Frank**<br>Finance Chair<br><a href="mailto:hailey.j.frank@vanderbilt.edu" style="font-size: 0.75em;">hailey.j.frank@vanderbilt.edu</a> | &nbsp;&nbsp;**Kanani Silva**<br>&nbsp;&nbsp;Fundraising Chair<br>&nbsp;&nbsp;<a href="mailto:kanani.a.silva@vanderbilt.edu" style="font-size: 0.75em;">kanani.a.silva@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rylan Hunt**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maker Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:rylan.t.hunt@vanderbilt.edu" style="font-size: 0.75em;">rylan.t.hunt@vanderbilt.edu</a> |
 
 {% include gallery id="gallery4" %}
 
-| **Dani Topper**<br>Maker Recruitment Chair<br>[danielle.m.topper@vanderbilt.edu](mailto:danielle.m.topper@vanderbilt.edu) | **Kalyn Day**<br>Need Knower Recruitment Chair<br>[kalyn.j.day@vanderbilt.edu](mailto:kalyn.j.day@vanderbilt.edu) | **Isabella Blauzdys**<br>Need Knower Recruitment Chair<br>[isabella.m.blauzdys@vanderbilt.edu](mailto:isabella.m.blauzdys@vanderbilt.edu) |
+| **Dani Topper**<br>Maker Recruitment Chair<br><a href="mailto:danielle.m.topper@vanderbilt.edu" style="font-size: 0.75em;">danielle.m.topper@vanderbilt.edu</a> | &nbsp;&nbsp;**Kalyn Day**<br>&nbsp;&nbsp;Need Knower Recruitment Chair<br>&nbsp;&nbsp;<a href="mailto:kalyn.j.day@vanderbilt.edu" style="font-size: 0.75em;">kalyn.j.day@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Isabella Blauzdys**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Need Knower Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:isabella.m.blauzdys@vanderbilt.edu" style="font-size: 0.75em;">isabella.m.blauzdys@vanderbilt.edu</a> |
+
 
 {% include gallery id="gallery5" %}
 
-| **Ella Provancher**<br>PR Chair<br>[ella.e.provancher@vanderbilt.edu](mailto:ella.e.provancher@vanderbilt.edu) | **Chloe Park**<br>PR Chair<br>[chloe.j.park@vanderbilt.edu](mailto:chloe.j.park@vanderbilt.edu) | |
+| **Ella Provancher**<br>PR Chair<br><a href="mailto:ella.e.provancher@vanderbilt.edu" style="font-size: 0.75em;">ella.e.provancher@vanderbilt.edu</a> | &nbsp;&nbsp;**Chloe Park**<br>&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;<a href="mailto:chloe.j.park@vanderbilt.edu" style="font-size: 0.75em;">chloe.j.park@vanderbilt.edu</a> | |
 
 
 ## Previous Executive Boards

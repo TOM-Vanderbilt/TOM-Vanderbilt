@@ -33,6 +33,7 @@ vanderbilt@tomglobal.org
 ## 2025 Executive Board
 
 {% include gallery %}
+| **Elizabeth Walther**<br>Co-President<br><a href="mailto:elizabeth.g.walther@vanderbilt.edu" style="font-size: 0.85em;">elizabeth.g.walther@vanderbilt.edu</a> | **Tessa Mahoney**<br>Co-President<br><a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.85em;">tessa.j.mahoney@vanderbilt.edu</a> | **Maya Miller**<br>Logistics Chair<br><a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.85em;">maya.g.miller@vanderiblt.edu</a> |
 
 | **Elizabeth Walther**<br>Co-President<br>[elizabeth.g.walther@vanderbilt.edu](mailto:elizabeth.g.walther@vanderbilt.edu) | **Tessa Mahoney**<br>Co-President<br>[tessa.j.mahoney@vanderbilt.edu](mailto:tessa.j.mahoney@vanderbilt.edu) | **Maya Miller**<br>Logistics Chair<br>[maya.g.miller@vanderbilt.edu](mailto:maya.g.miller@vanderiblt.edu) |
 

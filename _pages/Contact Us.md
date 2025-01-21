@@ -71,51 +71,51 @@ Ella Provancher - PR Chair<br>
 Megan Wang - PR Chair<br>
 
 ### 2023 Executive Board 
-Eliza Hill - President
-Bryne Knowles - VP of Logistics
-Abbie Wollheim - VP of Recruitment
-Nicole Hill - Logistics Chair
-Elizabeth Walther - Logistics Chair
-Ryder Li - Finance Chair
-Kaiser Williams - Finance Chair
-Jillian Hornby - Maker Recruitment Chair
-Kaitlyn Hannon - Freshman Maker Recruitment Chair
-Charlotte Lichtenfeld - Need Knower Recruitment Chair
-Abby Johnson - PR Chair
+Eliza Hill - President<br>
+Bryne Knowles - VP of Logistics<br>
+Abbie Wollheim - VP of Recruitment<br>
+Nicole Hill - Logistics Chair<br>
+Elizabeth Walther - Logistics Chair<br>
+Ryder Li - Finance Chair<br>
+Kaiser Williams - Finance Chair<br>
+Jillian Hornby - Maker Recruitment Chair<br>
+Kaitlyn Hannon - Freshman Maker Recruitment Chair<br>
+Charlotte Lichtenfeld - Need Knower Recruitment Chair<br>
+Abby Johnson - PR Chair<br>
 
 ### 2022 Executive Board
-Sara Gregg - President
-Addy Novak - Logistics Chair
-Daniel Rau - Logistics Chair
-Rebecca Pan - Finance Chair
-Ryder Li - Finance Chair
-Eliza Hill - Maker Recruitment Chair
-Marin Schiffman - Need Knower Recruitment Chair
-Mayaank Pillai - Need Knower Recruitment Chair
-Abbie Wollheim - PR Chair
+Sara Gregg - President<br>
+Addy Novak - Logistics Chair<br>
+Daniel Rau - Logistics Chair<br>
+Rebecca Pan - Finance Chair<br>
+Ryder Li - Finance Chair<br>
+Eliza Hill - Maker Recruitment Chair<br>
+Marin Schiffman - Need Knower Recruitment Chair<br>
+Mayaank Pillai - Need Knower Recruitment Chair<br>
+Abbie Wollheim - PR Chair<br>
 
 ### 2021 Executive Board
-Lauren Grohowski - President
-??
+Lauren Grohowski - President<br>
+??<br>
 
 
 ### 2020 Executive Board
-Blake Hannon - President, Need Knower Recruitment Chair
-Evan Segaul - Logistics Chair
-Asaf Roth - ??
-Juyoung Song - PR Chair
-Ishita Malhotra - Community Connections Chair
+Blake Hannon - President, Need Knower Recruitment Chair<br>
+Evan Segaul - Logistics Chair<br>
+Asaf Roth - ??<br>
+Juyoung Song - PR Chair<br>
+Ishita Malhotra - Community Connections Chair<br>
 
-Carson Fallon
-David Ziemnicki
-Evan Segaul
-Hannah Schrager
-Peter Novak
+Carson Fallon<br>
+David Ziemnicki<br>
+Evan Segaul<br>
+Hannah Schrager<br>
+Peter Novak<br>
 
 ### 2017 - 2019 Executive Board
-Bradley Schwartz - President, Finance Chair, Fundraising Chair
-Shiv Seth - Logistics Chair
-Eli Zawatsky - Maker Recruitment Chair
-Rachel Lichtenfeld - Need Knower Recruitment Chair
-Marisa Welsh - PR Chair
-Alex Rice-Slothower - Community Connections Chair
+Bradley Schwartz - President, Finance Chair, Fundraising Chair<br>
+Shiv Seth - Logistics Chair<br>
+Eli Zawatsky - Maker Recruitment Chair<br>
+Rachel Lichtenfeld - Need Knower Recruitment Chair<br>
+Marisa Welsh - PR Chair<br>
+Alex Rice-Slothower - Community Connections Chair<br>

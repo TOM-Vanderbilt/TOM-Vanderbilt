@@ -11,9 +11,9 @@ TOM: Vanderbilt was founded in 2017 in Nashville, Tennesse as one of the first u
 
 ## Stats
 As of January 2025...
-* We have hosted **7** Makeathons
-* We have worked on **80+** projects
-* We have helped **65+** Need Knowers
+* We have hosted **7** Makeathons,
+* worked on **80+** projects,
+* and helped **65+** Need Knowers!
 
 ## Awards
 

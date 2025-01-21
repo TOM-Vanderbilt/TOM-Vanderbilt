@@ -16,8 +16,10 @@ As of January 2025...
 * and helped **65+** Need Knowers!
 
 ## Awards
-
-xx
+* 2024 TOM Global Innovation Challenge - Best Documentation
+* 2024 Vanderbilt Awards for Leadership Excellence - Community Engagement
+* 2023 TOM Global Innovation Challenge - Grand Prize Winner
+* 2022 Abraham Accords Open Innovation Challenge - Scott Carlton Community Award
 
 ## TOM in the Media
 

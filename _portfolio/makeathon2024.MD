@@ -12,7 +12,7 @@ gallery:
    
 ---
 
-# Date: October 25 - 27, 2024
+## Date: October 25 - 27, 2024<br>
 
 # About
 
@@ -40,6 +40,54 @@ xx
 ## Team 4 - Kenny
 
 **Team Lead: Kaiser Williams**<br>
+xx
+
+
+## Team 5 - Miyako
+
+**Team Lead: Kaitlyn Hannon**<br>
+xx
+
+
+## Team 6 - Liam
+
+**Team Lead: Charlotte Lichtenfeld**<br>
+xx
+
+
+## Team 7 - Deklan
+
+**Team Lead: Maya Miller**<br>
+xx
+
+
+## Team 8 - Elise
+
+**Team Lead: Ella Provancher**<br>
+xx
+
+
+## Team 9 - Nassanah
+
+**Team Lead: Tessa Mahoney**<br>
+xx
+
+
+## Team 10 - Paige, Heather, & Susan Gray School
+
+**Team Lead: Isabella Murano**<br>
+xx
+
+
+## Team 11 - Elise
+
+**Team Lead: Hadley Rossignol**<br>
+xx
+
+
+## Team 12 - Hugh
+
+**Team Lead: Victor Dunagan**<br>
 xx
 
 

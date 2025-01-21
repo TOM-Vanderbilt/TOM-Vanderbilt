@@ -185,6 +185,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  events:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -210,6 +213,14 @@ defaults:
   # _portfolio
   - scope:
       path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _events
+  - scope:
+      path: "_events"
       type: portfolio
     values:
       layout: single

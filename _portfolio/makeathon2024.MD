@@ -3,7 +3,7 @@ title: "2024 Makeathon"
 date: 2024-10-27
 excerpt: "TOM: Vanderbilt's signature event - our 7th annual Makeathon."
 header:
-  image: /assets/img/Syringe Pump Feature.png
+  image: /assets/img/2024 Makeathon Group.jpg
   teaser: /assets/img/Syringe Pump Feature.png
 gallery:
   - image_path: assets/img/Syringe Pump Rendering 1.png

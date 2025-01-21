@@ -187,7 +187,7 @@ collections:
     permalink: /:collection/:path/
   events:
     output: true
-    permalink: /:events/:path/
+    permalink: /events/:path/
 
 
 # Defaults

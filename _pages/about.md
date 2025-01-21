@@ -23,4 +23,4 @@ xx
 
 xx
 
-![2024 Makeathon Group Picture](assets/img/2024 Makeathon Group.HEIC)
+![2024 Makeathon Group Picture](assets/img/2024 Makeathon Group.jpg)

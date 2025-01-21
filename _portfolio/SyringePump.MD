@@ -1,5 +1,6 @@
 ---
 title: "Syringe Pump"
+date: 2024-09-01
 excerpt: "This 3D printed, motorized syringe pump is programmed to accurately deliver liquid from 5mL - 20mL syringes."
 header:
   image: /assets/img/Syringe Pump Feature.png

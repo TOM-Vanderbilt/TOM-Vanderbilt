@@ -184,6 +184,8 @@ kramdown:
 collections:
   portfolio:
     output: true
+    sort_by: date
+    order: descending
     permalink: /:collection/:path/
  # events:
     #output: true

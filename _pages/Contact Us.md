@@ -57,18 +57,18 @@ vanderbilt@tomglobal.org
 ## Previous Executive Boards
 
 ### 2024 Executive Board
-Elizabeth Walther - President
-Hadley Rossignol - Logistics Chair
-Maya Miller - Logistics Chair
-Kaiser Williams - Finance Chair
-Victor Dunagan - Finance Chair
-Isabella Murano - Fundraising Chair
-Kaitlyn Hannon - Maker Recruitment Chair
-Charlotte Lichtenfeld - Need Knower Recruitment Chair
-Tessa Mahoney - Need Knower Recruitment Chair
-Sophia Hooley - PR Chair
-Ella Provancher - PR Chair
-Megan Wang - PR Chair
+Elizabeth Walther - President<br>
+Hadley Rossignol - Logistics Chair<br>
+Maya Miller - Logistics Chair<br>
+Kaiser Williams - Finance Chair<br>
+Victor Dunagan - Finance Chair<br>
+Isabella Murano - Fundraising Chair<br>
+Kaitlyn Hannon - Maker Recruitment Chair<br>
+Charlotte Lichtenfeld - Need Knower Recruitment Chair<br>
+Tessa Mahoney - Need Knower Recruitment Chair<br>
+Sophia Hooley - PR Chair<br>
+Ella Provancher - PR Chair<br>
+Megan Wang - PR Chair<br>
 
 ### 2023 Executive Board 
 Eliza Hill - President

@@ -10,6 +10,8 @@ gallery:
   - image_path: assets/img/2024 TOM Global.jpg
 galleryx:
   - image_path: assets/img/2024 Showcase Overview.jpg
+galleryy:
+  - image_path: assets/img/2024 Exec.jpg
 
 ---
 
@@ -96,3 +98,6 @@ xx
 
 **Team Lead: Victor Dunagan**<br>
 xx
+
+
+{% include gallery id="galleryy" %}

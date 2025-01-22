@@ -12,6 +12,32 @@ galleryx:
   - image_path: assets/img/2024 Showcase Overview.jpg
 galleryy:
   - image_path: assets/img/2024 Exec.jpg
+gallery1:
+  - image_path: assets/img/2024 Team 1 Showcase.jpg
+gallery2:
+  - image_path: assets/img/2024 Team 2 Showcase.jpg
+gallery3:
+  - image_path: assets/img/2024 Team 3 Showcase.jpg
+gallery4:
+  - image_path: assets/img/2024 Team 4 Showcase.jpg
+gallery5:
+  - image_path: assets/img/2024 Team 5 Showcase.jpg
+gallery6:
+  - image_path: assets/img/2024 Team 6 Showcase.jpg
+gallery7:
+  - image_path: assets/img/2024 Team 7 Showcase.jpg
+gallery8:
+  - image_path: assets/img/2024 Team 8 Showcase.jpg
+gallery9:
+  - image_path: assets/img/2024 Team 9 Showcase.jpg
+gallery10:
+  - image_path: assets/img/2024 Team 10 Showcase.jpg
+gallery11:
+  - image_path: assets/img/2024 Team 11 Showcase.jpg
+gallery12:
+  - image_path: assets/img/2024 Team 12 Showcase.jpg
+
+
 
 ---
 
@@ -34,6 +60,8 @@ The weekend culminated in a showcase where each team was able to present about t
 **Team Lead: Sophia Hooley**<br>
 xx
 
+{% include gallery id="gallery1" %}
+
 [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae)
 
 ## Team 2 - Robby
@@ -41,12 +69,16 @@ xx
 **Team Lead: Megan Wang**<br>
 xx
 
+{% include gallery id="gallery2" %}
+
 [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3)
 
 ## Team 3 - Beverly
 
 **Team Lead: Eliza Hill**<br>
 xx
+
+{% include gallery id="gallery3" %}
 
 [Piano Aid Documentation](https://tomglobal.org/project?id=66fe099b6b07820013993862)
 
@@ -58,11 +90,16 @@ xx
 **Team Lead: Kaiser Williams**<br>
 xx
 
+{% include gallery id="gallery4" %}
+
 [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e)
 
 ## Team 5 - Miyako
 
 **Team Lead: Kaitlyn Hannon**<br>
+xx
+
+{% include gallery id="gallery5" %}
 
 [Nintendo Switch Wheelchair Mount](https://tomglobal.org/project?id=671d34a76b078200139d92e3)
 
@@ -72,12 +109,16 @@ xx
 **Team Lead: Charlotte Lichtenfeld**<br>
 xx
 
+{% include gallery id="gallery6" %}
+
 [Adaptated Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331)
 
 ## Team 7 - Deklan
 
 **Team Lead: Maya Miller**<br>
 xx
+
+{% include gallery id="gallery7" %}
 
 [Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7)
 
@@ -89,6 +130,8 @@ xx
 **Team Lead: Ella Provancher**<br>
 xx
 
+{% include gallery id="gallery8" %}
+
 [Exercise Mat Documentation](https://tomglobal.org/project?id=671019216b078200139bd0c5)
 
 [Foot Eversion Wedges Documentation](https://tomglobal.org/project?id=6710166c6b078200139ba876)
@@ -97,6 +140,8 @@ xx
 
 **Team Lead: Tessa Mahoney**<br>
 xx
+
+{% include gallery id="gallery9" %}
 
 [Suitcase Pusher Documentation](https://tomglobal.org/project?id=671c137f6b078200139d33d1)
 
@@ -109,12 +154,16 @@ xx
 **Team Lead: Isabella Murano**<br>
 xx
 
+{% include gallery id="gallery10" %}
+
 [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a)
 
 ## Team 11 - Elise
 
 **Team Lead: Hadley Rossignol**<br>
 xx
+
+{% include gallery id="gallery11" %}
 
 [Sit-to-Stand Board Documentation](https://tomglobal.org/project?id=66fdd3ed6b0782001399237f)
 
@@ -123,6 +172,8 @@ xx
 
 **Team Lead: Victor Dunagan**<br>
 xx
+
+{% include gallery id="gallery12" %}
 
 [Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd)
 

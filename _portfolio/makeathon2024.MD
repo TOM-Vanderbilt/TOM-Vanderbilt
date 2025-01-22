@@ -58,7 +58,8 @@ The weekend culminated in a showcase where each team was able to present about t
 ## Team 1 - Jen & AbleVoices
 
 **Team Lead: Sophia Hooley**<br>
-xx
+
+Jen is the founder of AbleVoices, an organization that teaches photography to individuals with disabilities as a means of self-expression. Her organization uses traditional point-and-shoot cameras, but not all of her participants have the fine motor skills needed to press the button. Jen needed a new method for those with limited fine motor skills to activate the camera's button.
 
 {% include gallery id="gallery1" %}
 
@@ -67,7 +68,8 @@ xx
 ## Team 2 - Robby
 
 **Team Lead: Megan Wang**<br>
-xx
+
+Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works full time remotely, and if he's on a meeting in his bedroom he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
 
 {% include gallery id="gallery2" %}
 
@@ -76,7 +78,8 @@ xx
 ## Team 3 - Beverly
 
 **Team Lead: Eliza Hill**<br>
-xx
+
+Beverly had blood clots in her left hand in 2018 that led to a partial amputation. She then had a stroke on her right side while recovering from the amputation, limiting the mobility of her right arm/hand. She loved playing the piano and cooking, but has had trouble doing those things since the incident. Beverly wanted something to help her play piano again, and something to help her hold and use kitchen utensils while cooking.
 
 {% include gallery id="gallery3" %}
 
@@ -88,7 +91,8 @@ xx
 ## Team 4 - Kenny
 
 **Team Lead: Kaiser Williams**<br>
-xx
+
+Kenny has neuropathy in both hands (his fingers are curled up and he can't move them). He has trouble gripping things, and lost his job because he could no longer write with a pencil. Kenny needed a way to help him grasp and manipulate a pencil/pen so that he could write independently.
 
 {% include gallery id="gallery4" %}
 
@@ -97,7 +101,8 @@ xx
 ## Team 5 - Miyako
 
 **Team Lead: Kaitlyn Hannon**<br>
-xx
+
+Miyako is an 8-year-old with an unknown disability (similar to cerebral palsy) and scoliosis that is getting worse. Her head is usually craned up, making it difficult to look at things in her hands. Miyako wanted a mount for her Nintendo Switch so that she could easily see it while playing. She also wanted a way to put on socks independently as the sock aids currently on the market are only sized for adults.
 
 {% include gallery id="gallery5" %}
 
@@ -107,7 +112,8 @@ xx
 ## Team 6 - Liam
 
 **Team Lead: Charlotte Lichtenfeld**<br>
-xx
+
+Liam, a returner from the 2023 Makeathon, is an 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that subside when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
 
 {% include gallery id="gallery6" %}
 
@@ -116,7 +122,8 @@ xx
 ## Team 7 - Deklan
 
 **Team Lead: Maya Miller**<br>
-xx
+
+Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of the car, the ramp is narrow and the wheenchair often falls off, leavings is parents to bare the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for hsi art. He also needed an adaptive Halloween costume for his school's Halloween dance!
 
 {% include gallery id="gallery7" %}
 
@@ -128,7 +135,8 @@ xx
 ## Team 8 - Elise
 
 **Team Lead: Ella Provancher**<br>
-xx
+
+Elise, a physical therapist at Pi Beta Phi Rehabilitation Center, works with patients who are severly weak or paralyzed. She uses a standing frame in clinic for exercises, but some patients have increased muscle tone in the feet which prevents them from putting their feet flat on the foot plates. She currently uses a mix of belts/straps/towels under a patient's foot but it's not ideal. Additionally, it is hard for patients to continue exercises at home if they can only work with a squishy and unsupportive mattress. Elise needed a set of wedges to put in the standing frame's foot plates to bias the patients' feet towards eversion. She also needed a lightweight surface that patients could place on their bed to have a firmer surface. 
 
 {% include gallery id="gallery8" %}
 
@@ -139,7 +147,8 @@ xx
 ## Team 9 - Nassanah
 
 **Team Lead: Tessa Mahoney**<br>
-xx
+
+Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyperextend and injure her joints. She travels often for work, and has difficulty pushing and lifting her suitcase. When at home, she makes frequent trips to the grocery store as she can only carry one bag up her her apartment at a time. Nassanah needed wrist supports for rolling and lifting her luggage, and something to make carring groceries upstairs easier.
 
 {% include gallery id="gallery9" %}
 
@@ -149,10 +158,11 @@ xx
 
 [Grocery Vest Documentation](https://tomglobal.org/project?id=671046846b078200139bf5c0)
 
-## Team 10 - Paige, Heather, & the Susan Gray School
+## Team 10 - Paige, Heather, & Susan Gray School
 
 **Team Lead: Isabella Murano**<br>
-xx
+ 
+Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are ae-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair that has various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
 
 {% include gallery id="gallery10" %}
 
@@ -161,7 +171,8 @@ xx
 ## Team 11 - Elise
 
 **Team Lead: Hadley Rossignol**<br>
-xx
+
+Elise, a physical therapist at Pi Beta Phi Rehabilitation Center, works with patients who had cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
 
 {% include gallery id="gallery11" %}
 
@@ -171,7 +182,8 @@ xx
 ## Team 12 - Hugh
 
 **Team Lead: Victor Dunagan**<br>
-xx
+
+Hugh is a young boy with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
 
 {% include gallery id="gallery12" %}
 

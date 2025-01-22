@@ -16,7 +16,7 @@ gallery:
 
 # About
 
-xx
+This year, we hosted over 175 participants, including Makers, Need Knowers, and Team Leads, at our 7th annual Makeathon. We had 12 teams working throughout the weekend to prototype solutions for their Need Knowers. We also hosted Vanderbilt Chancellor Diermeier, three members of TOM Global, and the Hustler! The weekend culminated in a showcase where each team was able to present about the work they completed. Read more about the 2024 Makeathon projects below!
 
 # Projects
 

@@ -8,6 +8,8 @@ header:
 gallery:
   - image_path: assets/img/2024 Diermeier.jpg
   - image_path: assets/img/2024 TOM Global.jpg
+galleryx:
+  - image_path: assets/img/2024 Showcase Overview.jpg
 
 ---
 
@@ -20,6 +22,8 @@ This year, we hosted over 175 participants, including Makers, Need Knowers, and 
 {% include gallery caption="1. Faculty Advisor Kevin Galloway, Chancellor Daniel Diermeier, and President Elizabeth Walther; 2. Faculty Advisor Kevin Galloway, TOM Global US Program Manager Arielle Kaye, TOM Global Technical Assistant Michelle Levy, TOM Global Technical Program Coordinator Amber Zedek, President Elizabeth Walther" %}
 
 The weekend culminated in a showcase where each team was able to present about the work they completed. Read more about the 2024 Makeathon projects below!
+
+{% include gallery id="galleryx" %}
 
 # Projects
 

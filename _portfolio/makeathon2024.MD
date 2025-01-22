@@ -69,7 +69,7 @@ Jen is the founder of AbleVoices, an organization that teaches photography to in
 
 **Team Lead: Megan Wang**<br>
 
-Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and if he's on a meeting in his bedroom he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
+Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
 
 {% include gallery id="gallery2" %}
 
@@ -106,14 +106,14 @@ Miyako is an 8-year-old with an unknown disability (similar to cerebral palsy) a
 
 {% include gallery id="gallery5" %}
 
-[Nintendo Switch Wheelchair Mount](https://tomglobal.org/project?id=671d34a76b078200139d92e3)
+[Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3)
 
 
 ## Team 6 - Liam
 
 **Team Lead: Charlotte Lichtenfeld**<br>
 
-Liam, a returner from the 2023 Makeathon, is an 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that subside when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
+Liam, a returner from the 2023 Makeathon, is an 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that stop when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
 
 {% include gallery id="gallery6" %}
 
@@ -136,7 +136,7 @@ Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheel
 
 **Team Lead: Ella Provancher**<br>
 
-Elise, a physical therapist at Pi Beta Phi Rehabilitation Center, works with patients who are severly weak or paralyzed. She uses a standing frame in clinic for exercises, but some patients have increased muscle tone in the feet which prevents them from putting their feet flat on the foot plates. She currently uses a mix of belts/straps/towels under a patient's foot but it's not ideal. Additionally, it is hard for patients to continue exercises at home if they can only work with a squishy and unsupportive mattress. Elise needed a set of wedges to put in the standing frame's foot plates to bias the patients' feet towards eversion. She also needed a lightweight surface that patients could place on their bed to have a firmer surface. 
+Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who are severly weak or paralyzed. She uses a standing frame in the clinic for exercises, but some patients have increased muscle tone in their feet which prevents them from putting their feet flat on the foot plates. She currently uses a mix of belts/straps/towels under a patient's foot, but it's not ideal. Additionally, it is hard for patients to continue exercises at home if they can only work on a squishy and unsupportive mattress. Elise needed a set of wedges to put in the standing frame's foot plates to bias the patients' feet towards eversion. She also needed a lightweight surface that patients could place on their bed to have a firmer surface. 
 
 {% include gallery id="gallery8" %}
 
@@ -162,7 +162,7 @@ Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyper
 
 **Team Lead: Isabella Murano**<br>
  
-Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are ae-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair that has various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
+Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are age-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair that has various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
 
 {% include gallery id="gallery10" %}
 
@@ -172,7 +172,7 @@ Paige and Heather are occupational therapists at the Susan Gray School, a presch
 
 **Team Lead: Hadley Rossignol**<br>
 
-Elise, a physical therapist at Pi Beta Phi Rehabilitation Center, works with patients who had cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
+Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who had cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
 
 {% include gallery id="gallery11" %}
 

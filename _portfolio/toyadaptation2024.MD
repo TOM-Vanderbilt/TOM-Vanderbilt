@@ -11,10 +11,6 @@ galleryx:
   - image_path: assets/img/2024 Toy Teaser.jpg
 gallery1:
   - image_path: assets/img/2024 Team 1 Showcase.jpg
-gallery1g:
-  - image_path: assets/img/2024 Makeathon Team 1.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 1.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 1.3.jpg
 
 ---
 
@@ -22,11 +18,12 @@ gallery1g:
 
 # About
 
-This year, we hosted our first ever Toy Adaptation event! We had over 50 students come to switch-adapt interactive plush toys. They learned skills in sewing and soldering as they opened each toy, rewired the internal switches to larger 3D printed external switches, and sewed each toy back up. These toys lit up, played music, and repeated voices. 
+This year, we hosted our first ever Toy Adaptation event! We had over 50 students come to switch-adapt interactive plush toys. They learned skills in sewing and soldering as they opened each toy, rewired the internal switches to larger 3D printed external switches, and sewed each toy back up. 
 
 {% include gallery %}
 
-By the end of the event, over 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the physical and occupational therapists at the Vanderbilt University Medical Center Children's Hospital. See more pictures from the event below!
+By the end of the event, over 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. These toys lit up, played music, and repeated voices. A majority of the toys were donated to the physical and occupational therapists at the Vanderbilt University Medical Center Children's Hospital. See more pictures from the event below!
+
 
 
 ## Project Documentation

@@ -161,7 +161,7 @@ Miyako is an 8-year-old with an unknown disability (similar to cerebral palsy) a
 
 {% include gallery id="gallery5" %}
 
-Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch witch to her wheelchair. They also created a clamp for her car seat so that she could play in the car. Team 5 also created a Miyako-sized sock aid, allowing her to put on socks independently. The Nintendo Switch mount documentation can be found here: [Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3).
+Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch to her wheelchair. They also created a clamp for her car seat so that she could play in the car. Additionally, Team 5  created a Miyako-sized sock aid, allowing her to put on socks independently. The Nintendo Switch mount documentation can be found here: [Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3).
 
 {% include gallery id="gallery5g" %}
 
@@ -200,11 +200,10 @@ Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with
 
 {% include gallery id="gallery8" %}
 
+Team 8 created a set of foot plate inserts for both feet at varying angles, giving Elise multiple options for biasing her patients' feet towards eversion. They also created a light weight yet sturdy folding bed topper that gives patients a more firm surface to complete their physical therapy exercises on at home. The foot wedges documentation can be found here: [Foot Eversion Wedges Documentation](https://tomglobal.org/project?id=6710166c6b078200139ba876). The exercise mat documentation can be found here: [Exercise Mat Documentation](https://tomglobal.org/project?id=671019216b078200139bd0c5).
+
 {% include gallery id="gallery8g" %}
 
-[Exercise Mat Documentation](https://tomglobal.org/project?id=671019216b078200139bd0c5)
-
-[Foot Eversion Wedges Documentation](https://tomglobal.org/project?id=6710166c6b078200139ba876)
 
 ## Team 9 - Nassanah
 
@@ -214,13 +213,10 @@ Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyper
 
 {% include gallery id="gallery9" %}
 
+Team 9 created an insulated grocery vest, placing a majority of the weight at Nassanah's core, enabling Nassanah to take fewer trips between her car and her apartment. They also created custom wrist braces that were more rigid than her daily-use braces. Lastly, they created a waist-driven suitcase pusher so Nassanah could navigate airports hands-free. The grocery vest documentation can be found here: [Grocery Vest Documentation](https://tomglobal.org/project?id=671046846b078200139bf5c0). The wrist brace documentation can be found here: [Travel Braces Documentation](https://tomglobal.org/project?id=66fdd2bc6b07820013990bf8). The suitcase pusher documentation can be found here: [Suitcase Pusher Documentation](https://tomglobal.org/project?id=671c137f6b078200139d33d1).
+
 {% include gallery id="gallery9g" %}
 
-[Suitcase Pusher Documentation](https://tomglobal.org/project?id=671c137f6b078200139d33d1)
-
-[Travel Braces Documentation](https://tomglobal.org/project?id=66fdd2bc6b07820013990bf8)
-
-[Grocery Vest Documentation](https://tomglobal.org/project?id=671046846b078200139bf5c0)
 
 ## Team 10 - Paige, Heather, & Susan Gray School
 
@@ -230,9 +226,10 @@ Paige and Heather are occupational therapists at the Susan Gray School, a presch
 
 {% include gallery id="gallery10" %}
 
+Team 10 created a laser-cut toddler chair that had attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
+
 {% include gallery id="gallery10g" %}
 
-[Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a)
 
 ## Team 11 - Elise
 
@@ -242,9 +239,9 @@ Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with
 
 {% include gallery id="gallery11" %}
 
-{% include gallery id="gallery11g" %}
+Team 11 created a rolling sit-to-stand board with foot plates patients could strap their feet in. These foot plates could be adjusted laterally to accommodate different stances. The project documentation can be found here: [Sit-to-Stand Board Documentation](https://tomglobal.org/project?id=66fdd3ed6b0782001399237f).
 
-[Sit-to-Stand Board Documentation](https://tomglobal.org/project?id=66fdd3ed6b0782001399237f)
+{% include gallery id="gallery11g" %}
 
 
 ## Team 12 - Hugh
@@ -254,6 +251,8 @@ Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with
 Hugh is a young boy with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
 
 {% include gallery id="gallery12" %}
+
+
 
 {% include gallery id="gallery12g" %}
 

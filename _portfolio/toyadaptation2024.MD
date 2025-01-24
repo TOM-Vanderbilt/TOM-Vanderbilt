@@ -10,7 +10,16 @@ gallery:
 galleryx:
   - image_path: assets/img/2024 Toy Teaser.jpg
 gallery1:
-  - image_path: assets/img/2024 Team 1 Showcase.jpg
+  - image_path: assets/img/2024 Toy Pic 1.jpg
+gallery2:
+  - image_path: assets/img/2024 Toy Pic 2.1.jpg
+  - image_path: assets/img/2024 Toy Pic 2.2.jpg
+gallery3:
+  - image_path: assets/img/2024 Toy Pic 3.1.jpg
+  - image_path: assets/img/2024 Toy Pic 3.2.jpg
+gallery4:
+  - image_path: assets/img/2024 Toy Pic 4.jpg
+
 
 ---
 
@@ -24,7 +33,13 @@ This year, we hosted our first ever Toy Adaptation event! We had over 50 student
 
 By the end of the event, over 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. These toys lit up, played music, and repeated voices. A majority of the toys were donated to the physical and occupational therapists at the Vanderbilt University Medical Center Children's Hospital. See more pictures from the event below!
 
+{% include gallery id="gallery1" %}
 
+{% include gallery id="gallery2" %}
+
+{% include gallery id="gallery3" %}
+
+{% include gallery id="gallery4" %}
 
 ## Project Documentation
 

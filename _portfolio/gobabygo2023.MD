@@ -1,7 +1,7 @@
 ---
 title: "2023 Go Baby Go"
 date: 2023-4-16
-excerpt: "TOM: Vanderbilt's 1st ever Go Baby Go car."
+excerpt: "TOM: Vanderbilt's first ever Go Baby Go car."
 header:
   image: /assets/img/2024 Makeathon Group.jpg
   teaser: /assets/img/2024 Makeathon Group.jpg

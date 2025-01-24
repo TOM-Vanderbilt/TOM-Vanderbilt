@@ -1,7 +1,7 @@
 ---
 title: "2024 Go Baby Go"
-date: 2024-10-27
-excerpt: "TOM: Vanderbilt's signature event - our 7th annual Makeathon."
+date: 2024-4-13
+excerpt: "TOM: Vanderbilt's 5th Go Baby Go Car."
 header:
   image: /assets/img/2024 Makeathon Group.jpg
   teaser: /assets/img/2024 Makeathon Group.jpg
@@ -19,7 +19,7 @@ gallery1g:
 
 ---
 
-## Date: October 25 - 27, 2024<br>
+## Date: March 30, April 2, and April 13, 2024<br>
 
 # About
 

@@ -109,10 +109,10 @@ Jen is the founder of AbleVoices, an organization that teaches photography to in
 
 {% include gallery id="gallery1" %}
 
+Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae)
 
 {% include gallery id="gallery1g" %}
 
-[Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae)
 
 ## Team 2 - Robby
 

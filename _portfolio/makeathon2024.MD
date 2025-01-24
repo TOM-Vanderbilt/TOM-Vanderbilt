@@ -226,7 +226,7 @@ Paige and Heather are occupational therapists at the Susan Gray School, a presch
 
 {% include gallery id="gallery10" %}
 
-Team 10 created a laser-cut toddler chair that had attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
+Team 10 created an adjustable laser-cut toddler chair that had attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
 
 {% include gallery id="gallery10g" %}
 
@@ -252,10 +252,10 @@ Hugh is a young boy with clubbed hands. He is currently unable to ride a bike si
 
 {% include gallery id="gallery12" %}
 
-
+Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here:[Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
 
 {% include gallery id="gallery12g" %}
 
-[Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd)
+
 
 {% include gallery id="galleryy" %}

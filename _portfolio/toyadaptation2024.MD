@@ -28,14 +28,10 @@ This year, we hosted our first ever Toy Adaptation event! We had over 50 student
 
 By the end of the event, over 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the physical and occupational therapists at the Vanderbilt University Medical Center Children's Hospital. See more pictures from the event below!
 
-{% include gallery id="galleryx" %}
-
 
 ## Project Documentation
 
-[]()
-
-**Team Lead: Sophia Hooley**<br>
+[Plush Toy Adaptation Documentation](https://tomglobal.org/project?id=65c53714f89bc4648f7d7c38)
 
 {% include gallery id="galleryx" %}
 

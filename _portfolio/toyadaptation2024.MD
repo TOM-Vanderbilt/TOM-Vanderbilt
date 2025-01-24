@@ -6,10 +6,9 @@ header:
   image: /assets/img/2024 Toy Header.jpg
   teaser: /assets/img/2024 Toy Teaser.jpg
 gallery:
-  - image_path: assets/img/2024 Diermeier.jpg
-  - image_path: assets/img/2024 TOM Global.jpg
-galleryx:
   - image_path: assets/img/2024 Toy Overview.jpg
+galleryx:
+  - image_path: assets/img/2024 Toy Teaser.jpg
 gallery1:
   - image_path: assets/img/2024 Team 1 Showcase.jpg
 gallery1g:
@@ -23,25 +22,20 @@ gallery1g:
 
 # About
 
-xx
+This year, we hosted our first ever Toy Adaptation event! We had over 50 students come to switch-adapt interactive plush toys. They learned skills in sewing and soldering as they opened each toy, rewired the internal switches to larger 3D printed external switches, and sewed each toy back up. These toys lit up, played music, and repeated voices. 
 
-{% include gallery caption="1. Faculty Advisor Kevin Galloway, Chancellor Daniel Diermeier, and President Elizabeth Walther; 2. Faculty Advisor Kevin Galloway, TOM Global US Program Manager Arielle Kaye, TOM Global Technical Assistant Michelle Levy, TOM Global Technical Program Coordinator Amber Zedek, President Elizabeth Walther" %}
+{% include gallery %}
 
-xx
+By the end of the event, over 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the physical and occupational therapists at the Vanderbilt University Medical Center Children's Hospital. See more pictures from the event below!
 
 {% include gallery id="galleryx" %}
 
-# Projects
 
-## Team 1 - xx
+## Project Documentation
+
+[]()
 
 **Team Lead: Sophia Hooley**<br>
 
-xx
-
-{% include gallery id="gallery1" %}
-
-xx
-
-{% include gallery id="gallery1g" %}
+{% include gallery id="galleryx" %}
 

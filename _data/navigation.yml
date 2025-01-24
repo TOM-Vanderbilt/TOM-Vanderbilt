@@ -1,7 +1,5 @@
 # main links
 main:
-#  - title: "Events"
- #   url: /events/
   - title: "Events & Projects"
     url: /portfolio/
   - title: "About"

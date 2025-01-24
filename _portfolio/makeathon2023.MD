@@ -87,7 +87,7 @@ gallery12g:
 
 ---
 
-## Date: November 3 - 5, 2024<br>
+## Date: November 3 - 5, 2023<br>
 
 # About
 

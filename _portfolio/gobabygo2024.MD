@@ -1,7 +1,7 @@
 ---
 title: "2024 Go Baby Go"
 date: 2024-4-13
-excerpt: "TOM: Vanderbilt's 5th Go Baby Go Car."
+excerpt: "TOM: Vanderbilt's 5th Go Baby Go car."
 header:
   image: /assets/img/2024 Makeathon Group.jpg
   teaser: /assets/img/2024 Makeathon Group.jpg

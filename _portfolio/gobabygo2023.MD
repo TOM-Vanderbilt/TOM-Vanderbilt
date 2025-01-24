@@ -3,19 +3,32 @@ title: "2023 Go Baby Go"
 date: 2023-4-16
 excerpt: "TOM: Vanderbilt's first ever Go Baby Go car."
 header:
-  image: /assets/img/2024 Makeathon Group.jpg
-  teaser: /assets/img/2024 Makeathon Group.jpg
-gallery:
-  - image_path: assets/img/2024 Diermeier.jpg
-  - image_path: assets/img/2024 TOM Global.jpg
-galleryx:
-  - image_path: assets/img/2024 Showcase Overview.jpg
-gallery1:
-  - image_path: assets/img/2024 Team 1 Showcase.jpg
-gallery1g:
-  - image_path: assets/img/2024 Makeathon Team 1.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 1.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 1.3.jpg
+  image: /assets/img/2023 GBG Group.jpg
+  teaser: /assets/img/2023 GBG Group.jpg
+galleryd1:
+  - image_path: assets/img/2023 GBG Day 1.1.jpg
+  - image_path: assets/img/2023 GBG Day 1.2.jpg
+galleryd1x:
+  - image_path: assets/img/2023 GBG Day 1.3.jpg
+  - image_path: assets/img/2023 GBG Day 1.4.jpg
+galleryd2:
+  - image_path: assets/img/2023 GBG Day 2.1.jpg
+  - image_path: assets/img/2023 GBG Day 2.2.jpg
+galleryd2x:
+  - image_path: assets/img/2023 GBG Day 2.3.jpg
+  - image_path: assets/img/2023 GBG Day 2.4.jpg
+galleryd2y:
+  - image_path: assets/img/2023 GBG Day 2.5.jpg
+galleryr1:
+  - image_path: assets/img/2023 GBG Reveal 1.jpg
+  - image_path: assets/img/2023 GBG Reveal 2.jpg
+galleryr2:
+  - image_path: assets/img/2023 GBG Reveal 3.jpg
+  - image_path: assets/img/2023 GBG Reveal 4.jpg
+galleryr3: 
+  - image_path: assets/img/2023 GBG Treat.jpg
+galleryr4: 
+  - image_path: assets/img/2023 GBG Violet.jpg
 
 ---
 
@@ -25,22 +38,31 @@ gallery1g:
 
 xx
 
-{% include gallery caption="1. Faculty Advisor Kevin Galloway, Chancellor Daniel Diermeier, and President Elizabeth Walther; 2. Faculty Advisor Kevin Galloway, TOM Global US Program Manager Arielle Kaye, TOM Global Technical Assistant Michelle Levy, TOM Global Technical Program Coordinator Amber Zedek, President Elizabeth Walther" %}
+{% include gallery id="galleryd1" %}
+
+{% include gallery id="galleryd1x" %}
 
 xx
 
-{% include gallery id="galleryx" %}
+{% include gallery id="galleryd2" %}
 
-# Projects
+{% include gallery id="galleryd2x" %}
 
-## Team 1 - xx
-
-**Team Lead: Sophia Hooley**<br>
+{% include gallery id="galleryd2y" %}
 
 xx
 
-{% include gallery id="gallery1" %}
+{% include gallery id="galleryr1" %}
+
+{% include gallery id="galleryr2" %}
+
+{% include gallery id="galleryr3" %}
+
+
+## Project Documentation
 
 xx
 
-{% include gallery id="gallery1g" %}
+[Go Baby Go Project Documentation](https://tomglobal.org/project?id=65dce93dc360e629290718f4)
+
+{% include gallery id="galleryr4" %}

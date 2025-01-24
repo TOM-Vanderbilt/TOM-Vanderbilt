@@ -109,7 +109,7 @@ Jen is the founder of AbleVoices, an organization that teaches photography to in
 
 {% include gallery id="gallery1" %}
 
-Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
+Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
 
 {% include gallery id="gallery1g" %}
 
@@ -122,7 +122,7 @@ Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car acc
 
 {% include gallery id="gallery2" %}
 
-Team 2 prototyped an automatic door controller that could be controlled by Robby's Amazon Alexa in his bedroom. This project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3).
+Team 2 prototyped an automatic door controller that could be controlled by Robby's Amazon Alexa in his bedroom. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3).
 
 {% include gallery id="gallery2g" %}
 
@@ -148,7 +148,7 @@ Kenny has neuropathy in both hands (his fingers are curled up and he can't move 
 
 {% include gallery id="gallery4" %}
 
-Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pincing motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed to that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
+Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pincing motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed to that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
 
 {% include gallery id="gallery4g" %}
 
@@ -161,9 +161,9 @@ Miyako is an 8-year-old with an unknown disability (similar to cerebral palsy) a
 
 {% include gallery id="gallery5" %}
 
-{% include gallery id="gallery5g" %}
+Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch witch to her wheelchair. They also created a clamp for her car seat so that she could play in the car. Team 5 also created a Miyako-sized sock aid, allowing her to put on socks independently. The Nintendo Switch mount documentation can be found here: [Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3).
 
-[Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3)
+{% include gallery id="gallery5g" %}
 
 
 ## Team 6 - Liam
@@ -174,23 +174,22 @@ Liam, a returner from the 2023 Makeathon, is an 9-year-old with Kleefstra syndro
 
 {% include gallery id="gallery6" %}
 
+Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair that could be flattened mounted to a lower base. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adaptated Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
+
 {% include gallery id="gallery6g" %}
 
-[Adaptated Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331)
 
 ## Team 7 - Deklan
 
 **Team Lead: Maya Miller**<br>
 
-Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of the car, the ramp is narrow and the wheenchair often falls off, leavings is parents to bare the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for hsi art. He also needed an adaptive Halloween costume for his school's Halloween dance!
+Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of the car, the ramp is narrow and the wheenchair often falls off, leavings is parents to bare the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for his art. He also needed an adaptive Halloween costume for his school's Halloween dance!
 
 {% include gallery id="gallery7" %}
 
+Team 7 created a folding table that could be clamped onto Deklan's wheelchair, based on tables in a classroom. They also created removable sidings that could be attached to his car's wheelchair ramps. Lastly, they crafted him a Dragon Ball Z Son Goku light-up Halloween costume. The folding table project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7). Additionally, the wheelchair ramp sidings documentation can be found here: [Wheelchair Ramp Sidings Documentation](https://tomglobal.org/project?id=66fdd28d6b0782001398fbfa).
+
 {% include gallery id="gallery7g" %}
-
-[Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7)
-
-[Wheelchair Ramp Sidings Documentation](https://tomglobal.org/project?id=66fdd28d6b0782001398fbfa)
 
 
 ## Team 8 - Elise

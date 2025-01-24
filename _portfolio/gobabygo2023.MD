@@ -1,1 +1,46 @@
+---
+title: "2023 Go Baby Go"
+date: 2024-10-27
+excerpt: "TOM: Vanderbilt's signature event - our 7th annual Makeathon."
+header:
+  image: /assets/img/2024 Makeathon Group.jpg
+  teaser: /assets/img/2024 Makeathon Group.jpg
+gallery:
+  - image_path: assets/img/2024 Diermeier.jpg
+  - image_path: assets/img/2024 TOM Global.jpg
+galleryx:
+  - image_path: assets/img/2024 Showcase Overview.jpg
+gallery1:
+  - image_path: assets/img/2024 Team 1 Showcase.jpg
+gallery1g:
+  - image_path: assets/img/2024 Makeathon Team 1.1.jpg
+  - image_path: assets/img/2024 Makeathon Team 1.2.jpg
+  - image_path: assets/img/2024 Makeathon Team 1.3.jpg
 
+---
+
+## Date: October 25 - 27, 2024<br>
+
+# About
+
+xx
+
+{% include gallery caption="1. Faculty Advisor Kevin Galloway, Chancellor Daniel Diermeier, and President Elizabeth Walther; 2. Faculty Advisor Kevin Galloway, TOM Global US Program Manager Arielle Kaye, TOM Global Technical Assistant Michelle Levy, TOM Global Technical Program Coordinator Amber Zedek, President Elizabeth Walther" %}
+
+xx
+
+{% include gallery id="galleryx" %}
+
+# Projects
+
+## Team 1 - xx
+
+**Team Lead: Sophia Hooley**<br>
+
+xx
+
+{% include gallery id="gallery1" %}
+
+xx
+
+{% include gallery id="gallery1g" %}

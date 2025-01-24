@@ -1,7 +1,7 @@
 ---
 title: "2023 Makeathon"
-date: 2024-10-27
-excerpt: "TOM: Vanderbilt's signature event - our 7th annual Makeathon."
+date: 2023-11-5
+excerpt: "TOM: Vanderbilt's signature event - our 6th annual Makeathon."
 header:
   image: /assets/img/2024 Makeathon Group.jpg
   teaser: /assets/img/2024 Makeathon Group.jpg
@@ -87,7 +87,7 @@ gallery12g:
 
 ---
 
-## Date: October 25 - 27, 2024<br>
+## Date: November 3 - 5, 2024<br>
 
 # About
 

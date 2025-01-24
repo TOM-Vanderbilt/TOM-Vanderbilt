@@ -1,7 +1,7 @@
 ---
 title: "2025 Toy Adaptation"
-date: 2024-10-27
-excerpt: "TOM: Vanderbilt's signature event - our 7th annual Makeathon."
+date: 2025-2-9
+excerpt: "TOM: Vanderbilt's 2nd annual Toy Adaptation event."
 header:
   image: /assets/img/2024 Makeathon Group.jpg
   teaser: /assets/img/2024 Makeathon Group.jpg
@@ -19,7 +19,7 @@ gallery1g:
 
 ---
 
-## Date: October 25 - 27, 2024<br>
+## Date: February 9, 2025<br>
 
 # About
 

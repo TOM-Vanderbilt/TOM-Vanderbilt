@@ -1,5 +1,5 @@
 ---
-title: "2024 Makeathon"
+title: "2023 Makeathon"
 date: 2024-10-27
 excerpt: "TOM: Vanderbilt's signature event - our 7th annual Makeathon."
 header:

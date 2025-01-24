@@ -109,7 +109,7 @@ Jen is the founder of AbleVoices, an organization that teaches photography to in
 
 {% include gallery id="gallery1" %}
 
-Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae)
+Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
 
 {% include gallery id="gallery1g" %}
 
@@ -122,9 +122,10 @@ Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car acc
 
 {% include gallery id="gallery2" %}
 
+Team 2 prototyped an automatic door controller that could be controlled by Robby's Amazon Alexa in his bedroom. This project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3).
+
 {% include gallery id="gallery2g" %}
 
-[Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3)
 
 ## Team 3 - Beverly
 
@@ -134,11 +135,9 @@ Beverly had blood clots in her left hand in 2018 that led to a partial amputatio
 
 {% include gallery id="gallery3" %}
 
+Team 3 created a sliding arm rest for Beverly's right hand and finger prosthetics for Beverly's left hand, enabling her to play piano again. Team 3 also created a utensil holder that strapped to Beverly's hand. Both projects were continued into the 2025 Global Innovation Challenge. The Piano Aid documentation can be found here: [Piano Aid Documentation](https://tomglobal.org/project?id=66fe099b6b07820013993862). The Cooking Aid documentation can be found here: [Cooking Aid Documentation](https://tomglobal.org/project?id=66fe0b536b0782001399509d).
+
 {% include gallery id="gallery3g" %}
-
-[Piano Aid Documentation](https://tomglobal.org/project?id=66fe099b6b07820013993862)
-
-[Cooking Aid Documentation](https://tomglobal.org/project?id=66fe0b536b0782001399509d)
 
 
 ## Team 4 - Kenny
@@ -149,9 +148,10 @@ Kenny has neuropathy in both hands (his fingers are curled up and he can't move 
 
 {% include gallery id="gallery4" %}
 
+Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pincing motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed to that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. It's documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
+
 {% include gallery id="gallery4g" %}
 
-[Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e)
 
 ## Team 5 - Miyako
 

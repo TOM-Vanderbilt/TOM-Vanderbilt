@@ -25,8 +25,6 @@ galleryr1:
 galleryr2:
   - image_path: assets/img/2023 GBG Reveal 3.jpg
   - image_path: assets/img/2023 GBG Reveal 4.jpg
-galleryr3: 
-  - image_path: assets/img/2023 GBG Treat.jpg
 galleryr4: 
   - image_path: assets/img/2023 GBG Violet.jpg
 
@@ -36,7 +34,7 @@ galleryr4:
 
 # About
 
-This year, the executive board piloted TOM: Vanderbilt’s first Go Baby Go car. Go Baby Go is a program founded at the University of Delaware with a goal of enabling everyone to explore their world via independent mobility. There are 40+ registered Go Baby Go sites around the world. You can find more information here: [University of Delaware - Go Baby Go](https://sites.udel.edu/gobabygo/)
+This year, the executive board piloted TOM: Vanderbilt’s first Go Baby Go car! Go Baby Go is a program founded at the University of Delaware with a goal of enabling everyone to explore their world via independent mobility. There are 40+ registered Go Baby Go sites around the world. You can find more information here: [University of Delaware - Go Baby Go](https://sites.udel.edu/gobabygo/)
 
 {% include gallery id="galleryd1" %}
 
@@ -48,15 +46,15 @@ Two weeks before delivery day, we started by disassembling and rewiring the back
 
 {% include gallery id="galleryd2x" %}
 
+Then, one week later, the executive board worked on the front of the car. The gas pedal was rewired to a 3D printed “Go” button that was secured to the steering wheel. A second relay was also added to the front wiring. 
+
 {% include gallery id="galleryd2y" %}
 
-Then, one week later, the executive board worked on the front of the car. The gas pedal was rewired to a 3D printed “Go” button that was secured to the steering wheel. A second relay was also added to the front wiring. Once the electrical modifications were complete, the car was reassembled.
+Once the electrical modifications were complete, the car was reassembled. 
 
 {% include gallery id="galleryr1" %}
 
 {% include gallery id="galleryr2" %}
-
-{% include gallery id="galleryr3" %}
 
 April 16th was delivery day! Violet, our Need Knower, is a two-year old girl with Lennox-Gastaut Syndrome. This means that she experiences up to 100 seizures of all types daily. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Violet safe. These supports included a 5-point harness and lateral supports. Lastly, the car was decorated to be Moana-themed, including a custom license plate!<br><br>
 

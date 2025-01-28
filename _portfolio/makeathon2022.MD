@@ -3,8 +3,8 @@ title: "2022 Makeathon"
 date: 2022-11-6
 excerpt: "TOM: Vanderbilt's signature event - our 5th annual Makeathon."
 header:
-  image: /assets/img/2024 Makeathon Group.jpg
-  teaser: /assets/img/2024 Makeathon Group.jpg
+  image: /assets/img/2022 Makeathon Group.jpg
+  teaser: /assets/img/2022 Makeathon Group.jpg
 gallery:
   - image_path: assets/img/2024 Diermeier.jpg
   - image_path: assets/img/2024 TOM Global.jpg

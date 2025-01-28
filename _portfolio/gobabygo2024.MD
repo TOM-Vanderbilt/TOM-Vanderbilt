@@ -3,8 +3,8 @@ title: "2024 Go Baby Go"
 date: 2024-4-13
 excerpt: "TOM: Vanderbilt's 5th Go Baby Go car."
 header:
-  image: /assets/img/2024 Makeathon Group.jpg
-  teaser: /assets/img/2024 Makeathon Group.jpg
+  image: /assets/img/2024 GBG Frances at Home.jpg
+  teaser: /assets/img/2024 GBG Frances at Home.jpg
 galleryb1:
   - image_path: assets/img/2024 GBG Car 1.jpg
   - image_path: assets/img/2024 GBG Car 2.jpg

@@ -10,6 +10,8 @@ galleryb1:
   - image_path: assets/img/2024 GBG Car 2.jpg 
   - image_path: assets/img/2024 GBG Wires.jpg
 galleryb2:
+  - image_path: assets/img/2024 GBG Wires.jpg
+galleryb3:
     - image_path: assets/img/2024 GBG Pizza.jpg
 galleryr1:
   - image_path: assets/img/2024 GBG Reveal PVC.jpg
@@ -32,9 +34,11 @@ After completing 4 successful Go Baby Go cars, the executive board built their 5
 
 {% include gallery id="galleryb1" %}
 
+{% include gallery id="galleryb2" %}
+
 Two weeks before delivery day, we started by disassembling and rewiring the back of the car. This involved adding a kill switch so that the parents could immediately shut off the car, and adding a relay for electrical safety. Then, three days later, we worked on the front of the car. The gas pedal was rewired to a 3D printed “Go” button that was secured to the steering wheel. A second relay was also added to the front wiring. Once the electrical modifications were complete, the car was reassembled. Thanks to one of our partners, Vanderbilt Hillel, we got to enjoy lunch together as we worked!
 
-{% include gallery id="galleryb2" %}
+{% include gallery id="galleryb3" %}
 
 April 13th was delivery day! Frances, our Need Knower, is a two-year old girl with arteriovenous malformation. She had her first stroke a month prior, leading to a loss of speech and mobility. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Frances safe. These supports included a 5-point harness and head supports. 
 

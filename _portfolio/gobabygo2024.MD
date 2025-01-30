@@ -8,7 +8,6 @@ header:
 galleryb1:
   - image_path: assets/img/2024 GBG Car 1.jpg
   - image_path: assets/img/2024 GBG Car 2.jpg 
-  - image_path: assets/img/2024 GBG Wires.jpg
 galleryb2:
   - image_path: assets/img/2024 GBG Wires.jpg
 galleryb3:

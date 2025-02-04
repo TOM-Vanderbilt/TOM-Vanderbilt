@@ -13,77 +13,77 @@ galleryx:
 galleryy:
   - image_path: assets/img/2024 Exec.jpg
 gallery1:
-  - image_path: assets/img/2024 Team 1 Showcase.jpg
+  - image_path: assets/img/2023 Team 1 Showcase.jpg
 gallery1g:
-  - image_path: assets/img/2024 Makeathon Team 1.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 1.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 1.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 1.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 1.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 1.3.jpg
 gallery2:
-  - image_path: assets/img/2024 Team 2 Showcase.jpg
+  - image_path: assets/img/2023 Team 2 Showcase.jpg
 gallery2g:
-  - image_path: assets/img/2024 Makeathon Team 2.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 2.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 2.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 2.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 2.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 2.3.jpg
 gallery3:
-  - image_path: assets/img/2024 Team 3 Showcase.jpg
+  - image_path: assets/img/2023 Team 3 Showcase.jpg
 gallery3g:
-  - image_path: assets/img/2024 Makeathon Team 3.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 3.2.PNG
-  - image_path: assets/img/2024 Makeathon Team 3.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 3.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 3.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 3.3.jpg
 gallery4:
-  - image_path: assets/img/2024 Team 4 Showcase.jpg
+  - image_path: assets/img/2023 Team 4 Showcase.jpg
 gallery4g:
-  - image_path: assets/img/2024 Makeathon Team 4.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 4.2.JPG
-  - image_path: assets/img/2024 Makeathon Team 4.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 4.1.png
+  - image_path: assets/img/2023 Makeathon Team 4.2.JPG
+  - image_path: assets/img/2023 Makeathon Team 4.3.jpg
 gallery5:
-  - image_path: assets/img/2024 Team 5 Showcase.jpg
+  - image_path: assets/img/2023 Team 5 Showcase.jpg
 gallery5g:
-  - image_path: assets/img/2024 Makeathon Team 5.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 5.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 5.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 5.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 5.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 5.3.jpg
 gallery6:
-  - image_path: assets/img/2024 Team 6 Showcase.jpg
+  - image_path: assets/img/2023 Team 6 Showcase.jpg
 gallery6g:
-  - image_path: assets/img/2024 Makeathon Team 6.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 6.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 6.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 6.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 6.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 6.3.jpg
 gallery7:
-  - image_path: assets/img/2024 Team 7 Showcase.jpg
+  - image_path: assets/img/2023 Team 7 Showcase.jpg
 gallery7g:
-  - image_path: assets/img/2024 Makeathon Team 7.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 7.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 7.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 7.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 7.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 7.3.jpg
 gallery8:
-  - image_path: assets/img/2024 Team 8 Showcase.jpg
+  - image_path: assets/img/2023 Team 8 Showcase.jpg
 gallery8g:
-  - image_path: assets/img/2024 Makeathon Team 8.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 8.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 8.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 8.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 8.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 8.3.jpg
 gallery9:
-  - image_path: assets/img/2024 Team 9 Showcase.jpg
+  - image_path: assets/img/2023 Team 9 Showcase.jpg
 gallery9g:
-  - image_path: assets/img/2024 Makeathon Team 9.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 9.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 9.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 9.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 9.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 9.3.jpg
 gallery10:
-  - image_path: assets/img/2024 Team 10 Showcase.jpg
+  - image_path: assets/img/2023 Team 10 Showcase.jpg
 gallery10g:
-  - image_path: assets/img/2024 Makeathon Team 10.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 10.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 10.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 10.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 10.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 10.3.jpg
 gallery11:
-  - image_path: assets/img/2024 Team 11 Showcase.jpg
+  - image_path: assets/img/2023 Team 11 Showcase.jpg
 gallery11g:
-  - image_path: assets/img/2024 Makeathon Team 11.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 11.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 11.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 11.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 11.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 11.3.jpg
 gallery12:
-  - image_path: assets/img/2024 Team 12 Showcase.jpg
+  - image_path: assets/img/2023 Team 12 Showcase.jpg
 gallery12g:
-  - image_path: assets/img/2024 Makeathon Team 12.1.jpg
-  - image_path: assets/img/2024 Makeathon Team 12.2.jpg
-  - image_path: assets/img/2024 Makeathon Team 12.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 12.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 12.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 12.3.jpg
 
 ---
 

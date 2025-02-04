@@ -6,12 +6,12 @@ header:
   image: /assets/img/2023 Makeathon Group.jpg
   teaser: /assets/img/2023 Makeathon Group.jpg
 gallery:
-  - image_path: assets/img/2024 Diermeier.jpg
-  - image_path: assets/img/2024 TOM Global.jpg
+  - image_path: assets/img/2023 Diermeier.jpg
+  - image_path: assets/img/2023 Galloway.jpg
 galleryx:
-  - image_path: assets/img/2024 Showcase Overview.jpg
+  - image_path: assets/img/2023 Exec Hug.jpg
 galleryy:
-  - image_path: assets/img/2024 Exec.jpg
+  - image_path: assets/img/2023 Exec.jpg
 gallery1:
   - image_path: assets/img/2023 Team 1 Showcase.jpg
 gallery1g:

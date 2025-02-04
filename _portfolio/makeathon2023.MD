@@ -273,3 +273,9 @@ xx
 
 ### GBG 3 - Luna
 
+xx
+
+
+
+{% include gallery id="galleryy" %}
+

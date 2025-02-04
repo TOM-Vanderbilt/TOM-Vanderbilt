@@ -52,7 +52,7 @@ gallery7:
   - image_path: assets/img/2023 Team 7 Showcase.jpg
 gallery7g:
   - image_path: assets/img/2023 Makeathon Team 7.1.jpg
-  - image_path: assets/img/2023 Makeathon Team 7.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 7.2.png
   - image_path: assets/img/2023 Makeathon Team 7.3.jpg
 gallery8:
   - image_path: assets/img/2023 Team 8 Showcase.jpg

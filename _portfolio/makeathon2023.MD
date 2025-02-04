@@ -34,7 +34,7 @@ gallery4:
   - image_path: assets/img/2023 Team 4 Showcase.jpg
 gallery4g:
   - image_path: assets/img/2023 Makeathon Team 4.1.png
-  - image_path: assets/img/2023 Makeathon Team 4.2.JPG
+  - image_path: assets/img/2023 Makeathon Team 4.2.jpg
   - image_path: assets/img/2023 Makeathon Team 4.3.jpg
 gallery5:
   - image_path: assets/img/2023 Team 5 Showcase.jpg

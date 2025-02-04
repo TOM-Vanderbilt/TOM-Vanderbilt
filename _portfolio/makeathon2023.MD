@@ -277,17 +277,29 @@ Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of ho
 
 xx
 
+{% include gallery id="gallery13" %}
+
+xx
+
+{% include gallery id="gallery13g" %}
+
 ### GBG 1 - Matthew
 
 xx
+
+{% include gallery id="gallery13a" %}
 
 ### GBG 2 - Maxton
 
 xx
 
+{% include gallery id="gallery13m" %}
+
 ### GBG 3 - Luna
 
 xx
+
+{% include gallery id="gallery13l" %}
 
 
 

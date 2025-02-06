@@ -119,11 +119,13 @@ The weekend culminated in a showcase where each team was able to present about t
 
 **Team Lead: Charlotte Lichtenfeld**<br>
 
-Jen is the founder of AbleVoices, an organization that teaches photography to individuals with disabilities as a means of self-expression. Her organization uses traditional point-and-shoot cameras, but not all of her participants have the fine motor skills needed to press the button. Jen needed a new method for those with limited fine motor skills to activate the camera's button.
+Liam is a 7-year-old with Kleefstra Syndrome, which causes communication difficulties and hypotonia. He is not have a way to feed himself independently. Liam needed adapted silverware to hold his food. Additionally, his family needed a portable diaper-changing space that allows for privacy on long road trips.
+
+This team worked tirelessly to create a portable diaper-changing space that could attach to his family’s car to allow for privacy on long road trips. They also adapted silverware, ensuring it securely holds food, even when turned sideways, offering Liam greater independence during mealtime.
 
 {% include gallery id="gallery1" %}
 
-Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
+Team 1 adapted silverware such that it would securely hold food even when turned sideways. They also made a magnetic privacy drape (Buceee's themed!) that could attach to his family's car, allowing for the trunk to be used as a private changing space.
 
 {% include gallery id="gallery1g" %}
 
@@ -132,11 +134,11 @@ Team 1 created two different camera adaptations. Once adaptation featured a larg
 
 **Team Lead: Kaiser Williams**<br>
 
-Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
+Robby, a Vandy alum, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and uses a bluetooth gyroscope headmouse to help him interface with his computer. His current head mouse was causing pressure injuries to the bridge of his nose due to the weight and fit. Robby needed a more comportable and durable head mouse that enabled him to left and right click.
 
 {% include gallery id="gallery2" %}
 
-Team 2 prototyped an automatic door controller that could be controlled by Robby's Amazon Alexa in his bedroom. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3).
+Team 2 designed a durable and comfortable computer/phone navigation tool that Robby can have for his work and daily use of technology. This device included a mouth switch mounted to the headband, allowing him to use left and right clicks. The head mouse documentation can be found here: [Gyroscope Integrated Computer Navigation Tool Documentation](https://tomglobal.org/project?id=651058dded09cf6fe1bd3142).
 
 {% include gallery id="gallery2g" %}
 
@@ -145,11 +147,11 @@ Team 2 prototyped an automatic door controller that could be controlled by Robby
 
 **Team Lead: Abbie Wollheim**<br>
 
-Beverly had blood clots in her left hand in 2018 that led to a partial amputation. She then had a stroke on her right side while recovering from the amputation, limiting the mobility of her right arm/hand. She loved playing the piano and cooking, but has had trouble doing those things since the incident. Beverly wanted something to help her play piano again, and something to help her hold and use kitchen utensils while cooking.
+Jameson, a returner from the 2022 Makeathon, is a 7-year-old elementary school student with pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS). He has a service dog, Sushi, who helps keep him safe. However, Jameson often elopes, dropping his dog's leash. Jameson needed a way to stay incentivised to stay with Sushi.
 
 {% include gallery id="gallery3" %}
 
-Team 3 created a sliding arm rest for Beverly's right hand and finger prosthetics for Beverly's left hand, enabling her to play piano again. Team 3 also created a utensil holder that strapped to Beverly's hand. Both projects were continued into the 2025 Global Innovation Challenge. The Piano Aid documentation can be found here: [Piano Aid Documentation](https://tomglobal.org/project?id=66fe099b6b07820013993862). The Cooking Aid documentation can be found here: [Cooking Aid Documentation](https://tomglobal.org/project?id=66fe0b536b0782001399509d).
+Team 3 created a new vest for Sushi. The vest included an inproved handle grip for Jameson, as well as velcro patches that Jameson could add his favorite characters to. Team 3 also prototyped a light-up feature that would flash green (Jameson's favorite color) when he held onto the leash. The service dog vest documentation can be found here: [Harness Helper Documentation](https://tomglobal.org/project?id=6362ead68694e636371859d7).
 
 {% include gallery id="gallery3g" %}
 

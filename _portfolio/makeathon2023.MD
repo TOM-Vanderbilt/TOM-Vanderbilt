@@ -249,11 +249,11 @@ Team 10 adapted a cane and a walker to be more fashionable, including gold shimm
 
 **Team Lead: Ryder Li**<br>
 
-Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who had cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
+Hugh, a returner from the 2022 Makeathon, is a young boy with clubbed hands. He has trouble grabbing and holding onto things. Hugh needed a comfortable, adatable grabber that would allow him to pick up various objects. Hugh also needed a way to hold down paper when he is writing and drawing.
 
 {% include gallery id="gallery11" %}
 
-Team 11 created a rolling sit-to-stand board with foot plates patients could strap their feet in. These foot plates could be adjusted laterally to accommodate different stances. The project documentation can be found here: [Sit-to-Stand Board Documentation](https://tomglobal.org/project?id=66fdd3ed6b0782001399237f).
+Team 11 created a grabber Hugh could trigger with his hands to allow Hugh to grab different items. They also created a a magnetic writing pad so that Hugh could write freely without worrying about holding down the paper.
 
 {% include gallery id="gallery11g" %}
 

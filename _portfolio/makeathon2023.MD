@@ -197,11 +197,11 @@ Team 6 created a height-adjustable music station that Susanna can play with inde
 
 **Team Lead: Erica Guelfi**<br>
 
-Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of the car, the ramp is narrow and the wheenchair often falls off, leavings is parents to bare the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for his art. He also needed an adaptive Halloween costume for his school's Halloween dance!
+Michelle is a Vanderbilt graduate student who is an ambulatory wheelchair user. She recently has needed to start using a motorized wheelchair, but is not strong enough to lift the 50 pound wheelchair into the trunk of her car. Current solutions are only designed for larger vehicles (vans). Michelle needed a light-weight, sturdy, and collapsible ramp that will allow Michelle to travel with her new wheelchair in her sedan. 
 
 {% include gallery id="gallery7" %}
 
-Team 7 created a folding table that could be clamped onto Deklan's wheelchair, based on tables in a classroom. They also created removable sidings that could be attached to his car's wheelchair ramps. Lastly, they crafted him a Dragon Ball Z Son Goku light-up Halloween costume. The folding table project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7). Additionally, the wheelchair ramp sidings documentation can be found here: [Wheelchair Ramp Sidings Documentation](https://tomglobal.org/project?id=66fdd28d6b0782001398fbfa).
+Team 7 created a folding wheelchair ramp that attaches to the back of Michelle's car to allow her to push her chair into the trunk independently once she disengages the motor. The ramp is strong enough to support the weight of Michelle's wheelchair, while also being small enough to fit in the trunk alongside her wheelchair.
 
 {% include gallery id="gallery7g" %}
 
@@ -210,11 +210,11 @@ Team 7 created a folding table that could be clamped onto Deklan's wheelchair, b
 
 **Team Leads: Hadley Rossignol & Morgan Young**<br>
 
-Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who are severly weak or paralyzed. She uses a standing frame in the clinic for exercises, but some patients have increased muscle tone in their feet which prevents them from putting their feet flat on the foot plates. She currently uses a mix of belts/straps/towels under a patient's foot, but it's not ideal. Additionally, it is hard for patients to continue exercises at home if they can only work on a squishy and unsupportive mattress. Elise needed a set of wedges to put in the standing frame's foot plates to bias the patients' feet towards eversion. She also needed a lightweight surface that patients could place on their bed to have a firmer surface. 
+Jackson is a 19-year-old who was in a car accident in 2021, resulting in a traumatic brain injury. He has double vision that his glasses cannot completely correct, leading to uneven head symmetry. Jackson is able to practice head leveling during his physical and occupational therapy sessions, but needed a way to practice head leveling while at home. 
 
 {% include gallery id="gallery8" %}
 
-Team 8 created a set of foot plate inserts for both feet at varying angles, giving Elise multiple options for biasing her patients' feet towards eversion. They also created a light weight yet sturdy folding bed topper that gives patients a more firm surface to complete their physical therapy exercises on at home. The foot wedges documentation can be found here: [Foot Eversion Wedges Documentation](https://tomglobal.org/project?id=6710166c6b078200139ba876). The exercise mat documentation can be found here: [Exercise Mat Documentation](https://tomglobal.org/project?id=671019216b078200139bd0c5).
+Team 8 created head-mounted laser that clips onto glasses and projects a cross onto a wall. When paired with an external cross projector, Jackson is able to adjust his head tilt so that the two crosses align. This device was recreated and provided to the Pi Beta Phi Rehabilitation center, allowing other neurologically impaired patients the opportunity to use the device in therapy sessions. The team also prototyped an app that utilized the accelerometers in AirPods to visually display the user's current head tilt. The app could be running in the background, allowing for notifications to be sent when the user's head was greater than 10 degrees off symmetry. The glasses clip-on documentation can be found here: [Head Tilt Sensor Documentation](https://tomglobal.org/project?id=65106472ed09cf6fe1bd55e4).
 
 {% include gallery id="gallery8g" %}
 
@@ -223,11 +223,11 @@ Team 8 created a set of foot plate inserts for both feet at varying angles, givi
 
 **Team Lead: Kaitlyn Hannon**<br>
 
-Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyperextend and injure her joints. She travels often for work, and has difficulty pushing and lifting her suitcase. When at home, she makes frequent trips to the grocery store as she can only carry one bag up her her apartment at a time. Nassanah needed wrist supports for rolling and lifting her luggage, and something to make carring groceries upstairs easier.
+Kate, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who have difficulty lifting and advancing their leg during gait training post-stroke. This lead to the shoe of the weak leg dragging on the floor, creating a fall risk. Kate currently uses an empty tissue box cut in half to decrease friction on a shoe's toe box, but it is not durable. Kate needed a durable, resuable solution that could work with various shoe sized to decrease friction between a patient's foot and the floor. 
 
 {% include gallery id="gallery9" %}
 
-Team 9 created an insulated grocery vest, placing a majority of the weight at Nassanah's core, enabling Nassanah to take fewer trips between her car and her apartment. They also created custom wrist braces that were more rigid than her daily-use braces. Lastly, they created a waist-driven suitcase pusher so Nassanah could navigate airports hands-free. The grocery vest documentation can be found here: [Grocery Vest Documentation](https://tomglobal.org/project?id=671046846b078200139bf5c0). The wrist brace documentation can be found here: [Travel Braces Documentation](https://tomglobal.org/project?id=66fdd2bc6b07820013990bf8). The suitcase pusher documentation can be found here: [Suitcase Pusher Documentation](https://tomglobal.org/project?id=671c137f6b078200139d33d1).
+Team 9 created a 3D printed "sled" that the patient could velcro strap to their foot. The 3D printed material reduces friction between a patient's shoe and the floor. The design includes a toe rocker shape, which helps patients to feel more confident applying weight to their non-dominant leg. The design also includes a detachable elastic strap that can pull the patient's toe upwards, reducing the fall risk associated with foot drop. The foot drop documentation can be found here: [Shoe Drop Documentation](https://tomglobal.org/project?id=650fd5b6ed09cf6fe1bd1b98).
 
 {% include gallery id="gallery9g" %}
 

@@ -236,11 +236,11 @@ Team 9 created a 3D printed "sled" that the patient could velcro strap to their 
 
 **Team Lead: Bryne Knowles**<br>
  
-Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are age-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair that has various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
+Mary Cayten has Elhers-Danlos Syndrome, a condition that affects her connective tissue and requires her to use mobility aids occasionally. She currently has a rollator and a cane, but neither are practical for her work environment. Mary Cayten wanted a collapsible cane that is lightweight, has interchangeable heads, and stands up on its own. She also needed a foldable walker. 
 
 {% include gallery id="gallery10" %}
 
-Team 10 created an adjustable laser-cut toddler chair that had attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
+Team 10 adapted a cane and a walker to be more fashionable, including gold shimmer spray paint and an upholstered walker seat. The cane was able to stand up on its own, collapse, and have interchangeable heads. The walker was foldable, and also featured a cup holder!
 
 {% include gallery id="gallery10g" %}
 

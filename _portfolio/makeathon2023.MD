@@ -121,8 +121,6 @@ The weekend culminated in a showcase where each team was able to present about t
 
 Liam is a 7-year-old with Kleefstra Syndrome, which causes communication difficulties and hypotonia. He is not have a way to feed himself independently. Liam needed adapted silverware to hold his food. Additionally, his family needed a portable diaper-changing space that allows for privacy on long road trips.
 
-This team worked tirelessly to create a portable diaper-changing space that could attach to his family’s car to allow for privacy on long road trips. They also adapted silverware, ensuring it securely holds food, even when turned sideways, offering Liam greater independence during mealtime.
-
 {% include gallery id="gallery1" %}
 
 Team 1 adapted silverware such that it would securely hold food even when turned sideways. They also made a magnetic privacy drape (Buceee's themed!) that could attach to his family's car, allowing for the trunk to be used as a private changing space.
@@ -160,11 +158,11 @@ Team 3 created a new vest for Sushi. The vest included an inproved handle grip f
 
 **Team Lead: Jillian Hornby**<br>
 
-Kenny has neuropathy in both hands (his fingers are curled up and he can't move them). He has trouble gripping things, and lost his job because he could no longer write with a pencil. Kenny needed a way to help him grasp and manipulate a pencil/pen so that he could write independently.
+Oscar is an avid road cycler who had a hemorrhagic stroke that caused the right side of his body to lose some functionality. His right leg has regained a lot of mobility, but his lower right arm is still unable to move. Oscar needed a way to change the gears on this bike without the use of his right hand.
 
 {% include gallery id="gallery4" %}
 
-Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pincing motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed to that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
+Team 4 adapted Oscar's bike to move the gear changer to the left side of the bike. This allows Oscar to change the gears on his bike using his left hand.
 
 {% include gallery id="gallery4g" %}
 
@@ -173,11 +171,11 @@ Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write
 
 **Team Lead: Abby Johnson**<br>
 
-Miyako is an 8-year-old with an unknown disability (similar to cerebral palsy) and scoliosis that is getting worse. Her head is usually craned up, making it difficult to look at things in her hands. Miyako wanted a mount for her Nintendo Switch so that she could easily see it while playing. She also wanted a way to put on socks independently as the sock aids currently on the market are only sized for adults.
+Helen is a 7-year-old with epilepsy and cerebral palsy. She has seizures on a daily basis. Helen has a swatting station, but it is neither strong nor portable for when she is in her wheelchair or bed. Helen needed a way to play with toys and music independently that would allow her to direct her movements towards the toys. 
 
 {% include gallery id="gallery5" %}
 
-Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch to her wheelchair. They also created a clamp for her car seat so that she could play in the car. Additionally, Team 5  created a Miyako-sized sock aid, allowing her to put on socks independently. The Nintendo Switch mount documentation can be found here: [Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3).
+Team 5 created an adjustable and padded swatting station that could be attached to Helen's wheelchair or medical bed. This device allows Helen to play with her favorite toys independently and safely. 
 
 {% include gallery id="gallery5g" %}
 
@@ -186,11 +184,11 @@ Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch to h
 
 **Team Lead: Elizabeth Walther**<br>
 
-Liam, a returner from the 2023 Makeathon, is an 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that stop when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
+Susanna is a 5-year-old with an undiagnosed condition. She is non-verbal, in a wheelchair, and struggles with seizure-like activity. Susanna loves bells and chimes, but the only accessible chime structure is at a playground near her house. Susanna needed a way to play with musical toys in her different seating positions. 
 
 {% include gallery id="gallery6" %}
 
-Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair that could be flattened mounted to a lower base. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adaptated Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
+Team 6 created a height-adjustable music station that Susanna can play with independently. It includes recorded music buttons, a rain stick spinner, desk bells, and a magic-touch drum set that she could play with in her wheelchair. It also included hanging bells she could swat when laying on the ground. This project was continued into the 2024 Global Innovation Challenge. Its documentation can be found here: [Adjustable Music Station Documentation](https://tomglobal.org/project?id=650f2d0fed09cf6fe1bcd530).
 
 {% include gallery id="gallery6g" %}
 

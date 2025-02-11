@@ -85,18 +85,24 @@ gallery12g:
   - image_path: assets/img/2023 Makeathon Team 12.2.jpg
   - image_path: assets/img/2023 Makeathon Team 12.3.jpg
 gallery13:
+  - image_path: assets/img/2023 Team 12 Showcase.jpg
+gallery13g:
+  - image_path: assets/img/2023 Makeathon Team 12.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 12.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 12.3.jpg
+gallery14:
   - image_path: assets/img/2023 Makeathon Team 13.1.jpg
   - image_path: assets/img/2023 Makeathon Team 13.2.jpg
   - image_path: assets/img/2023 Makeathon Team 13.3.jpg
-gallery13g:
+gallery14g:
   - image_path: assets/img/2023 Makeathon Team 13.4.jpg
   - image_path: assets/img/2023 Makeathon Team 13.5.jpg
   - image_path: assets/img/2023 Makeathon Team 13.6.jpg
-gallery13a:
+gallery14a:
   - image_path: assets/img/2023 Team 13.1 Showcase.jpg
-gallery13m:
+gallery14m:
   - image_path: assets/img/2023 Team 13.2 Showcase.jpg
-gallery13l:
+gallery14l:
   - image_path: assets/img/2023 Team 13.3 Showcase.jpg
 
 ---
@@ -271,35 +277,48 @@ Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of ho
 {% include gallery id="gallery12g" %}
 
 
-## Team 13 - Go Baby Go
+## Team 13 - Alicia??
+
+**Team Lead: Blake Wolf**<br>
+
+Hugh is a young boy with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
+
+{% include gallery id="gallery13" %}
+
+Team 13 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here:[Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
+
+{% include gallery id="gallery13g" %}
+
+
+## Team 14 - Go Baby Go
 
 **Team Leads: Bryne Knowles & Elizabeth Walther**<br>
 
 xx
 
-{% include gallery id="gallery13" %}
+{% include gallery id="gallery14" %}
 
 xx
 
-{% include gallery id="gallery13g" %}
+{% include gallery id="gallery14g" %}
 
 ### GBG 1 - Matthew
 
 xx
 
-{% include gallery id="gallery13a" %}
+{% include gallery id="gallery14a" %}
 
 ### GBG 2 - Maxton
 
 xx
 
-{% include gallery id="gallery13m" %}
+{% include gallery id="gallery14m" %}
 
 ### GBG 3 - Luna
 
 xx
 
-{% include gallery id="gallery13l" %}
+{% include gallery id="gallery14l" %}
 
 
 

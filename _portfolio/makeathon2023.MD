@@ -85,11 +85,11 @@ gallery12g:
   - image_path: assets/img/2023 Makeathon Team 12.2.jpg
   - image_path: assets/img/2023 Makeathon Team 12.3.jpg
 gallery13:
-  - image_path: assets/img/2023 Team 12 Showcase.jpg
+  - image_path: assets/img/2023 Team 14 Showcase.jpg
 gallery13g:
-  - image_path: assets/img/2023 Makeathon Team 12.1.jpg
-  - image_path: assets/img/2023 Makeathon Team 12.2.jpg
-  - image_path: assets/img/2023 Makeathon Team 12.3.jpg
+  - image_path: assets/img/2023 Makeathon Team 14.1.jpg
+  - image_path: assets/img/2023 Makeathon Team 14.2.jpg
+  - image_path: assets/img/2023 Makeathon Team 14.3.jpg
 gallery14:
   - image_path: assets/img/2023 Makeathon Team 13.1.jpg
   - image_path: assets/img/2023 Makeathon Team 13.2.jpg

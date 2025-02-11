@@ -268,11 +268,11 @@ Team 11 created a grabber Hugh could trigger with his hands to allow Hugh to gra
 
 **Team Lead: Nicole Hill**<br>
 
-Hugh is a young boy with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
+Mathias is a 14-year-old boy. Due to strep that turned septic, he had all four of his limbs amputated. Mathias is a big gamer, but no longer has the ability to use traditional controllers because he has no fingers. He has tried Xbox's Adaptive Controller, but it is not sensitive enough. Mathias needed an adapted gaming setup that allows him to enjoy his favorite games again. Additionally, Mathias lost a lot of independence due to his amputations. He needed a way to eat, write, and use his phone without assistance.
 
 {% include gallery id="gallery12" %}
 
-Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here:[Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
+Team 12 modified a Meta Quest 3?? so that Mathias could hold and access the buttons on the Oculus controllers. They also created a custom set-up consisting of 3D printed buttons and joysticks that Mathias could plug into his gaming computer to play Steam games. To address Mathias's independence desires, Team 12 created a 3D printed, flexible limb attachment that enabled different attachments to be clicked in. They made one attachment to hold silverware, one attachment to hold pencils/pens/markers, and one stylus attachment. With a "key" clamped to a table, Mathias is able to switch between attachments independently. Both the gaming set-up and the limb attachment device were continued into the 2025 Global Innovation Challenge. The gaming set-up documentation can be found here:[Modular Accessible Gaming Controller Documentation](https://tomglobal.org/project?id=65e112d4c360e6292908a087). The limb attachment documentation can be found here:[Limb Attachment with Interchangeable Implements Documentation](https://tomglobal.org/project?id=65e4e33bc360e62929090fa4).
 
 {% include gallery id="gallery12g" %}
 

@@ -294,11 +294,11 @@ Team 13 3D printed a handheld tool that uses a slider mechanism to lasso a fishi
 
 **Team Leads: Bryne Knowles & Elizabeth Walther**<br>
 
-xx
+Go Baby Go is a nationally recognized program where kiddy cars are adapted to be disability-friendly. Oftentimes, children with mobility difficulties will not have access to powered mobility until they are 14 due to insurance obstacles. Go Baby Go allows kids to explore independence and build confidence at a much younger age.
 
 {% include gallery id="gallery14" %}
 
-xx
+To adapt the cars, Team 14 rewired the gas pedal to a large 3D printed "Go" button attached to the steering wheel. This allows the kids to more easily start and stop the car. This team also added a kill switch to the back of the car, enabling the parents to shut off the car at any point. Relays were added to both the front and back of the car for electrical safety. Each car also had physical modifications, customized to each kid's needs. Over the course of the weekend, Team 14 successfully built cars for three different kids! The documentation, updated in Spring 2024, can be found here: [Go Baby Go Documentation](https://tomglobal.org/project?id=65dce93dc360e629290718f4). Read more about each car's specific modifications below!
 
 {% include gallery id="gallery14g" %}
 

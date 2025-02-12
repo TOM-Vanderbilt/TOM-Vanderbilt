@@ -324,9 +324,7 @@ Luna is a 2.5-year-old with quad cerebral palsy and cortical vision impairment. 
 
 {% include gallery id="gallery14l" %}
 
-The physical modifications for Matthew's car included a full chest harness, pool noodle covered PVC lateral and pommel supports, and a pool noodle covered PVC back and head support. Luna loves The Little Mermaid, so her car included a custom Ariel license plate and ocean decals!
-
-
+The physical modifications for Luna's car included a full chest harness, pool noodle covered PVC lateral and pommel supports, and a pool noodle covered PVC back and head support. Luna loves The Little Mermaid, so her car included a custom Ariel license plate and ocean decals!
 
 
 {% include gallery id="galleryy" %}

@@ -94,23 +94,57 @@ Marin Schiffman - Need Knower Recruitment Chair<br>
 Mayaank Pillai - Need Knower Recruitment Chair<br>
 Abbie Wollheim - PR Chair<br>
 
-### 2021 Executive Board
+### 2021 Fall Executive Board
 Lauren Grohowski - President<br>
-??<br>
+Addy Novak - Logistics Apprentice<br>
+Jacob Ioffe - Finance Chair<br>
+Rebecca Pan - Finance Apprentice<br>
+Lina Drechsler - Maker Recruitment Chair<br>
+Myles Nowak - Maker Recruitment Apprentice<br>
+Gabe Leary - Need Knower Recruitment Chair<br>
+Mayaank Pillai - Need Knower Recruitment Apprentice<br>
+Clare Gippo - PR Chair<br>
+Claire McQuillen - PR Apprentice<br>
+Asher Sabah - Community Connections Chair<br>
+Sara Gregg - Community Connections Apprentice<br>
 
+### 2020 - 2021 Executive Board
+Hannah Schrager - President<br>
+Lauren Grohowski - Logistics Apprentice<br>
+Liraz Stilman - Finance Chair<br>
+Jacob Ioffe - Finance Apprentice<br>
+Carson Fallon - Maker Recruitment Chair<br>
+Lina Drechsler - Maker Recruitment Apprentice<br>
+Peter Novak - Need Knower Recruitment Chair<br>
+Gabe Leary - Need Knower Recruitment Apprentice<br>
+Marissa Schwarz - PR Chair<br>
+Clare Gippo - PR Apprentice<br>
+Alexia Anleu - Community Connections Chair<br>
+Asher Sabah - Community Connections Apprentice<br>
 
-### 2020 Executive Board
-Blake Hannon - President, Need Knower Recruitment Chair<br>
+### 2019 - 2020 Executive Board
+Blake Hannon - President<br>
 Evan Segaul - Logistics Chair<br>
-Asaf Roth - ??<br>
+Hannah Schrager - Logistics Apprentice<br>
+Liraz Stilman - Finance Apprentice
+Lyndon Vickrey - Maker Recruitment Chair<br>
+Carson Fallon - Maker Recruitment Apprentice<br>
+Harrison Smith - Need Knower Recruitment Chair<br>
+Peter Novak - Need Knower Recruitment Apprentice<br>
 Juyoung Song - PR Chair<br>
-Ishita Malhotra - Community Connections Chair<br>
+Marissa Schwarz - PR Apprentice<br>
+Alexia Anleu - Community Connections Apprentice<br>
 
-Carson Fallon<br>
-David Ziemnicki<br>
-Evan Segaul<br>
-Hannah Schrager<br>
-Peter Novak<br>
+### 2018 - 2019 Executive Board
+Bradley Schwartz - President<br>
+Shiv Seth - Logistics Chair<br>
+Blake Hannon - Fundraising Apprentice<br>
+Eli Zawatsky - Maker Recruitment Chair<br>
+Rachel Lichtenfeld - Need Knower Recruitment Chair<br>
+Marisa Welsh - PR Chair<br>
+Juyoung Song - PR Apprentice<br>
+Alex Rice-Slothower - Community Connections Chair<br>
+Ishita Malhotra - Community Connections Apprentice<br>
 
 ### 2017 - 2019 Executive Board
 Bradley Schwartz - President, Finance Chair, Fundraising Chair<br>

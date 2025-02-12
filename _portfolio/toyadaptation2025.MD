@@ -44,13 +44,13 @@ gallery10:
 
 # About
 
-This year, we hosted our second annual Toy Adaptation event! We hosted both an advanced and a beginner adaptation session, and had over 50 students come to switch-adapt toys. They learned skills in soldering, circuit boards, and sewing as they opened each toy and rewired the internal switches to larger 3D printed external switches.
+This year, we hosted our second annual Toy Adaptation event! We hosted both an advanced and a beginner adaptation session, and had over 50 students come to switch-adapt toys. They learned skills in soldering, circuit boards, and sewing as they opened each toy and rewired the internal switches to larger, 3D-printed external switches.
 
 {% include gallery id="gallery3" %}
 
-By the end of the event, around 50 toys (15 plastic and 35 plush) were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the Susan Gray School on Vanderbilt's campus. Here, children with disabilities and typically developing children play and learn alongside one another.<br><br>
+By the end of the event, 15 plastic and 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the Susan Gray School on Vanderbilt's campus. Here, children with disabilities and typically developing children play and learn alongside one another.<br><br>
 
-Learn more about the different toy adaptation sessions below!
+Learn more about our different toy adaptation sessions below!
 
 
 ## Advanced Session

@@ -37,6 +37,11 @@ As of January 2025...
 * [Breaking Ground 101 - Tikkun Olam Makers: Vanderbilt, January 2018](https://www.tn.gov/cdd/engage-with-us/breaking-ground/breaking-ground-101---be-heard--be-counted/breaking-ground-101---tikkun-olam-makers--vanderbilt-.html)
 * [Vanderbilt's First Ever TOM Makeathon, December 2017](https://www.vanderbilt.edu/thewondry/vanderbilts-first-ever-tom-makeathon/)
 
+## Our Partners
+* The Wond'ry - (https://www.vanderbilt.edu/the-wondry/)
+* Vanderbilt Hillel - (https://www.vuhillel.com/)
+* Digital Fabrication Lab - (https://www.digitalfabricationlab.com/index.html)
+
 ## Donate
 Interested in helping support TOM: Vandebilt's mission? Donate here!<br>
 [Link to Donate](https://secure.lglforms.com/form_engine/s/JpGFs3nCkxNcpHTkwJ23vQ?t=1568101561)

@@ -304,22 +304,28 @@ To adapt the cars, Team 14 rewired the gas pedal to a large 3D printed "Go" butt
 
 ### GBG 1 - Matthew
 
-xx
+Matthew is a 3-year-old with Down syndrome and right-sided hemiplegia cerebral palsy. His right side and left side movements do not match. He is really good at sitting and scooting, but cannot yet walk. Matthew wanted to explore his backyard independently without being pulled in a wagon.<br><br>
+
+The physical modifications for Matthew's car included a 5-point harness, as well as a pool noodle covered PVC back and head support. Matthew loves Sesame Street, so his car included a custom Sesame Street license plate and an Elmo sticker!
 
 {% include gallery id="gallery14a" %}
 
 ### GBG 2 - Maxton
 
-xx
+Maxton is a 9-year-old with CHARGE syndrome and cerebral palsy. He has hearing loss, complex vision problems, and cannot walk on his own due to struggles with balance and knowing where his body is in space. Maxton wanted to access his house more independently.<br><br>
+
+The physical modifications for Matthew's car included a 5-point harness, as well as a pool noodle covered PVC back and head support. Maxton loves Mickey Mouse, so his car included a custom Mickey Mouse license plate and Mickey Mouse decals!
 
 {% include gallery id="gallery14m" %}
 
 ### GBG 3 - Luna
 
-xx
+Luna is a 2.5-year-old with quad cerebral palsy and cortical vision impairment. She has a cervical collar to help with her head control. Luna wanted to improve her understanding of cause and effect and gain more independently mobility in her house.<br><br>
+
+The physical modifications for Matthew's car included a full chest harness, pool noodle covered PVC lateral and pommel supports, and a pool noodle covered PVC back and head support. Luna loves The Little Mermaid, so her car included a custom Ariel license plate and ocean decals!
+
 
 {% include gallery id="gallery14l" %}
-
 
 
 {% include gallery id="galleryy" %}

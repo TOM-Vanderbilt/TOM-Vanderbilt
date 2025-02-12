@@ -31,9 +31,7 @@ xx
 
 {% include gallery id="galleryx" %}
 
-# Projects
-
-## Team 1 - xx
+## Advanced Session
 
 **Team Lead: Sophia Hooley**<br>
 
@@ -44,4 +42,12 @@ xx
 xx
 
 {% include gallery id="gallery1g" %}
+
+## Beginner Session
+
+xx
+
+### Project Documentation
+
+xx
 

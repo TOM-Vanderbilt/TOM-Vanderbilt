@@ -3,8 +3,8 @@ title: "2025 Toy Adaptation"
 date: 2025-2-9
 excerpt: "TOM: Vanderbilt's 2nd annual Toy Adaptation event."
 header:
-  image: /assets/img/2025 TA Sign.jpg
-  teaser: /assets/img/2025 TA BToys.jpg
+  image: /assets/img/2025 TA BToys.jpg
+  teaser: /assets/img/2025 TA Sign.jpg
 gallery:
   - image_path: assets/img/2025 TA Exec
 gallery1:

@@ -55,7 +55,7 @@ Learn more about our different toy adaptation sessions below!
 
 ## Advanced Session
 
-Our first session, the advanced session, focused on adapting plastic toys. These toys are great for hospitals and schools because they can be wiped down/sanitized. 
+Our first session, the advanced session, focused on adapting plastic toys. These toys are great for hospitals and schools because they can be wiped down/sanitized. They are also ideal for older children who have fewer accessible toy options.
 
 {% include gallery id="gallery4" %}
 
@@ -74,24 +74,31 @@ By the end of the advanced session, 15 plastic toys were switch-adapted. Among t
 
 ## Beginner Session
 
-xx
-
+Our second session , the beginner session, focused on adapting interactive plush toys. These toys are great for individual children/families, and are especially good for younger children.
 
 {% include gallery id="gallery7" %}
+
+Makers were given step-by-step instructions for adapting the plush toys. They started by seam ripping open each of the toys, snipping the wires leading to the toy's current button, and resoldering them to an audio cable.
 
 {% include gallery id="gallery8" %}
 
 {% include gallery id="gallery9" %}
-xx
+
+With the audio cables ziptied and hot glued in place for strain relief, the toys were sewed back up.
+
 {% include gallery id="gallery2" %}
 
+Lastly, Makers put together the accessible external buttons. The buttons used for the advanced toys were the same buttons used for the beginner toys. 
 
 {% include gallery id="gallery10" %}
 
+By the end of the advanced session, 35 plush toys were switch-adapted. These toys lit up, played music, and repeated voices. 
 
 ## Project Documentation
 
-xx
+The plastic toy documentation, created for the RC car, can be found here: []()<br>
+The plush toy documentation, created for the 2024 Toy Adaptation event, can be found here: [Switch-Adapted Sloth Documentation](https://tomglobal.org/project?id=65c53714f89bc4648f7d7c38)<br>
+The accessible button documentation, created by Makers Making Change, can be found here: [Interact Switch Documentation](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)
 
 {% include gallery %}
 

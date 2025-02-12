@@ -38,9 +38,9 @@ As of January 2025...
 * [Vanderbilt's First Ever TOM Makeathon, December 2017](https://www.vanderbilt.edu/thewondry/vanderbilts-first-ever-tom-makeathon/)
 
 ## Our Partners
-* The Wond'ry - (https://www.vanderbilt.edu/the-wondry/)
-* Vanderbilt Hillel - (https://www.vuhillel.com/)
-* Digital Fabrication Lab - (https://www.digitalfabricationlab.com/index.html)
+* The Wond'ry: [https://www.vanderbilt.edu/the-wondry/](https://www.vanderbilt.edu/the-wondry/)
+* Vanderbilt Hillel: [https://www.vuhillel.com/](https://www.vuhillel.com/)
+* Digital Fabrication Lab: [https://www.digitalfabricationlab.com/index.html](https://www.digitalfabricationlab.com/index.html)
 
 ## Donate
 Interested in helping support TOM: Vandebilt's mission? Donate here!<br>

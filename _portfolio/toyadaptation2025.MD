@@ -55,18 +55,21 @@ Learn more about our different toy adaptation sessions below!
 
 ## Advanced Session
 
+Our first session, the advanced session, focused on adapting plastic toys. These toys are great for hospitals and schools because they can be wiped down/sanitized. 
+
 {% include gallery id="gallery4" %}
 
+Makers started by testing the buttons on each toy and determining which ones they wanted to adapt. They then opened up the toys, drilled holes for the audio cables, and resoldered the wires in the toy to the audio cables. Some of the toys required modifying the circuit board to ensure the toys were accessible.
+
 {% include gallery id="gallery1" %}
+
+Once the toy's buttons were adapted, Makers put together the accessible external buttons. This year, the buttons were Vandy themed and utilized a limit switch on the inside.
 
 {% include gallery id="gallery5" %}
 
 {% include gallery id="gallery6" %}
-xx
 
-
-xx
-
+By the end of the advanced session, 15 plastic toys were switch-adapted. Among the toys adapted in this session were bubble blowers, RC cars, spin art machines, star projectors, and jellyfish lamps!
 
 
 ## Beginner Session

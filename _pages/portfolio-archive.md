@@ -1,6 +1,7 @@
 ---
 title: Events & Projects
 layout: collection
+sort_order: reverse
 permalink: /portfolio/
 collection: portfolio
 entries_layout: grid

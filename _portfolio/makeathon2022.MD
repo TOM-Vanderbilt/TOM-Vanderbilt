@@ -89,7 +89,7 @@ The weekend culminated in a showcase where each team was able to present about t
 
 # Projects
 
-## Team 1 - Amy
+## Team 1 - Amy & Stephen
 
 **Team Lead: Rebecca Pan**<br>
 
@@ -167,7 +167,7 @@ xx
 {% include gallery id="gallery6g" %}
 
 
-## Team 7 - ????
+## Team 7 - Ruby
 
 **Team Lead: Ryder Li**<br>
 

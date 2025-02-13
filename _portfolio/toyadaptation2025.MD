@@ -96,8 +96,8 @@ By the end of the advanced session, 35 plush toys were switch-adapted. These toy
 
 ## Project Documentation
 
-The plastic toy documentation, created for the RC car, can be found here: []()<br>
-The plush toy documentation, created for the 2024 Toy Adaptation event, can be found here: [Switch-Adapted Sloth Documentation](https://tomglobal.org/project?id=65c53714f89bc4648f7d7c38)<br>
+The plastic toy documentation, created for the RC car, can be found here: []()<br><br>
+The plush toy documentation, created for the 2024 Toy Adaptation event, can be found here: [Switch-Adapted Sloth Documentation](https://tomglobal.org/project?id=65c53714f89bc4648f7d7c38)<br><br>
 The accessible button documentation, created by Makers Making Change, can be found here: [Interact Switch Documentation](https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA)
 
 {% include gallery %}

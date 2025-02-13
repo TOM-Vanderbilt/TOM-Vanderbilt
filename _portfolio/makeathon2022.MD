@@ -89,9 +89,9 @@ The weekend culminated in a showcase where each team was able to present about t
 
 # Projects
 
-## Team 1 - Jen & AbleVoices
+## Team 1 - Amy
 
-**Team Lead: Sophia Hooley**<br>
+**Team Lead: Rebecca Pan**<br>
 
 xx
 
@@ -102,9 +102,9 @@ xx
 {% include gallery id="gallery1g" %}
 
 
-## Team 2 - Robby
+## Team 2 - Sara
 
-**Team Lead: Megan Wang**<br>
+**Team Lead: Marin Schiffman**<br>
 
 xx
 
@@ -115,9 +115,9 @@ xx
 {% include gallery id="gallery2g" %}
 
 
-## Team 3 - Beverly
+## Team 3 - Allie
 
-**Team Lead: Eliza Hill**<br>
+**Team Lead: Alex Sargent Capps**<br>
 
 xx
 
@@ -128,9 +128,9 @@ xx
 {% include gallery id="gallery3g" %}
 
 
-## Team 4 - Kenny
+## Team 4 - Alicia & Chelsea
 
-**Team Lead: Kaiser Williams**<br>
+**Team Lead: Daniel Rau**<br>
 
 xx
 
@@ -141,9 +141,9 @@ xx
 {% include gallery id="gallery4g" %}
 
 
-## Team 5 - Miyako
+## Team 5 - Kristi
 
-**Team Lead: Kaitlyn Hannon**<br>
+**Team Lead: Addy Novak & Lauren Grohowski**<br>
 
 xx
 
@@ -154,9 +154,9 @@ xx
 {% include gallery id="gallery5g" %}
 
 
-## Team 6 - Liam
+## Team 6 - Jameson
 
-**Team Lead: Charlotte Lichtenfeld**<br>
+**Team Lead: Mayaank Pillai **<br>
 
 xx
 
@@ -167,9 +167,9 @@ xx
 {% include gallery id="gallery6g" %}
 
 
-## Team 7 - Deklan
+## Team 7 - ????
 
-**Team Lead: Maya Miller**<br>
+**Team Lead: Ryder Li**<br>
 
 xx
 
@@ -180,9 +180,9 @@ xx
 {% include gallery id="gallery7g" %}
 
 
-## Team 8 - Elise
+## Team 8 - Hugh
 
-**Team Lead: Ella Provancher**<br>
+**Team Lead: Eliza Hill**<br>
 
 xx
 
@@ -193,9 +193,9 @@ xx
 {% include gallery id="gallery8g" %}
 
 
-## Team 9 - Nassanah
+## Team 9 - Mary Cayten
 
-**Team Lead: Tessa Mahoney**<br>
+**Team Lead: Abbie Wollheim**<br>
 
 xx
 
@@ -206,9 +206,9 @@ xx
 {% include gallery id="gallery9g" %}
 
 
-## Team 10 - Paige, Heather, & Susan Gray School
+## Team 10 - Hugh
 
-**Team Lead: Isabella Murano**<br>
+**Team Lead: Alex Sargent Capps**<br>
  
 xx 
 
@@ -220,5 +220,4 @@ xx
 
 
 {% include gallery id="galleryy" %}
-
 

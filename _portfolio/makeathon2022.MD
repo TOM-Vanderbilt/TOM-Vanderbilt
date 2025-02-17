@@ -8,28 +8,28 @@ header:
 gallery:
   - image_path: assets/img/2022 Exec.jpeg
 gallery1:
-  - image_path: assets/img/2022 Team 1 Showcase.jpg
+  - image_path: assets/img/2022 Team 1 Showcase.jpeg
 gallery1g:
   - image_path: assets/img/2022 Makeathon Team 1.1.jpg
   - image_path: assets/img/2022 Makeathon Team 1.2.jpg
   - image_path: assets/img/2022 Makeathon Team 1.3.jpg
 gallery2:
-  - image_path: assets/img/2022 Team 2 Showcase.jpg
+  - image_path: assets/img/2022 Team 2 Showcase.jpeg
 gallery2g:
   - image_path: assets/img/2022 Makeathon Team 2.1.jpg
   - image_path: assets/img/2022 Makeathon Team 2.2.jpg
   - image_path: assets/img/2022 Makeathon Team 2.3.jpg
 gallery3:
-  - image_path: assets/img/2022 Team 3 Showcase.jpg
+  - image_path: assets/img/2022 Team 3 Showcase.jpeg
 gallery3g:
   - image_path: assets/img/2022 Makeathon Team 3.1.jpg
-  - image_path: assets/img/2022 Makeathon Team 3.2.PNG
+  - image_path: assets/img/2022 Makeathon Team 3.2.jpg
   - image_path: assets/img/2022 Makeathon Team 3.3.jpg
 gallery4:
-  - image_path: assets/img/2022 Team 4 Showcase.jpg
+  - image_path: assets/img/2022 Team 4 Showcase.jpeg
 gallery4g:
   - image_path: assets/img/2022 Makeathon Team 4.1.jpg
-  - image_path: assets/img/2022 Makeathon Team 4.2.JPG
+  - image_path: assets/img/2022 Makeathon Team 4.2.jpg
   - image_path: assets/img/2022 Makeathon Team 4.3.jpg
 gallery5:
   - image_path: assets/img/2022 Team 5 Showcase.jpg
@@ -38,31 +38,31 @@ gallery5g:
   - image_path: assets/img/2022 Makeathon Team 5.2.jpg
   - image_path: assets/img/2022 Makeathon Team 5.3.jpg
 gallery6:
-  - image_path: assets/img/2022 Team 6 Showcase.jpg
+  - image_path: assets/img/2022 Team 6 Showcase.jpeg
 gallery6g:
   - image_path: assets/img/2022 Makeathon Team 6.1.jpg
   - image_path: assets/img/2022 Makeathon Team 6.2.jpg
   - image_path: assets/img/2022 Makeathon Team 6.3.jpg
 gallery7:
-  - image_path: assets/img/2022 Team 7 Showcase.jpg
+  - image_path: assets/img/2022 Team 7 Showcase.jpeg
 gallery7g:
-  - image_path: assets/img/2022 Makeathon Team 7.1.jpg
-  - image_path: assets/img/2022 Makeathon Team 7.2.jpg
-  - image_path: assets/img/2022 Makeathon Team 7.3.jpg
+  - image_path: assets/img/2022 Makeathon Team 7.1.png
+  - image_path: assets/img/2022 Makeathon Team 7.2.jpeg
+  - image_path: assets/img/2022 Makeathon Team 7.3.png
 gallery8:
-  - image_path: assets/img/2022 Team 8 Showcase.jpg
+  - image_path: assets/img/2022 Team 8 Showcase.jpeg
 gallery8g:
   - image_path: assets/img/2022 Makeathon Team 8.1.jpg
   - image_path: assets/img/2022 Makeathon Team 8.2.jpg
   - image_path: assets/img/2022 Makeathon Team 8.3.jpg
 gallery9:
-  - image_path: assets/img/2022 Team 9 Showcase.jpg
+  - image_path: assets/img/2022 Team 9 Showcase.jpeg
 gallery9g:
-  - image_path: assets/img/2022 Makeathon Team 9.1.jpg
-  - image_path: assets/img/2022 Makeathon Team 9.2.jpg
-  - image_path: assets/img/2022 Makeathon Team 9.3.jpg
+  - image_path: assets/img/2022 Makeathon Team 9.1.jpeg
+  - image_path: assets/img/2022 Makeathon Team 9.2.jpeg
+  - image_path: assets/img/2022 Makeathon Team 9.3.jpeg
 gallery10:
-  - image_path: assets/img/2022 Team 10 Showcase.jpg
+  - image_path: assets/img/2022 Team 10 Showcase.jpeg
 gallery10g:
   - image_path: assets/img/2022 Makeathon Team 10.1.jpg
   - image_path: assets/img/2022 Makeathon Team 10.2.jpg

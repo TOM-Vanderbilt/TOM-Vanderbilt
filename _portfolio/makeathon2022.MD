@@ -6,9 +6,7 @@ header:
   image: assets/img/2022 Makeathon Group.jpeg
   teaser: assets/img/2022 Makeathon Group.jpeg
 gallery:
-  - image_path: assets/img/2022 Exec.jpg
-galleryx:
-  - image_path: assets/img/2022 Showcase Overview.jpg
+  - image_path: assets/img/2022 Exec.jpeg
 gallery1:
   - image_path: assets/img/2022 Team 1 Showcase.jpg
 gallery1g:
@@ -76,9 +74,7 @@ gallery10g:
 
 # About
 
-This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.
-
-{% include gallery id="galleryx" %}
+This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br>
 
 The weekend culminated in a showcase where each team was able to present about the work they completed. Read more about the 2022 Makeathon projects below!
 

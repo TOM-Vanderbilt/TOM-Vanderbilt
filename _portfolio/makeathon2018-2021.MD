@@ -31,10 +31,22 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 {% include gallery id="gallery2018" %}
 
 
-# MISSING MAKEATHON JAN 16-18
+# Spring 2019 Makeathon
+
+## Date: January 18 - 21, 2019<br>
+
+CHECK THIS DATE
+
+## About
+
+This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+
+{% include gallery %}
+
+{% include gallery id="gallery2018" %}
 
 
-# 2019 Makeathon
+# Fall 2019 Makeathon
 
 ## Date: November 8 - 10, 2019<br>
 

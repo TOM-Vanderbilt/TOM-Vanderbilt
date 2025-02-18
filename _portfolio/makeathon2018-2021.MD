@@ -20,7 +20,7 @@ gallery2021:
 
 # 2018 Makeathon
 
-### Date: January 19 - 21, 2018<br>
+**Date: January 19 - 21, 2018**
 
 ## About
 
@@ -29,11 +29,15 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 {% include gallery %}
 
 {% include gallery id="gallery2018" %}
+
+### Project Documentation
+
+xx
 
 
 # Spring 2019 Makeathon
 
-## Date: January 18 - 20, 2019<br>
+**Date: January 18 - 20, 2019**
 
 ## About
 
@@ -42,11 +46,15 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 {% include gallery %}
 
 {% include gallery id="gallery2018" %}
+
+### Project Documentation
+
+xx
 
 
 # Fall 2019 Makeathon
 
-## Date: November 8 - 10, 2019<br>
+**Date: November 8 - 10, 2019**
 
 ## About
 
@@ -55,11 +63,15 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 {% include gallery %}
 
 {% include gallery id="gallery2018" %}
+
+### Project Documentation
+
+xx
 
 
 # 2021 Makeathon
 
-## Date: November 5 - 7, 2021<br>
+**Date: November 5 - 7, 2021**
 
 ## About
 
@@ -68,4 +80,8 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 {% include gallery %}
 
 {% include gallery id="gallery2018" %}
+
+### Project Documentation
+
+xx
 

@@ -1,7 +1,7 @@
 ---
 title: "2018 - 2021 Makeathons"
 date: 2021-11-7
-excerpt: "TOM: Vanderbilt's signature event - our 1st through 5th Makeathons."
+excerpt: "TOM: Vanderbilt's signature event - our 1st through 4th Makeathons."
 header:
   image: assets/img/2022 Makeathon Group.jpeg
   teaser: assets/img/2022 Makeathon Group.jpeg
@@ -31,7 +31,7 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 {% include gallery id="gallery2018" %}
 
 
-# MISSING 2018 FALL MAKEATHON
+# MISSING MAKEATHON JAN 16-18
 
 
 # 2019 Makeathon
@@ -45,9 +45,6 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 {% include gallery %}
 
 {% include gallery id="gallery2018" %}
-
-
-# MISSING 2020 MAKEATHON
 
 
 # 2021 Makeathon

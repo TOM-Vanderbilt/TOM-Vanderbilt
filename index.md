@@ -25,7 +25,7 @@ feature_row:
     title: "2023 TOM Global Innovation Challenge - Grand Prize Winner"
     excerpt: "Out of more than 500 participants from 27 countries, Vanderbilt's Independent Feeding Device was awarded the Grand Prize."
 
-  - image_path: assets/img/Ind Scott Carlton Award.png
+  - image_path: assets/img/Scott Carlton Award.png
     alt: "OIC Projects Scott Carlton Community Award"
     title: "2022 TOM Abraham Accords Open Innovation Challenge - Scott Carlton Community Award"
     excerpt: "Out of more than 70 teams from 14 countries, Vanderbilt's One Handed Flute Prosthesis and Independent Feeding Tube Device were awarded the Scott Carlton Community Award for exemplifing empathy, community, and humanity."

@@ -20,7 +20,7 @@ gallery2021:
 
 # 2018 Makeathon
 
-## Date: January 19 - 21, 2018<br>
+### Date: January 19 - 21, 2018<br>
 
 ## About
 

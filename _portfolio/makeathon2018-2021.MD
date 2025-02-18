@@ -24,7 +24,7 @@ gallery2021:
 
 ## About
 
-This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
 
 {% include gallery %}
 
@@ -33,13 +33,11 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 
 # Spring 2019 Makeathon
 
-## Date: January 18 - 21, 2019<br>
-
-CHECK THIS DATE
+## Date: January 18 - 20, 2019<br>
 
 ## About
 
-This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
 
 {% include gallery %}
 
@@ -52,7 +50,7 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 
 ## About
 
-This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
 
 {% include gallery %}
 
@@ -65,7 +63,7 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 
 ## About
 
-This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 5th annual Makeathon. We had 10 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
 
 {% include gallery %}
 

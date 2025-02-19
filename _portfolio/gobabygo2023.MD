@@ -56,7 +56,7 @@ Once the electrical modifications were complete, the car was reassembled.
 
 {% include gallery id="galleryr2" %}
 
-April 16th was delivery day! Violet, our Need Knower, is a two-year old girl with Lennox-Gastaut Syndrome. This means that she experiences up to 100 seizures of all types daily. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Violet safe. These supports included a 5-point harness and lateral supports. Lastly, the car was decorated to be Moana-themed, including a custom license plate!<br><br>
+April 16th was delivery day! Violet, our Need Knower, is a two-year old girl with Lennox-Gastaut Syndrome. This means that she experiences up to 100 seizures of all types daily. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Violet safe. These supports included a 5-point harness and lateral supports. Lastly, the car was decorated to be Moana-themed, including a custom license plate!<br>
 
 Following this successful pilot, TOM: Vanderbilt plans to incorporate Go Baby Go cars in the 2023 Makeathon! 
 

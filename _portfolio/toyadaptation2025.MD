@@ -48,7 +48,7 @@ This year, we hosted our second annual Toy Adaptation event! We hosted both an a
 
 {% include gallery id="gallery3" %}
 
-By the end of the event, 15 plastic and 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the Susan Gray School on Vanderbilt's campus. Here, children with disabilities and typically developing children play and learn alongside one another.<br><br>
+By the end of the event, 15 plastic and 35 plush toys were switch-adapted, providing an accessible way for children with hand mobility difficulties to play. A majority of the toys were donated to the Susan Gray School on Vanderbilt's campus. Here, children with disabilities and typically developing children play and learn alongside one another.<br>
 
 Learn more about our different toy adaptation sessions below!
 

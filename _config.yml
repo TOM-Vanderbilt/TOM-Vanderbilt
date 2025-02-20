@@ -202,6 +202,8 @@ defaults:
       comments: true
       share: true
       related: true
+      search_exclude: false  # Ensure posts are included in search
+
   # _pages
   - scope:
       path: "_pages"
@@ -209,6 +211,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      search_exclude: false  # Ensure pages are included in search
+
   # _portfolio
   - scope:
       path: "_portfolio"
@@ -217,6 +221,29 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      search_exclude: false  # Ensure portfolio items are included in search
+
+  # Apply to all other pages not in collections
+  - scope:
+      path: ""
+    values:
+      search_exclude: false  # Make sure all pages are searchable, unless explicitly excluded
+
+  # Exclude unwanted files from search
+  - scope:
+      path: "404.html"
+    values:
+      search_exclude: true
+
+  - scope:
+      path: "feed.xml"
+    values:
+      search_exclude: true
+
+  - scope:
+      path: "sitemap.xml"
+    values:
+      search_exclude: true
 
 
 # Sass/SCSS

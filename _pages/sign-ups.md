@@ -2,7 +2,7 @@
 
 title: "Open Sign-Ups"
 gallery:
-  - image_path: assets/img/2024 Makeathon Group.jpg
+  - image_path: assets/img/TOM Vandy Logo.jpg
 ---
 
 ## 2025 Go Baby Go

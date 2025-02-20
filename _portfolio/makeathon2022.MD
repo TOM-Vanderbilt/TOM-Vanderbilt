@@ -91,6 +91,8 @@ Amy and Stephen are graduate students at Vanderbilt studying audiology. They wor
 
 Team 1 tested acoustic paneling and determined that 8 panels per room provided the ideal decrease in background noise and reverberation. They also created an electrical system consisting of a microphone that inputs into a transmitter, receiver, and inputs into a closed captioning system. The closed captioning system, Otter.ai, allows for the input of engineering terms so that it can recognize those words more accurately when spoken. 
 
+https://tomglobal.org/project?id=6362e89b8694e63637185957
+
 {% include gallery id="gallery1g" %}
 
 
@@ -104,6 +106,8 @@ Sara is a Vanderbilt student who was diagnosed with 100% hearing loss in her rig
 
 xx
 
+https://tomglobal.org/project?id=6362e8f68694e6363718596f
+
 {% include gallery id="gallery2g" %}
 
 
@@ -111,7 +115,7 @@ xx
 
 **Team Lead: Alex Sargent Capps**<br>
 
-xx
+Allie has ALS, a neurodegenerative condition that affects nerve cells in the brain and spinal cord. She is paralyzed in her arms, making it difficult to put on jackets. Allie wanted a cape-like coat designed for the winter so that she could put it on and take it off independently. She specifically wanted the coat to be neutral colored and make of heavy-weighted material such as fleece or wool.
 
 {% include gallery id="gallery3" %}
 
@@ -124,11 +128,13 @@ xx
 
 **Team Lead: Daniel Rau**<br>
 
-xx
+Alicia and Chelsea are two friends with cerebral palsy, a condition that affects their fine motor skills, specifically with their fingers. Grabbing items is very difficult for them, and traditional grabbers don't work well enough since their fingers are stiff and difficult to move. Alicia and Chelsea needed a grabber that could be operated without fine motor skills.
 
 {% include gallery id="gallery4" %}
 
-xx
+Alicia and Chelsea have Cerebral Palsy which makes limits their range of motion. They use grabbers to help them extend their range of motion but are looking for something that is able to pick up small items and help in more specific tasks.
+
+https://tomglobal.org/project?id=6362ea168694e636371859a7
 
 {% include gallery id="gallery4g" %}
 
@@ -137,11 +143,11 @@ xx
 
 **Team Lead: Addy Novak & Lauren Grohowski**<br>
 
-xx
+Kristi is a Vanderbilt Next Steps alum. She works at the Nashville Zoo, and uses a reverse walker to get around. She has to carry around scanners, radios, pens, and a water bottle at work, but doesn't have a secure place to put them. Kristi wanted a removable basket for her walker with adjustable dividers, hooks, and a waterproof covering.
 
 {% include gallery id="gallery5" %}
 
-xx
+Team 5 modified a metal mesh container to function as Kristi's basket. The team laser cut custom acrylic dividers and 3D printed an adaptive cup holder. They also screwed hooks to the outside of the basket. To address Kristi's waterproofing needs, a waterproof fabric was sewn to a retractable car windowshade, which was attached to the top edge of the basket. Kristi can pull this cover over her basket and secure it with velcro when it is raining outside. Lastly, Team 5 created sticker magnets to decorate the basket! The basket is clamped to Kristi's walker and easily removed when she gets in the car.
 
 {% include gallery id="gallery5g" %}
 
@@ -154,7 +160,7 @@ xx
 
 {% include gallery id="gallery6" %}
 
-xx
+https://tomglobal.org/project?id=6362ead68694e636371859d7
 
 {% include gallery id="gallery6g" %}
 
@@ -194,6 +200,9 @@ xx
 {% include gallery id="gallery9" %}
 
 xx
+Many people with disabilities need to use a straw to drink from a cup. However, straws are becoming increasingly difficult to find in restaurants, or people can often be shamed when they ask for one because of the perceived environmental impact straws have. The challenge is to develop a portable straw bracelet that is both fashionable and functional.
+
+https://tomglobal.org/project?id=6362ebe88694e63637185a22
 
 {% include gallery id="gallery9g" %}
 
@@ -207,6 +216,9 @@ xx
 {% include gallery id="gallery10" %}
 
 xx
+Hugh is an elementary school student with clubbed hands. Add assisting strategies via clothing alterations to help Hugh dress independently.
+
+https://tomglobal.org/project?id=6362ec328694e63637185a3a
 
 {% include gallery id="gallery10g" %}
 

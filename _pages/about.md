@@ -5,9 +5,9 @@ gallery:
   - image_path: assets/img/2024 Makeathon Group.jpg
 
 galleryx:
-  - image_path: assets/img/Blank Headshot.jpg
+  - image_path: assets/img/TOM Global Logo Blank.jpg
   - image_path: assets/img/TOM Global Logo.jpg
-  - image_path: assets/img/Blank Headshot.jpg
+  - image_path: assets/img/TOM Global Logo Blank.jpg
 
 
 ---

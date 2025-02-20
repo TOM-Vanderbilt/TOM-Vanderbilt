@@ -18,7 +18,12 @@
     {%- endfor -%}
   };
 
-  console.log("Indexed Pages:", window.store); // Debugging: Output indexed pages
+  console.log("Indexed Pages:");
+  // Log only the titles and URLs of the indexed pages
+  Object.keys(window.store).forEach(function(key) {
+    var page = window.store[key];
+    console.log("Title: " + page.title + ", URL: " + page.url);
+  });
 
   var idx = lunr(function () {
     this.ref('id');

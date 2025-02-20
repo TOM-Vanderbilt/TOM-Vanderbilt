@@ -1,50 +1,30 @@
 ---
 
-title: "About TOM: Vanderbilt"
+title: "Open Sign-Ups"
 gallery:
   - image_path: assets/img/2024 Makeathon Group.jpg
 ---
 
-## History
-Since 2014, TOM has grown from one community in Israel to dozens of locations around the world. "Tikkun Olam" means "repair the world" in Hebrew, an idea that encourages everyone to contribute towards improving themselves, their community and the world. TOM's vision is a world in which technology and innovation allow everyone access to affordable solutions for their needs, and their moonshot objective is to help 250,000,000 people. <br><br>
-TOM: Vanderbilt was founded in 2017 in Nashville, Tennesse as one of the first university communities in the United States. TOM: Vanderbilt operates out of the Wond'ry, an interdisciplinary center for innovation that provides the tools and resources for students and faculty to bring their ideas to life.
+## 2025 Go Baby Go
+This spring, TOM: Vanderbilt will be hosting a “Go Baby Go” event, where Makers will come together to adapt electric children's cars into mobility devices for children with disabilities. The adaptation will take place on two days (Sunday, 3/23 and Sunday, 4/6), and Makers are invited to be a part of both or either day. A third day, _____, will be the delivery day. Applications are due by **March 7th, 11:59pm** and all applicants will be **notified by March 17th.** Unlike the Makeathon, this is a skill and experience-based application. **You must be available for either March 23rd or April 6th to apply.**<br>
+[Go Baby Go Application](https://forms.gle/3eSFd6GgtuHzo6Td6)
 
-## Stats
-As of January 2025...
-* We have hosted **7** Makeathons,
-* worked on **80+** projects,
-* and helped **65+** Need Knowers!
 
-## Awards
-* 2024 TOM Global Innovation Challenge - Best Documentation
-* 2024 Vanderbilt Awards for Leadership Excellence - Community Engagement
-* 2023 TOM Global Innovation Challenge - Grand Prize Winner
-* 2022 Abraham Accords Open Innovation Challenge - Scott Carlton Community Award
+## 2025 Makeathon
+Sign-ups for the 2025 Makeathon will open late August. Please check back.
 
-## TOM in the Media
 
-* [Empowering Independence: TOM Makeathon Teams Design Life-Changing Adaptive Solutions, November 2024](https://www.vanderbilt.edu/the-wondry/2024/11/14/empowering-independence-tom-makeathon-teams-design-life-changing-adaptive-solutions/)
-* [Tikkun Olam Makers Hosts Seventh Annual Makeathon, October 2024](https://vanderbilthustler.com/2024/10/29/tikkun-olam-makers-hosts-seventh-annual-makeathon/)
-* [Alyssa Rosenheck Instagram, October 2024](https://www.instagram.com/p/DBttfwfpV_O/)
-* [TOM 2023 Makeathon, November 2023](https://www.vanderbilt.edu/thewondry/tom-2023-make-a-thon/)
-* [Building for Inclusivity: TOM Makeathon Unveils Inspiring Innovations, November 2023](https://www.vanderbilt.edu/thewondry/tom-makeathon-unveils-inspiring-innovations/)
-* [Students Lead Three-Day Race to 'Make a Purpose' for Kids with Special Needs, January 2019](https://news.vanderbilt.edu/2019/01/24/students-lead-three-day-race-to-make-with-a-purpose-for-kids-with-special-needs/)
-* [Vanderbilt Makeathon Helps Hawaiian Youngster Create Custom Guitar Pick Holder, January 2019](https://engineering.vanderbilt.edu/2019/01/23/vanderbilt-makeathon-helps-hawaii-youngster-create-custom-guitar-pick-holder/)
-* [48 Hours of Innovation Will Produce a Variety of New Tools for Those with Special Needs, January 2019](https://news.vanderbilt.edu/2019/01/16/48-hours-of-innovation-will-produce-a-variety-of-new-tools-for-those-with-special-needs/)
-* [Weekend Inventors Will Build Tech for People with Disabilities, January 2019](https://engineering.vanderbilt.edu/2019/01/18/weekend-inventors-will-build-tech-for-people-with-disabilities/)
-* [Vanderbilt 'Makeathon' Creates New Inventions for People with Special Needs, January 2018](https://www.tennessean.com/story/news/2018/01/21/vanderbilt-makeathon-creates-new-inventions-people-special-needs/1044053001/)
-* [Makers Race the Clock to Repair the World through This Weekend's TOM Makeathon, January 2018](https://news.vanderbilt.edu/2018/01/18/makers-race-the-clock-to-repair-the-world-through-this-weekends-tom-makeathon/)
-* [Breaking Ground 101 - Tikkun Olam Makers: Vanderbilt, January 2018](https://www.tn.gov/cdd/engage-with-us/breaking-ground/breaking-ground-101---be-heard--be-counted/breaking-ground-101---tikkun-olam-makers--vanderbilt-.html)
-* [Vanderbilt's First Ever TOM Makeathon, December 2017](https://www.vanderbilt.edu/thewondry/vanderbilts-first-ever-tom-makeathon/)
+## 2026 Global Innovation Challenge
+Sign-ups for the 2026 GIC will open early January. Please check back.
 
-## Our Partners
-* The Wond'ry: [https://www.vanderbilt.edu/the-wondry/](https://www.vanderbilt.edu/the-wondry/)
-* Vanderbilt Hillel: [https://www.vuhillel.com/](https://www.vuhillel.com/)
-* Digital Fabrication Lab: [https://www.digitalfabricationlab.com/index.html](https://www.digitalfabricationlab.com/index.html)
 
-## Donate
-Interested in helping support TOM: Vandebilt's mission? Donate here!<br><br>
-[Link to Donate](https://secure.lglforms.com/form_engine/s/JpGFs3nCkxNcpHTkwJ23vQ?t=1568101561)
+## 2026 Toy Adaptation
+Sign-ups for the 2026 Toy Adaptation will open late January. Please check back.
+
+
+## Email List
+Want to stay in the know about all things TOM: Vanderbilt? Join our email list!<br>
+[Email List](https://forms.gle/qsh3SnzgTYnY6WDv6)
+
 
 {% include gallery %}
-

@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Open Sign-Ups"
+    url: /_pages/sign-ups
   - title: "Events & Projects"
     url: /portfolio/
   - title: "About"

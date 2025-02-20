@@ -85,11 +85,11 @@ The weekend culminated in a showcase where each team was able to present about t
 
 **Team Lead: Rebecca Pan**<br>
 
-xx
+Amy and Stephen are graduate students at Vanderbilt studying audiology. They work with students with hearing loss who have difficulty hearing in the engineering labs. Amy and Stephen wanted to reduce background noise and reverberation, as well was incorporate a closed captioning system, to improve accessibility for those with hearing loss.
 
 {% include gallery id="gallery1" %}
 
-xx
+Team 1 tested acoustic paneling and determined that 8 panels per room provided the ideal decrease in background noise and reverberation. They also created an electrical system consisting of a microphone that inputs into a transmitter, receiver, and inputs into a closed captioning system. The closed captioning system, Otter.ai, allows for the input of engineering terms so that it can recognize those words more accurately when spoken. 
 
 {% include gallery id="gallery1g" %}
 
@@ -98,7 +98,7 @@ xx
 
 **Team Lead: Marin Schiffman**<br>
 
-xx
+Sara is a Vanderbilt student who was diagnosed with 100% hearing loss in her right ear in kindergarten. She struggles with driving because she cannot hear the person in the passenger seat over the music playing and paying attention to the road. She has tried cross-over hearing aids, but finds them too embarrassing to wear. Sara needed a device to transfer the sound from the passenger seat to the left side of the driver seat. 
 
 {% include gallery id="gallery2" %}
 

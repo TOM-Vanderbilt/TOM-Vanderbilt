@@ -55,12 +55,6 @@ atom_feed:
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia
-
-search:
-  enabled: true
-  engine: lunr
-  include_posts: true
-  include_pages: true
   
  #algolia:
   #application_id         : YOUR_APPLICATION_ID

@@ -3,10 +3,18 @@
 title: "About TOM: Vanderbilt"
 gallery:
   - image_path: assets/img/2024 Makeathon Group.jpg
+
+galleryx:
+  - image_path: assets/img/Blank Headshot.jpg
+  - image_path: assets/img/TOM Global Logo.jpg
+  - image_path: assets/img/Blank Headshot.jpg
+
+
 ---
 
 ## History
-Since 2014, TOM has grown from one community in Israel to dozens of locations around the world. "Tikkun Olam" means "repair the world" in Hebrew, an idea that encourages everyone to contribute towards improving themselves, their community and the world. TOM's vision is a world in which technology and innovation allow everyone access to affordable solutions for their needs, and their moonshot objective is to help 250,000,000 people. <br><br>
+Since 2014, TOM has grown from one community in Israel to dozens of locations around the world. "Tikkun Olam" means "repair the world" in Hebrew, an idea that encourages everyone to contribute towards improving themselves, their community and the world. TOM's vision is a world in which technology and innovation allow everyone access to affordable solutions for their needs, and their moonshot objective is to help 250,000,000 people.
+{% include gallery id: "galleryx" %}
 TOM: Vanderbilt was founded in 2017 in Nashville, Tennesse as one of the first university communities in the United States. TOM: Vanderbilt operates out of the Wond'ry, an interdisciplinary center for innovation that provides the tools and resources for students and faculty to bring their ideas to life.
 
 ## Stats

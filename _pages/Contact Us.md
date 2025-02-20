@@ -5,7 +5,7 @@ title: "Contact Us"
 gallery:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Maya Miller.jpg
 
 gallery2:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
@@ -25,7 +25,7 @@ gallery4:
 gallery5:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Blank Headshot.jpg
+  - image_path: assets/img/Headshot Kevin Galloway.jpg
 ---
 
 ## General Email
@@ -51,7 +51,7 @@ vanderbilt@tomglobal.org
 
 {% include gallery id="gallery5" %}
 
-| **Ella Provancher**<br>PR Chair<br><a href="mailto:ella.e.provancher@vanderbilt.edu" style="font-size: 0.75em;">ella.e.provancher@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Chloe Park**<br>&nbsp;&nbsp;&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chloe.j.park@vanderbilt.edu" style="font-size: 0.75em;">chloe.j.park@vanderbilt.edu</a> | |
+| **Ella Provancher**<br>PR Chair<br><a href="mailto:ella.e.provancher@vanderbilt.edu" style="font-size: 0.75em;">ella.e.provancher@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Chloe Park**<br>&nbsp;&nbsp;&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chloe.j.park@vanderbilt.edu" style="font-size: 0.75em;">chloe.j.park@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dr. Kevin Galloway**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisor<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevin.c.galloway@vanderbilt.edu" style="font-size: 0.75em;">kevin.c.galloway@vanderbilt.edu</a> |
 
 
 ## Previous Executive Boards

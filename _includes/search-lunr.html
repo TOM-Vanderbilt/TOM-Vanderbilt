@@ -18,6 +18,8 @@
     {%- endfor -%}
   };
 
+  console.log("Indexed Pages:", window.store); // Debugging: Output indexed pages
+
   var idx = lunr(function () {
     this.ref('id');
     this.field('title');

@@ -39,21 +39,18 @@ Projects included 1) a universal obstacle course obstacle for Adam & HappyFest, 
 6) [Pinky Sleeve Documentation](https://tomglobal.org/project?id=5d406c57327725170bc5f8f4)<br>
 7) [Feeding Tray Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168abad)
 
+
 # Spring 2019 Makeathon
 
 **Date: January 18 - 20, 2019**
 
 ## About
 
-This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
+This year, we hosted over 75 participants, including Makers, Need Knowers, and Team Leads, at our 2nd annual Makeathon. We had 9 teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery id="gallery2019s" %}
 
-Projects included......
-
-### Project Documentations
-
-xx
+Projects included 1) adapted swim equipment for Megan & Nashville Dolphins, 2) a cause-and-effect activity toy for Mary, 3) a shoe tying adaptation for Kristi, 4) an iOS communication app (Pikit) for echolalia for Jesse and Alex, 5) a device to measure the viscosity of liquid to be swallowed for Maya, 6) an attachment point for a ventilator to a wheelchair for Adam, 7) a walker with a fold-down seat for Sara Grace, 8) a rugby wheelchair adaptation for Zion, and 9) an adaptation for tying trash bags for Zoe. 
 
 
 # Fall 2019 Makeathon

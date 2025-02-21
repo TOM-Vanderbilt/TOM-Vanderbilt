@@ -66,7 +66,7 @@ This year, we hosted over 100 participants, including Makers, Need Knowers, and 
 
 {% include gallery id="gallery2019f" %}
 
-Projects included 1) an adapted video game controller for Zion, 2) a wheelchair umbrella attachment for Carrie, 3) a waterproof casing for Adam's medical machines, 4) a bath chair and cooling vest for Sara Grace, 5) a tray holder for a reverse walker for Kristi, 6) an updated guitar pick for Linden, 7) an Xbox controller wheelchair attachment for Ivy, and 8) a mini golf club attachement for Hugh. 
+Projects included 1) an adapted video game controller for Zion, 2) a wheelchair umbrella attachment for Carrie, 3) a waterproof casing for Adam's medical machines, 4) a bath chair and cooling vest for Sara Grace, 5) a tray holder for a reverse walker for Kristi, 6) an updated guitar pick for Linden, 7) an Xbox controller wheelchair attachment for Ivy, 8) an iOS app that interfaces with QR codes and RFID sensors for James, and 9) a mini golf club attachement for Hugh. 
 
 {% include gallery caption="2019-2020 Executive Board" %}
 
@@ -78,7 +78,8 @@ Projects included 1) an adapted video game controller for Zion, 2) a wheelchair 
 5) [Food Tray Documentation](https://tomglobal.org/project?id=5dd41c59d848736b095541b6)<br>
 6) [Adaptable Guitar Pick Documentation](https://tomglobal.org/project?id=5dd41c9cd848736b095541b7)<br>
 7) [CPXbox Documentation](https://tomglobal.org/project?id=5dc353205cb35d632b07ee87)<br>
-8) [Mini Golf Club Attachment Documentation](https://tomglobal.org/project?id=5dd41c53d848736b095541b5)
+8) [See++ Documentation](https://tomglobal.org/project?id=5dc354575cb35d632b07ee89)<br>
+9) [Mini Golf Club Attachment Documentation](https://tomglobal.org/project?id=5dd41c53d848736b095541b5)
 
 
 # 2021 Makeathon

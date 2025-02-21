@@ -113,13 +113,11 @@ https://tomglobal.org/project?id=6362e8f68694e6363718596f
 
 **Team Lead: Alex Sargent Capps**<br>
 
-Allie has ALS, a neurodegenerative condition that affects nerve cells in the brain and spinal cord. She is paralyzed in her arms, making it difficult to put on jackets. Allie wanted a cape-like coat designed for the winter so that she could put it on and take it off independently. She specifically wanted the coat to be neutral colored and made of heavy-weighted material such as fleece or wool.
+Allie has ALS, a neurodegenerative condition that affects nerve cells in the brain and spinal cord. She is paralyzed in her arms, making it difficult to put on jackets. Allie wanted a fashionable, cape-like coat designed for the winter so that she could put it on and take it off independently.
 
 {% include gallery id="gallery3" %}
 
-xx
-
-https://tomglobal.org/project?id=6362e9ba8694e6363718598f
+Team 3 created a neutral colored, heavy-weighted winter coat. The coat was designed like a cape and includes magnetic closures and long internal pockets to keep Allie's hands and arms warm. Additionally, Team 3 created a wall-mounted hook Allie could use to help her take off and on the coat independently. The coat documentation can be found here: [Accessible Winter Coat Documentation](https://tomglobal.org/project?id=6362e9ba8694e6363718598f).
 
 {% include gallery id="gallery3g" %}
 
@@ -128,7 +126,7 @@ https://tomglobal.org/project?id=6362e9ba8694e6363718598f
 
 **Team Lead: Daniel Rau**<br>
 
-Alicia and Chelsea are two friends with cerebral palsy, a condition that affects their fine motor skills, specifically with their fingers. Grabbing items is very difficult for them, and traditional grabbers don't work well enough since their fingers are stiff and difficult to move. Alicia and Chelsea needed a grabber that could be operated without fine motor skills.
+Alicia and Chelsea are two friends with cerebral palsy, a condition that affects their fine motor skills, specifically with their fingers. Grabbing items is very difficult for them, and traditional grabbers don't work well enough for small items since their fingers are stiff and difficult to move. Alicia and Chelsea needed a grabber that could be operated without fine motor skills.
 
 {% include gallery id="gallery4" %}
 

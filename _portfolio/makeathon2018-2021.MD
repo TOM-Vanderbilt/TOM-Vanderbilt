@@ -3,18 +3,18 @@ title: "2018 - 2021 Makeathons"
 date: 2021-11-7
 excerpt: "TOM: Vanderbilt's signature event - our 1st through 4th Makeathons."
 header:
-  image: assets/img/2022 Makeathon Group.jpeg
-  teaser: assets/img/2022 Makeathon Group.jpeg
+  image: assets/img/2018 Makeathon Group.jpg
+  teaser: assets/img/2018 Makeathon Group.jpg
 gallery:
-  - image_path: assets/img/2022 Exec.jpeg
+  - image_path: assets/img/2019-2020 Exec.jpg
 gallery2018:
-  - image_path: assets/img/2022 Team 1 Showcase.jpeg
-gallery2019:
-  - image_path: assets/img/2022 Team 1 Showcase.jpeg
-gallery2020:
-  - image_path: assets/img/2022 Team 1 Showcase.jpeg
+  - image_path: assets/img/2018 Makeathon Group.jpg
+gallery2019s:
+  - image_path: assets/img/2018 Makeathon Group S.jpg
+gallery2019f:
+  - image_path: assets/img/2018 Makeathon Group F.jpg
 gallery2021:
-  - image_path: assets/img/2022 Team 1 Showcase.jpeg
+  - image_path: assets/img/2021 Makeathon Group.jpg
 
 ---
 
@@ -27,8 +27,6 @@ gallery2021:
 ## About
 
 This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
-
-{% include gallery %}
 
 {% include gallery id="gallery2018" %}
 
@@ -45,9 +43,7 @@ xx
 
 This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
 
-{% include gallery %}
-
-{% include gallery id="gallery2018" %}
+{% include gallery id="gallery2019s" %}
 
 ### Project Documentations
 
@@ -62,9 +58,9 @@ xx
 
 This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
 
-{% include gallery %}
+{% include gallery id="gallery2019f" %}
 
-{% include gallery id="gallery2018" %}
+{% include gallery %}
 
 ### Project Documentations
 
@@ -79,11 +75,9 @@ xx
 
 This year, we hosted over 70 participants, including Makers, Need Knowers, and Team Leads, at our 4th annual Makeathon. We had 9 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
-{% include gallery %}
+{% include gallery id="gallery2021" %}
 
 Projects included 1) a mobile sensory unit, 2) a seatbelt buckle stabilizer, 3) a magnetic elevated desk, 4) an air pump-controlled feeding device, 5) a poncho raincoat for use with a wheelchair or wallker, 6) a basket attachment for a reverse walker, 7) a one-handed pentatonic flute adaptation, 8) a shopping cart seat, and 9) a scooter-wheelchair hybrid device. Both the air pump-controlled feeding device (4) and the one-handed flute adaptation (7) were continued into the 2022 Open Innovation Challenge.
-
-{% include gallery id="gallery2018" %}
 
 ### Project Documentations
 

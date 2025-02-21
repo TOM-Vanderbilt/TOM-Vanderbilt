@@ -155,7 +155,7 @@ Jameson, a returner from the 2022 Makeathon, is a 7-year-old elementary school s
 
 {% include gallery id="gallery3" %}
 
-Team 3 created a new vest for Sushi. The vest included an inproved handle grip for Jameson, as well as velcro patches that Jameson could add his favorite characters to. Team 3 also prototyped a light-up feature that would flash green (Jameson's favorite color) when he held onto the leash. The service dog vest documentation can be found here: [Harness Helper Documentation](https://tomglobal.org/project?id=6362ead68694e636371859d7).
+Team 3 created a new vest for Sushi. The vest included an inproved handle grip for Jameson, as well as velcro patches that Jameson could add his favorite characters to. The service dog vest documentation can be found here: [Harness Helper Documentation](https://tomglobal.org/project?id=6362ead68694e636371859d7).
 
 {% include gallery id="gallery3g" %}
 

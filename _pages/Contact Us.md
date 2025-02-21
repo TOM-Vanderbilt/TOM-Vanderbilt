@@ -126,7 +126,7 @@ Asher Sabah - Community Connections Apprentice<br>
 Blake Hannon - President<br>
 Evan Segaul - Logistics Chair<br>
 Hannah Schrager - Logistics Apprentice<br>
-Liraz Stilman - Finance Apprentice
+Liraz Stilman - Finance Apprentice<br>
 Lyndon Vickrey - Maker Recruitment Chair<br>
 Carson Fallon - Maker Recruitment Apprentice<br>
 Harrison Smith - Need Knower Recruitment Chair<br>

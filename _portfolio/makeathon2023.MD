@@ -242,7 +242,7 @@ Team 9 created a 3D printed "sled" that the patient could velcro strap to their 
 
 **Team Lead: Bryne Knowles**<br>
  
-Mary Cayten has Elhers-Danlos Syndrome, a condition that affects her connective tissue and requires her to use mobility aids occasionally. She currently has a rollator and a cane, but neither are practical for her work environment. Mary Cayten wanted a collapsible cane that is lightweight, has interchangeable heads, and stands up on its own. She also needed a foldable walker. 
+Mary Cayten, a returner from the 2022 Makeathon, has Elhers-Danlos Syndrome, a condition that affects her connective tissue and requires her to occasionally use mobility aids. She currently has a rollator and a cane, but neither are practical for her work environment. Mary Cayten wanted a collapsible cane that is lightweight, has interchangeable heads, and stands up on its own. She also needed a foldable walker. 
 
 {% include gallery id="gallery10" %}
 

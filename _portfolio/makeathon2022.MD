@@ -89,9 +89,7 @@ Amy and Stephen are graduate students at Vanderbilt studying audiology. They wor
 
 {% include gallery id="gallery1" %}
 
-Team 1 tested acoustic paneling and determined that 8 panels per room provided the ideal decrease in background noise and reverberation. They also created an electrical system consisting of a microphone that inputs into a transmitter, receiver, and inputs into a closed captioning system. The closed captioning system, Otter.ai, allows for the input of engineering terms so that it can recognize those words more accurately when spoken. 
-
-https://tomglobal.org/project?id=6362e89b8694e63637185957
+Team 1 tested acoustic paneling and determined that 8 panels per room provided the ideal decrease in background noise and reverberation. They also created an electrical system consisting of a microphone that inputs into a transmitter, receiver, and inputs into a closed captioning system. The closed captioning system, Otter.ai, allows for the input of engineering terms so that it can recognize those words more accurately when spoken. The accessible classroom documentation can be found here: [Accessible Classroom Documentation](https://tomglobal.org/project?id=6362e89b8694e63637185957).
 
 {% include gallery id="gallery1g" %}
 
@@ -115,11 +113,13 @@ https://tomglobal.org/project?id=6362e8f68694e6363718596f
 
 **Team Lead: Alex Sargent Capps**<br>
 
-Allie has ALS, a neurodegenerative condition that affects nerve cells in the brain and spinal cord. She is paralyzed in her arms, making it difficult to put on jackets. Allie wanted a cape-like coat designed for the winter so that she could put it on and take it off independently. She specifically wanted the coat to be neutral colored and make of heavy-weighted material such as fleece or wool.
+Allie has ALS, a neurodegenerative condition that affects nerve cells in the brain and spinal cord. She is paralyzed in her arms, making it difficult to put on jackets. Allie wanted a cape-like coat designed for the winter so that she could put it on and take it off independently. She specifically wanted the coat to be neutral colored and made of heavy-weighted material such as fleece or wool.
 
 {% include gallery id="gallery3" %}
 
 xx
+
+https://tomglobal.org/project?id=6362e9ba8694e6363718598f
 
 {% include gallery id="gallery3g" %}
 
@@ -143,11 +143,11 @@ https://tomglobal.org/project?id=6362ea168694e636371859a7
 
 **Team Lead: Addy Novak & Lauren Grohowski**<br>
 
-Kristi is a Vanderbilt Next Steps alum. She works at the Nashville Zoo, and uses a reverse walker to get around. She has to carry around scanners, radios, pens, and a water bottle at work, but doesn't have a secure place to put them. Kristi wanted a removable basket for her walker with adjustable dividers, hooks, and a waterproof covering.
+Kristi, a returner from the 2021 Makethon, is a Vanderbilt Next Steps alum. She works at the Nashville Zoo, and uses a reverse walker to get around. She has to carry around scanners, radios, pens, and a water bottle at work, but doesn't have a secure place to put them. Kristi wanted a removable basket for her walker with adjustable dividers, hooks, and a waterproof covering.
 
 {% include gallery id="gallery5" %}
 
-Team 5 modified a metal mesh container to function as Kristi's basket. The team laser cut custom acrylic dividers and 3D printed an adaptive cup holder. They also screwed hooks to the outside of the basket. To address Kristi's waterproofing needs, a waterproof fabric was sewn to a retractable car windowshade, which was attached to the top edge of the basket. Kristi can pull this cover over her basket and secure it with velcro when it is raining outside. Lastly, Team 5 created sticker magnets to decorate the basket! The basket is clamped to Kristi's walker and easily removed when she gets in the car.
+Team 5 modified a metal mesh container to function as Kristi's basket. The team laser cut custom acrylic dividers and 3D printed an adaptive cup holder. They also screwed hooks to the outside of the basket. To address Kristi's waterproofing needs, a waterproof fabric was sewn to a retractable car windowshade, which was attached to the top edge of the basket. Kristi can pull this cover over her basket and secure it with velcro when it is raining outside. Lastly, Team 5 created sticker magnets to decorate the basket! The basket is clamped to Kristi's walker and easily removed when she gets in the car. The basket documentation can be found here: [Reverse Walker Basket Documentation](https://tomglobal.org/project?id=6362ea6c8694e636371859bf).
 
 {% include gallery id="gallery5g" %}
 
@@ -183,10 +183,28 @@ xx
 **Team Lead: Eliza Hill**<br>
 
 xx
+Hugh Lang is a 7 year-old boy with clubbed arms, four fingers on his right hand, and three fingers on his left hand.
+
+
+Why?
+
+Since he doesn’t have thumbs, Hugh mainly uses his pinky fingers. However, this means that a normal computer mouse is not very practical for him. He can either move the mouse or click on it, but cannot do both at the same time.
+
+
 
 {% include gallery id="gallery8" %}
 
 xx
+How?
+
+By separating the buttons from the mouse, this design presents a two-handed system. Hugh will be able to press the buttons and move the mouse simultaneously.
+
+
+What?
+
+The solution is a redesign of a traditional mouse that consists of a mouse for cursor movement and a box that has three buttons on it, one for right-clicking, one for left-clicking, and one for scrolling. This system uses USB to connect to any computer.
+
+https://tomglobal.org/project?id=6448142eabd8c804e3243e6b
 
 {% include gallery id="gallery8g" %}
 

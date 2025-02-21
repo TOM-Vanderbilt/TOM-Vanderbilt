@@ -32,7 +32,7 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 
 {% include gallery id="gallery2018" %}
 
-### Project Documentation
+### Project Documentations
 
 xx
 
@@ -49,7 +49,7 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 
 {% include gallery id="gallery2018" %}
 
-### Project Documentation
+### Project Documentations
 
 xx
 
@@ -66,7 +66,7 @@ This year, we hosted over XX participants, including Makers, Need Knowers, and T
 
 {% include gallery id="gallery2018" %}
 
-### Project Documentation
+### Project Documentations
 
 xx
 
@@ -85,14 +85,14 @@ Projects included 1) a mobile sensory unit, 2) a seatbelt buckle stabilizer, 3) 
 
 {% include gallery id="gallery2018" %}
 
-### Project Documentation
+### Project Documentations
 
-1) [Mobile Sensory Unit Documentation](https://tomglobal.org/project?id=615c78c60a3b463bd05551a6)
-2) [Seatbelt Attachment Documentation](https://tomglobal.org/project?id=618009134f10776dbe4885f5)
-3) [Standing Desk Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)
-4) [Air Pump-Controlled Feeding Device Documentation](https://tomglobal.org/project?id=61800b054f10776dbe4885f7)
-5) [Poncho Raincoat Documentation](https://tomglobal.org/project?id=61800ba74f10776dbe4885f8)
-6) [Basket Attachment Documentation](https://tomglobal.org/project?id=61800c214f10776dbe4885f9)
-7) [Flute Passive Prosthetic Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)
-8) [Shopping Cart Seat Documentation](https://tomglobal.org/project?id=61800cbd4f10776dbe4885fa)
+1) [Mobile Sensory Unit Documentation](https://tomglobal.org/project?id=615c78c60a3b463bd05551a6)<br>
+2) [Seatbelt Attachment Documentation](https://tomglobal.org/project?id=618009134f10776dbe4885f5)<br>
+3) [Standing Desk Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)<br>
+4) [Air Pump-Controlled Feeding Device Documentation](https://tomglobal.org/project?id=61800b054f10776dbe4885f7)<br>
+5) [Poncho Raincoat Documentation](https://tomglobal.org/project?id=61800ba74f10776dbe4885f8)<br>
+6) [Basket Attachment Documentation](https://tomglobal.org/project?id=61800c214f10776dbe4885f9)<br>
+7) [Flute Passive Prosthetic Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)<br>
+8) [Shopping Cart Seat Documentation](https://tomglobal.org/project?id=61800cbd4f10776dbe4885fa)<br>
 9) [Scooter-Wheelchair Hybrid Documentatio](https://tomglobal.org/project?id=61800e0c4f10776dbe4885fb)

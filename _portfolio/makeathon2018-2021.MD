@@ -10,11 +10,11 @@ gallery:
 gallery2018:
   - image_path: assets/img/2018 Makeathon Group.jpg
 gallery2019s:
-  - image_path: assets/img/2018 Makeathon Group S.jpg
+  - image_path: assets/img/2019 Makeathon Group S.JPG
 gallery2019f:
-  - image_path: assets/img/2018 Makeathon Group F.jpg
+  - image_path: assets/img/2019 Makeathon Group F.jpg
 gallery2021:
-  - image_path: assets/img/2021 Makeathon Group.jpg
+  - image_path: assets/img/2021 Makeathon Group.JPG
 
 ---
 
@@ -26,9 +26,11 @@ gallery2021:
 
 ## About
 
-This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery id="gallery2018" %}
+
+Projects included......
 
 ### Project Documentations
 
@@ -41,9 +43,11 @@ xx
 
 ## About
 
-This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery id="gallery2019s" %}
+
+Projects included......
 
 ### Project Documentations
 
@@ -56,11 +60,13 @@ xx
 
 ## About
 
-This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery id="gallery2019f" %}
 
-{% include gallery %}
+Projects included......
+
+{% include gallery caption="2019-2020 Executive Board" %}
 
 ### Project Documentations
 
@@ -73,7 +79,7 @@ xx
 
 ## About
 
-This year, we hosted over 70 participants, including Makers, Need Knowers, and Team Leads, at our 4th annual Makeathon. We had 9 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. 
+This year, we hosted over 70 participants, including Makers, Need Knowers, and Team Leads, at our 4th annual Makeathon. We had 9 teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery id="gallery2021" %}
 

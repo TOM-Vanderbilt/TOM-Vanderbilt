@@ -167,11 +167,11 @@ Team 3 prototyped a leash with a light-up feature that would flash green (Jameso
 
 **Team Lead: Ryder Li**<br>
 
-xx
+Ruby is a 14-year-old who has trouble using one side of her body. She especially struggles with putting on a bra unassisted since she cannot hold the bra straps and secure the hooks simultaneously. Ruby needed a way to put on and secure a bra using just one hand.
 
 {% include gallery id="gallery7" %}
 
-xx
+Team 7 designed a simple modification that can be incorporated with any bra. The solution includes a knot mechanism to hold the bra straps in place, as well as a velcro attachment to allow for easy single-handed attachment and detachment. This modification allows Ruby to put on her bras independently without a bulky contraption (the design stays invisible under Ruby's shirts). The accessible bra documentation can be found here: [Accessible Bra Documentation](https://tomglobal.org/project?id=64459895abd8c804e3215c2b).
 
 {% include gallery id="gallery7g" %}
 
@@ -217,6 +217,8 @@ Hugh, a returner from the 2021 Makeathon, is a 7-year-old with clubbed arms. He 
 
 xx
 Hugh is an elementary school student with clubbed hands. Add assisting strategies via clothing alterations to help Hugh dress independently.
+
+lterations, loops to pull on clothes
 
 https://tomglobal.org/project?id=6362ec328694e63637185a3a
 

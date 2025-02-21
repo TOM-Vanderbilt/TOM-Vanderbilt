@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Our Projects"
       url: "/portfolio/"
-excerpt: "One of the highest performing TOM communities, TOM: Vanderbilt is dedicated to designing and disseminating accessible, open source solutions for individuals with disabilities and other unmet needs at no cost."
+excerpt: "TOM: Vanderbilt is dedicated to designing and disseminating accessible, open source solutions for individuals with disabilities and other unmet needs at no cost."
 feature_row:
   - image_path: assets/img/Limb Attachment Award.jpg
     alt: "Limb Attachment Best Documentation"

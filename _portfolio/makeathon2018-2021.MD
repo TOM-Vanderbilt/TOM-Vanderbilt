@@ -77,13 +77,22 @@ xx
 
 ## About
 
-This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. Projects included......
+This year, we hosted over 70 participants, including Makers, Need Knowers, and Team Leads, at our 4th annual Makeathon. We had 9 teams working throughout the weekend to prototype solutions for their Need Knowers.<br><br> The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery %}
+
+Projects included 1) a mobile sensory unit, 2) a seatbelt buckle stabilizer, 3) a magnetic elevated desk, 4) an air pump-controlled feeding device, 5) a poncho raincoat for use with a wheelchair or wallker, 6) a basket attachment for a reverse walker, 7) a one-handed pentatonic flute adaptation, 8) a shopping cart seat, and 9) a scooter-wheelchair hybrid device. 
 
 {% include gallery id="gallery2018" %}
 
 ### Project Documentation
 
-xx
-
+1) [Mobile Sensory Unit Documentation](https://tomglobal.org/project?id=615c78c60a3b463bd05551a6)
+2) [Seatbelt Attachment Documentation](https://tomglobal.org/project?id=618009134f10776dbe4885f5)
+3) [Standing Desk Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)
+4) [Air Pump-Controlled Feeding Device Documentation](https://tomglobal.org/project?id=61800b054f10776dbe4885f7)
+5) [Poncho Raincoat Documentation](https://tomglobal.org/project?id=61800ba74f10776dbe4885f8)
+6) [Basket Attachment Documentation](https://tomglobal.org/project?id=61800c214f10776dbe4885f9)
+7) [Flute Passive Prosthetic Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)
+8) [Shopping Cart Seat Documentation](https://tomglobal.org/project?id=61800cbd4f10776dbe4885fa)
+9) [Scooter-Wheelchair Hybrid Documentatio](https://tomglobal.org/project?id=61800e0c4f10776dbe4885fb)

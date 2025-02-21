@@ -5,7 +5,7 @@ title: "Contact Us"
 gallery:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Headshot Maya Miller.jpg
+  - image_path: assets/img/Elizabeth Walther Headshot.jpg
 
 gallery2:
   - image_path: assets/img/Elizabeth Walther Headshot.jpg

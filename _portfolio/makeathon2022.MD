@@ -128,9 +128,7 @@ Alicia and Chelsea are two friends with cerebral palsy, a condition that affects
 
 {% include gallery id="gallery4" %}
 
-Alicia and Chelsea have Cerebral Palsy which makes limits their range of motion. They use grabbers to help them extend their range of motion but are looking for something that is able to pick up small items and help in more specific tasks.
-
-https://tomglobal.org/project?id=6362ea168694e636371859a7
+Team 4 adapted a grabber so that Alicia and Chelsea can use it to pick up small items and help in more specific tasks. Additionally, Team 4 prototyped a device that Alicia and Chelsea could use to help them button their pants and shirts. The grabber documentation can be found here: [Adapted Grabber Documentation](https://tomglobal.org/project?id=6362ea168694e636371859a7).
 
 {% include gallery id="gallery4g" %}
 

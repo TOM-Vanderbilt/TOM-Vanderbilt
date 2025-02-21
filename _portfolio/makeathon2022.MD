@@ -189,18 +189,15 @@ Team 8 created a two-handed mouse system. They separated the buttons from the mo
 {% include gallery id="gallery8g" %}
 
 
-## Team 9 - Mary Cayten
+## Team 9 - Mary Cayten & Allie
 
 **Team Lead: Abbie Wollheim**<br>
 
-xx
+Mary Cayten has Elhers-Danlos Syndrome, a condition that affects her connective tissue. Allie has ALS, a neurodegenerative condition that has led to arm paralysis. Both women need to use a straw to drink water from a cup. However, straws are becoming increasingly difficult to find in restaurants, and they are often shamed when they asks for one due to the perceived environmental impact straws have. Mary Cayten and Allie needed a fashionable, portable, and resuable straw they could use when at a restaurant.
 
 {% include gallery id="gallery9" %}
 
-xx
-Many people with disabilities need to use a straw to drink from a cup. However, straws are becoming increasingly difficult to find in restaurants, or people can often be shamed when they ask for one because of the perceived environmental impact straws have. The challenge is to develop a portable straw bracelet that is both fashionable and functional.
-
-https://tomglobal.org/project?id=6362ebe88694e63637185a22
+Team 9 created a bracelet that stores a reusable straw between two bands. The bands appear like normal bracelets on top, but have a removable storage container underneath. This design allows Mary Cayten and Allie to easily travel with and have access to a straw. The straw bracelet documentation can be found here: [Straw Bracelet Documentation](https://tomglobal.org/project?id=6362ebe88694e63637185a22).
 
 {% include gallery id="gallery9g" %}
 

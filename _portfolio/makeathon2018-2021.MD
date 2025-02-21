@@ -81,7 +81,7 @@ This year, we hosted over 70 participants, including Makers, Need Knowers, and T
 
 {% include gallery %}
 
-Projects included 1) a mobile sensory unit, 2) a seatbelt buckle stabilizer, 3) a magnetic elevated desk, 4) an air pump-controlled feeding device, 5) a poncho raincoat for use with a wheelchair or wallker, 6) a basket attachment for a reverse walker, 7) a one-handed pentatonic flute adaptation, 8) a shopping cart seat, and 9) a scooter-wheelchair hybrid device. 
+Projects included 1) a mobile sensory unit, 2) a seatbelt buckle stabilizer, 3) a magnetic elevated desk, 4) an air pump-controlled feeding device, 5) a poncho raincoat for use with a wheelchair or wallker, 6) a basket attachment for a reverse walker, 7) a one-handed pentatonic flute adaptation, 8) a shopping cart seat, and 9) a scooter-wheelchair hybrid device. Both the air pump-controlled feeding device (4) and the one-handed flute adaptation (7) were continued into the 2022 Open Innovation Challenge.
 
 {% include gallery id="gallery2018" %}
 

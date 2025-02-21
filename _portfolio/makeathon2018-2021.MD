@@ -26,11 +26,11 @@ gallery2021:
 
 ## About
 
-This year, we hosted over XX participants, including Makers, Need Knowers, and Team Leads, at our XX annual Makeathon. We had XX teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
+This year, we hosted over 35 participants, including Makers, Need Knowers, and Team Leads, at our 1st annual Makeathon. We had 7 teams working throughout the weekend to prototype solutions for their Need Knowers. The weekend culminated in a showcase where each team was able to present about the work they completed. 
 
 {% include gallery id="gallery2018" %}
 
-Projects included......
+Projects included 1) a universal obstacle course obstacle for Adam & HappyFest, 2) a modified drone controller for Eli, 3) an adjustable outdoor and bathtub seat for Authur, 4) a control module adaptation for Amanda & Go Baby Go, 5) a wheelchair-mounted iPad holder for Jimmy, 6) a one-handed cutting and writing device for Zion??, and 7) an assistive key holder and a feeding tray for Zoe.
 
 ### Project Documentations
 
@@ -70,6 +70,7 @@ Projects included 1) an adapted video game controller for Zion, 2) a wheelchair 
 
 ### Project Documentations
 
+1) [Adapted Video Game Controller Documentation](https://tomglobal.org/project?id=5dc351ca5cb35d632b07ee84)<br>
 2) [Wheelchair Umbrella Attachment Documentation](https://tomglobal.org/project?id=5dc351fd5cb35d632b07ee85)<br>
 4) [Adapted Bath Chair Documentation](https://tomglobal.org/project?id=5dc353f55cb35d632b07ee88) & [Cooling Vest Documentation](https://tomglobal.org/project?id=5e017d16d848736b095543b6)<br>
 5) [Food Tray Documentation](https://tomglobal.org/project?id=5dd41c59d848736b095541b6)<br>

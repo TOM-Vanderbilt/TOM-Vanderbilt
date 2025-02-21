@@ -154,11 +154,11 @@ Team 5 modified a metal mesh container to function as Kristi's basket. The team 
 
 **Team Lead: Mayaank Pillai**<br>
 
-xx
+Jameson is a 6-year-old with an autoimmune inflammatory brain disorder that leads to severe ADHD and mild to severe moblity issues. He was recently paired with a service dog, Sushi, to eliminate the need for his wheelchair. Jameson holds the handle of Sushi's harness to keep from eloping, but he still sometimes strays from the safety of the dog. Jameson needed an incentive to remind him to reconnect with Sushi's harness.
 
 {% include gallery id="gallery6" %}
 
-https://tomglobal.org/project?id=6362ead68694e636371859d7
+Team 3 prototyped a leash with a light-up feature that would flash green (Jameson's favorite color) when he held onto Sushi. The longer Jameson held onto the leash, the more unique green flashing patterns would appear. This design incentivized Jameson to stay with Sushi. The leash documentation can be found here: [Harness Helper Documentation](https://tomglobal.org/project?id=6362ead68694e636371859d7).
 
 {% include gallery id="gallery6g" %}
 
@@ -180,29 +180,11 @@ xx
 
 **Team Lead: Eliza Hill**<br>
 
-xx
-Hugh Lang is a 7 year-old boy with clubbed arms, four fingers on his right hand, and three fingers on his left hand.
-
-
-Why?
-
-Since he doesn’t have thumbs, Hugh mainly uses his pinky fingers. However, this means that a normal computer mouse is not very practical for him. He can either move the mouse or click on it, but cannot do both at the same time.
-
-
+Hugh, a returner from the 2021 Makeathon, is a 7-year-old with clubbed arms. He has four fingers on his right hand and three fingers on his left hand. Since he doesn’t have thumbs, he mainly uses his pinky fingers. However, this means that a normal computer mouse is not very practical for Hugh. He can either move the mouse or click on it, but he cannot do both at the same time. Hugh needed an adapted computer mouse so that he could navigate his computer more easily.
 
 {% include gallery id="gallery8" %}
 
-xx
-How?
-
-By separating the buttons from the mouse, this design presents a two-handed system. Hugh will be able to press the buttons and move the mouse simultaneously.
-
-
-What?
-
-The solution is a redesign of a traditional mouse that consists of a mouse for cursor movement and a box that has three buttons on it, one for right-clicking, one for left-clicking, and one for scrolling. This system uses USB to connect to any computer.
-
-https://tomglobal.org/project?id=6448142eabd8c804e3243e6b
+Team 8 created a two-handed mouse system. They separated the buttons from the mouse by creating a box with three buttons on it: one for right-clicking, one for left-clicking, and one for scrolling. This box is connected to a mouse, which can be plugged into the USB port of any computer. This design allows Hugh to press the button and move the mouse simultaneously. Additionally, Team 8 continued a 2022 Open Innovation Challenge project, iterating on previous designs to create an independent feeding device for Hugh. Both projects were continued into the 2023 Global Innovation Challenge. The mouse documentation can be found here: [Adaotable Computer Mouse Documentation](https://tomglobal.org/project?id=6448142eabd8c804e3243e6b). The independent feeding device documentation, modified for an additional Need Knower, can be found here: [Independent Feeding Device Documentation](https://tomglobal.org/project?id=640a81396377df4983c8648d).
 
 {% include gallery id="gallery8g" %}
 
@@ -228,6 +210,8 @@ https://tomglobal.org/project?id=6362ebe88694e63637185a22
 **Team Lead: Alex Sargent Capps**<br>
  
 xx 
+
+Hugh, a returner from the 2021 Makeathon, is a 7-year-old with clubbed arms. He has four fingers on his right hand and three fingers on his left hand.
 
 {% include gallery id="gallery10" %}
 

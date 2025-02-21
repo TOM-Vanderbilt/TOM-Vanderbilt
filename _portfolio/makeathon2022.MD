@@ -102,9 +102,7 @@ Sara is a Vanderbilt student who was diagnosed with 100% hearing loss in her rig
 
 {% include gallery id="gallery2" %}
 
-xx
-
-https://tomglobal.org/project?id=6362e8f68694e6363718596f
+Team 2 created a microphone to speaker amplifier circuit. The microphone was placed near the passenger seat, and the speaker was placed on the left side of the driver seat in Sara's car. This system allows Sara to hear the passenger talking, play music, and pay attention to the road simultaneously. The speaker documentation can be found here: [Microphone to Speaker Amplifier Documentation](https://tomglobal.org/project?id=6362e8f68694e6363718596f). 
 
 {% include gallery id="gallery2g" %}
 

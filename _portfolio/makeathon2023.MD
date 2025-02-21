@@ -255,7 +255,7 @@ Team 10 adapted a cane and a walker to be more fashionable, including gold shimm
 
 **Team Lead: Ryder Li**<br>
 
-Hugh, a returner from the 2022 Makeathon, is a young boy with clubbed hands. He has trouble grabbing and holding onto things. Hugh needed a comfortable, adatable grabber that would allow him to pick up various objects. Hugh also needed a way to hold down paper when he is writing and drawing.
+Hugh, a returner from the 2022 Makeathon, is an 8-year-old with clubbed hands. He has trouble grabbing and holding onto things. Hugh needed a comfortable, adatable grabber that would allow him to pick up various objects. Hugh also needed a way to hold down paper when he is writing and drawing.
 
 {% include gallery id="gallery11" %}
 

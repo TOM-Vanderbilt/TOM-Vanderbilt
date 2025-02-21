@@ -206,21 +206,13 @@ Team 9 created a bracelet that stores a reusable straw between two bands. The ba
 
 **Team Lead: Alex Sargent Capps**<br>
  
-xx 
-
-Hugh, a returner from the 2021 Makeathon, is a 7-year-old with clubbed arms. He has four fingers on his right hand and three fingers on his left hand.
+Hugh, a returner from the 2021 Makeathon, is a 7-year-old with clubbed arms. He has four fingers on his right hand and three fingers on his left hand. Hugh struggles with dressing himself independently, particularly with putting on pants. Hugh wanted a way to pull up his pants without the help of his parents.
 
 {% include gallery id="gallery10" %}
 
-xx
-Hugh is an elementary school student with clubbed hands. Add assisting strategies via clothing alterations to help Hugh dress independently.
-
-lterations, loops to pull on clothes
-
-https://tomglobal.org/project?id=6362ec328694e63637185a3a
+Team 10 modified some of Hugh's pants to include loops in the waistband. This enables Hugh to use his pinky fingers to pull up his pants, giving him more independence. The clothing alterations documentation can be found here: [Pant Alterations Documentation](https://tomglobal.org/project?id=6362ec328694e63637185a3a).
 
 {% include gallery id="gallery10g" %}
 
 
 {% include gallery %}
-

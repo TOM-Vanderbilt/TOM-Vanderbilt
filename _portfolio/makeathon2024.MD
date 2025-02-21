@@ -248,7 +248,7 @@ Team 11 created a rolling sit-to-stand board with foot plates patients could str
 
 **Team Lead: Victor Dunagan**<br>
 
-Hugh is a young boy with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
+Hugh is a 9-year-old with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
 
 {% include gallery id="gallery12" %}
 

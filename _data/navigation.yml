@@ -4,6 +4,8 @@ main:
     url: /_pages/sign-ups
   - title: "Events & Projects"
     url: /portfolio/
+  - title: "Challenge Submissions"
+    url: /_pages/challengesubmissions
   - title: "About"
     url: /_pages/about
   - title: "Contact Us"

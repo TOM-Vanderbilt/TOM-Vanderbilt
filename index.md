@@ -6,8 +6,8 @@ header:
   overlay_filter: "0.2"
   overlay_image: https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/291/2019/08/19174104/600x600-WondryAutumn.jpg
   actions:
-    - label: "Our Projects"
-      url: "/portfolio/"
+    - label: "Donate Here!"
+      url: https://secure.lglforms.com/form_engine/s/JpGFs3nCkxNcpHTkwJ23vQ?t=1568101561
 excerpt: "TOM: Vanderbilt is dedicated to designing and disseminating accessible, open source solutions for individuals with disabilities and other unmet needs at no cost."
 feature_row:
   - image_path: assets/img/Limb Attachment Award.jpg

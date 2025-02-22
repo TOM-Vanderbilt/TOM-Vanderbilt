@@ -12,7 +12,7 @@ A Need Knower is defined as an individual living with a disability or who has an
 
 ## Need Knower Recruitment
 
-If you are a Need Knower that is interested in participating in a future Makeathon or that has a challenge you want us to work on, please submit the form below to tell us more!<br><br>
+We are always recruiting for more Need Knowers! If you are interested in participating in a future Makeathon or have a challenge you want us to work on, please submit the form below to tell us more.<br>
 
 [Challenge Submission Form](https://forms.gle/taXSCmMtuX8dpWSc6)
 

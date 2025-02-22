@@ -2,10 +2,10 @@
 main:
   - title: "Open Sign-Ups"
     url: /_pages/sign-ups
-  - title: "Events & Projects"
-    url: /portfolio/
   - title: "Challenge Submissions"
     url: /_pages/challengesubmissions
+  - title: "Events & Projects"
+    url: /portfolio/
   - title: "About"
     url: /_pages/about
   - title: "Contact Us"

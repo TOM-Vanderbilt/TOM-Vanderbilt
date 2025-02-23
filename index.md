@@ -33,7 +33,7 @@ feature_row:
 
 gallery:
   - image_path: assets/img/TOM Global Logo.jpg
-  - image_path: assets/img/TOM Vandy Logo.jpg
+  - image_path: assets/img/TOM Vandy Logo Cropped.jpg
 
 ---
 

@@ -30,7 +30,16 @@ feature_row:
     title: "2022 TOM Abraham Accords Open Innovation Challenge - Scott Carlton Community Award"
     excerpt: "Out of more than 70 teams from 14 countries, Vanderbilt's One Handed Flute Prosthesis and Independent Feeding Tube Device were awarded the Scott Carlton Community Award for exemplifing empathy, community, and humanity."
 
+
+gallery:
+  - image_path: assets/img/TOM Global Logo.jpg
+  - image_path: assets/img/TOM Vandy Logo.jpg
+
 ---
 
 {% include feature_row %}
+
+<br><br>
+
+{% include gallery %}
 

@@ -24,7 +24,7 @@ gallery4:
 
 gallery5:
   - image_path: assets/img/Headshot Ella Provancher.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Chloe Park.jpg
   - image_path: assets/img/Headshot Kevin Galloway.jpg
 ---
 

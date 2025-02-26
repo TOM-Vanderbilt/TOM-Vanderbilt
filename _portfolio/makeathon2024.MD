@@ -109,7 +109,7 @@ Jen is the founder of AbleVoices, an organization that teaches photography to in
 
 {% include gallery id="gallery1" %}
 
-Team 1 created two different camera adaptations. Once adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
+Team 1 created two different camera adaptations. One adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
 
 {% include gallery id="gallery1g" %}
 
@@ -118,7 +118,7 @@ Team 1 created two different camera adaptations. Once adaptation featured a larg
 
 **Team Lead: Megan Wang**<br>
 
-Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
+Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full-time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
 
 {% include gallery id="gallery2" %}
 
@@ -131,7 +131,7 @@ Team 2 prototyped an automatic door controller that could be controlled by Robby
 
 **Team Lead: Eliza Hill**<br>
 
-Beverly had blood clots in her left hand in 2018 that led to a partial amputation. She then had a stroke on her right side while recovering from the amputation, limiting the mobility of her right arm/hand. She loved playing the piano and cooking, but has had trouble doing those things since the incident. Beverly wanted something to help her play piano again, and something to help her hold and use kitchen utensils while cooking.
+Beverly had blood clots in her left hand in 2018 that led to a partial amputation. She then had a stroke on her right side while recovering from the amputation, limiting the mobility of her right arm/hand. She loved playing the piano and cooking but has had trouble doing those things since the incident. Beverly wanted something to help her play piano again, and something to help her hold and use kitchen utensils while cooking.
 
 {% include gallery id="gallery3" %}
 
@@ -144,11 +144,11 @@ Team 3 created a sliding arm rest for Beverly's right hand and finger prosthetic
 
 **Team Lead: Kaiser Williams**<br>
 
-Kenny has neuropathy in both hands (his fingers are curled up and he can't move them). He has trouble gripping things, and lost his job because he could no longer write with a pencil. Kenny needed a way to help him grasp and manipulate a pencil/pen so that he could write independently.
+Kenny has neuropathy in both hands (his fingers are curled up and he can't move them). He has trouble gripping things and lost his job because he could no longer write with a pencil. Kenny needed a way to help him grasp and manipulate a pencil/pen so that he could write independently.
 
 {% include gallery id="gallery4" %}
 
-Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pincing motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed to that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
+Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pinching motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed so that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
 
 {% include gallery id="gallery4g" %}
 
@@ -170,11 +170,11 @@ Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch to h
 
 **Team Lead: Charlotte Lichtenfeld**<br>
 
-Liam, a returner from the 2023 Makeathon, is an 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that stop when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
+Liam, a returner from the 2023 Makeathon, is a 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that stop when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
 
 {% include gallery id="gallery6" %}
 
-Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair that could be flattened mounted to a lower base. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adaptated Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
+Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair that could be flattened mounted to a lower base. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adapted Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
 
 {% include gallery id="gallery6g" %}
 

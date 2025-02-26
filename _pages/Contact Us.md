@@ -3,23 +3,23 @@
 title: "Contact Us"
 
 gallery:
+  - image_path: assets/img/Headshot Elizabeth Walther.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Maya Miller.jpg
 
 gallery2:
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Isabella Murano.jpg
+  - image_path: assets/img/Headshot Shannon Gordon.jpg
+  - image_path: assets/img/Headshot Victor Dunagan.jpg
 
 gallery3:
+  - image_path: assets/img/Headshot Hailey Jane Frank.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Rylan Hunt.jpg
 
 gallery4:
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Dani Topper.jpg
+  - image_path: assets/img/Headshot Kalyn Day.jpg
   - image_path: assets/img/Elizabeth Walther Headshot.jpg
 
 gallery5:

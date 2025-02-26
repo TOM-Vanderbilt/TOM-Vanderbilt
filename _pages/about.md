@@ -2,7 +2,7 @@
 
 title: "About TOM: Vanderbilt"
 gallery:
-  - image_path: assets/img/2024 Makeathon Group.jpg
+  - image_path: assets/img/2025 Exec (Headshots).jpg
 
 galleryx:
   - image_path: assets/img/TOM Global Logo Blank.jpg

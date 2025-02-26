@@ -17,7 +17,7 @@ Since 2014, TOM has grown from one community in Israel to dozens of locations ar
 
 {% include gallery id="galleryx" %}
 
-TOM: Vanderbilt was founded in 2017 in Nashville, Tennesse as one of the first university communities in the United States. TOM: Vanderbilt operates out of the Wond'ry, an interdisciplinary center for innovation that provides the tools and resources for students and faculty to bring their ideas to life.
+TOM: Vanderbilt was founded in 2017 in Nashville, Tennessee as one of the first university communities in the United States. TOM: Vanderbilt operates out of the Wond'ry, an interdisciplinary center for innovation that provides the tools and resources for students and faculty to bring their ideas to life.
 
 ## Stats
 As of January 2025...

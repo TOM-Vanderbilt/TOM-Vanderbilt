@@ -63,7 +63,7 @@ This year, we hosted over 100 participants, including Makers, Need Knowers, and 
 
 {% include gallery id="gallery2019f" %}
 
-Projects included 1) an adapted video game controller for Zion (returner from the Spring 2019 Makeathon), 2) a wheelchair umbrella attachment for Carrie, 3) a waterproof casing for medical machines for Adam (returner from the Spring 2019 Makeathon), 4) a bath chair and cooling vest for Sara Grace (returner from the Spring 2019 Makeathon), 5) a tray holder for a reverse walker for Kristi (returner from the Spring 2019 Makeathon), 6) an updated guitar pick for Linden (returner from the Spring 2019 Makeathon), 7) an Xbox controller wheelchair attachment for Ivy, 8) an iOS app that interfaces with QR codes and RFID sensors for James, and 9) a mini golf club attachement for Hugh. 
+Projects included 1) an adapted video game controller for Zion (returner from the Spring 2019 Makeathon), 2) a wheelchair umbrella attachment for Carrie, 3) a waterproof casing for medical machines for Adam (returner from the Spring 2019 Makeathon), 4) a bath chair and cooling vest for Sara Grace (returner from the Spring 2019 Makeathon), 5) a tray holder for a reverse walker for Kristi (returner from the Spring 2019 Makeathon), 6) an updated guitar pick for Linden (returner from the Spring 2019 Makeathon), 7) an Xbox controller wheelchair attachment for Ivy, 8) an iOS app that interfaces with QR codes and RFID sensors for James, and 9) a mini golf club attachment for Hugh. 
 
 {% include gallery caption="2019-2020 Executive Board" %}
 

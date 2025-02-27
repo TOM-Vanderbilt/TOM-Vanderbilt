@@ -20,7 +20,7 @@ gallery3:
 gallery4:
   - image_path: assets/img/Headshot Dani Topper.jpg
   - image_path: assets/img/Headshot Kalyn Day.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Isabella Blauzdys.jpg
 
 gallery5:
   - image_path: assets/img/Headshot Ella Provancher.jpg

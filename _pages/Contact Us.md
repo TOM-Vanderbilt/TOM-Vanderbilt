@@ -14,7 +14,7 @@ gallery2:
 
 gallery3:
   - image_path: assets/img/Headshot Hailey Jane Frank.jpg
-  - image_path: assets/img/Elizabeth Walther Headshot.jpg
+  - image_path: assets/img/Headshot Kanani Silva.jpg
   - image_path: assets/img/Headshot Rylan Hunt.jpg
 
 gallery4:

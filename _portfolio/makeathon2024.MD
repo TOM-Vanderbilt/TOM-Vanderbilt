@@ -183,11 +183,11 @@ Team 6 created two stroller options for Liam. The first was a folding chair moun
 
 **Team Lead: Maya Miller**<br>
 
-Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of the car, the ramp is narrow and the wheenchair often falls off, leavings is parents to bare the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for his art. He also needed an adaptive Halloween costume for his school's Halloween dance!
+Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of their car, the ramp is narrow and the wheelchair often falls off, leavings his parents to bear the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for his art. He also needed an adaptive Halloween costume for his school's Halloween dance!
 
 {% include gallery id="gallery7" %}
 
-Team 7 created a folding table that could be clamped onto Deklan's wheelchair, based on tables in a classroom. They also created removable sidings that could be attached to his car's wheelchair ramps. Lastly, they crafted him a Dragon Ball Z Son Goku light-up Halloween costume. The folding table project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7). Additionally, the wheelchair ramp sidings documentation can be found here: [Wheelchair Ramp Sidings Documentation](https://tomglobal.org/project?id=66fdd28d6b0782001398fbfa).
+Team 7 created a folding table that could be clamped onto Deklan's wheelchair, inspired by tables in classrooms. They also created removable sidings that could be attached to his car's wheelchair ramps. Lastly, they crafted him a Dragon Ball Z Son Goku light-up Halloween costume. The folding table project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7). Additionally, the wheelchair ramp sidings documentation can be found here: [Wheelchair Ramp Sidings Documentation](https://tomglobal.org/project?id=66fdd28d6b0782001398fbfa).
 
 {% include gallery id="gallery7g" %}
 
@@ -209,7 +209,7 @@ Team 8 created a set of foot plate inserts for both feet at varying angles, givi
 
 **Team Lead: Tessa Mahoney**<br>
 
-Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyperextend and injure her joints. She travels often for work, and has difficulty pushing and lifting her suitcase. When at home, she makes frequent trips to the grocery store as she can only carry one bag up her her apartment at a time. Nassanah needed wrist supports for rolling and lifting her luggage, and something to make carring groceries upstairs easier.
+Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyperextend and injure her joints. She travels often for work, and has difficulty pushing and lifting her suitcase. When at home, she makes frequent trips to the grocery store as she can only carry one bag up her her apartment at a time. Nassanah needed wrist supports for rolling and lifting her luggage, and something to make carrying groceries upstairs easier.
 
 {% include gallery id="gallery9" %}
 
@@ -222,11 +222,11 @@ Team 9 created an insulated grocery vest, placing a majority of the weight at Na
 
 **Team Lead: Isabella Murano**<br>
  
-Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are age-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair that has various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
+Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are age-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair with various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
 
 {% include gallery id="gallery10" %}
 
-Team 10 created an adjustable laser-cut toddler chair that had attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
+Team 10 created an adjustable laser-cut toddler chair that has an attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
 
 {% include gallery id="gallery10g" %}
 
@@ -235,7 +235,7 @@ Team 10 created an adjustable laser-cut toddler chair that had attachable head a
 
 **Team Lead: Hadley Rossignol**<br>
 
-Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who had cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
+Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who have cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
 
 {% include gallery id="gallery11" %}
 
@@ -252,7 +252,7 @@ Hugh is a 9-year-old with clubbed hands. He is currently unable to ride a bike s
 
 {% include gallery id="gallery12" %}
 
-Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here:[Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
+Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here: [Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
 
 {% include gallery id="gallery12g" %}
 

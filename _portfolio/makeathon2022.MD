@@ -85,7 +85,7 @@ The weekend culminated in a showcase where each team was able to present about t
 
 **Team Lead: Rebecca Pan**<br>
 
-Amy and Stephen are graduate students at Vanderbilt studying audiology. They work with students with hearing loss who have difficulty hearing in the engineering labs. Amy and Stephen wanted to reduce background noise and reverberation, as well was incorporate a closed captioning system, to improve accessibility for those with hearing loss.
+Amy and Stephen are graduate students at Vanderbilt studying audiology. They work with students with hearing loss who have difficulty hearing in the engineering labs. Amy and Stephen wanted to reduce background noise and reverberation, as well as incorporate a closed captioning system, to improve accessibility for those with hearing loss.
 
 {% include gallery id="gallery1" %}
 
@@ -150,11 +150,11 @@ Team 5 modified a metal mesh container to function as Kristi's basket. The team 
 
 **Team Lead: Mayaank Pillai**<br>
 
-Jameson is a 6-year-old with an autoimmune inflammatory brain disorder that leads to severe ADHD and mild to severe moblity issues. He was recently paired with a service dog, Sushi, to eliminate the need for his wheelchair. Jameson holds the handle of Sushi's harness to keep from eloping, but he still sometimes strays from the safety of the dog. Jameson needed an incentive to remind him to reconnect with Sushi's harness.
+Jameson is a 6-year-old with an autoimmune inflammatory brain disorder that leads to severe ADHD and mild to severe mobility issues. He was recently paired with a service dog, Sushi, to eliminate the need for his wheelchair. Jameson holds the handle of Sushi's harness to keep from eloping, but he still sometimes strays from the safety of the dog. Jameson needed an incentive to remind him to reconnect with Sushi's harness.
 
 {% include gallery id="gallery6" %}
 
-Team 3 prototyped a leash with a light-up feature that would flash green (Jameson's favorite color) when he held onto Sushi. The longer Jameson held onto the leash, the more unique green flashing patterns would appear. This design incentivized Jameson to stay with Sushi. The leash documentation can be found here: [Harness Helper Documentation](https://tomglobal.org/project?id=6362ead68694e636371859d7).
+Team 6 prototyped a leash with a light-up feature that would flash green (Jameson's favorite color) when he held onto Sushi. The longer Jameson held onto the leash, the more unique green flashing patterns would appear. This design incentivized Jameson to stay with Sushi. The leash documentation can be found here: [Harness Helper Documentation](https://tomglobal.org/project?id=6362ead68694e636371859d7).
 
 {% include gallery id="gallery6g" %}
 
@@ -180,7 +180,7 @@ Hugh, a returner from the 2021 Makeathon, is a 7-year-old with clubbed arms. He 
 
 {% include gallery id="gallery8" %}
 
-Team 8 created a two-handed mouse system. They separated the buttons from the mouse by creating a box with three buttons on it: one for right-clicking, one for left-clicking, and one for scrolling. This box is connected to a mouse, which can be plugged into the USB port of any computer. This design allows Hugh to press the button and move the mouse simultaneously. Additionally, Team 8 continued a 2022 Open Innovation Challenge project, iterating on previous designs to create an independent feeding device for Hugh. Both projects were continued into the 2023 Global Innovation Challenge. The mouse documentation can be found here: [Adaotable Computer Mouse Documentation](https://tomglobal.org/project?id=6448142eabd8c804e3243e6b). The independent feeding device documentation, modified for an additional Need Knower, can be found here: [Independent Feeding Device Documentation](https://tomglobal.org/project?id=640a81396377df4983c8648d).
+Team 8 created a two-handed mouse system. They separated the buttons from the mouse by creating a box with three buttons on it: one for right-clicking, one for left-clicking, and one for scrolling. This box is connected to a mouse, which can be plugged into the USB port of any computer. This design allows Hugh to press the button and move the mouse simultaneously. Additionally, Team 8 continued a 2022 Open Innovation Challenge project, iterating on previous designs to create an independent feeding device for Hugh. Both projects were continued into the 2023 Global Innovation Challenge. The mouse documentation can be found here: [Adaptable Computer Mouse Documentation](https://tomglobal.org/project?id=6448142eabd8c804e3243e6b). The independent feeding device documentation, modified for an additional Need Knower, can be found here: [Independent Feeding Device Documentation](https://tomglobal.org/project?id=640a81396377df4983c8648d).
 
 {% include gallery id="gallery8g" %}
 
@@ -189,7 +189,7 @@ Team 8 created a two-handed mouse system. They separated the buttons from the mo
 
 **Team Lead: Abbie Wollheim**<br>
 
-Mary Cayten has Elhers-Danlos Syndrome, a condition that affects her connective tissue. Allie has ALS, a neurodegenerative condition that has led to arm paralysis. Both women need to use a straw to drink water from a cup. However, straws are becoming increasingly difficult to find in restaurants, and they are often shamed when they asks for one due to the perceived environmental impact straws have. Mary Cayten and Allie needed a fashionable, portable, and resuable straw they could use when at a restaurant.
+Mary Cayten has Elhers-Danlos Syndrome, a condition that affects her connective tissue. Allie has ALS, a neurodegenerative condition that has led to arm paralysis. Both women need to use a straw to drink water from a cup. However, straws are becoming increasingly difficult to find in restaurants, and they are often shamed when they ask for one due to the perceived environmental impact straws have. Mary Cayten and Allie needed a fashionable, portable, and resuable straw they could use when at a restaurant.
 
 {% include gallery id="gallery9" %}
 

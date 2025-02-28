@@ -44,6 +44,7 @@ This year, we hosted over 35 participants, including Makers, Need Knowers, and T
 7. An assistive key holder and a feeding tray for Zoe
   * [Feeding Tray Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168abad)
 
+<br><br>
 
 # Spring 2019 Makeathon
 
@@ -55,7 +56,20 @@ This year, we hosted over 75 participants, including Makers, Need Knowers, and T
 
 {% include gallery id="gallery2019s" %}
 
-Projects included 1) adapted swim equipment for Megan & Nashville Dolphins, 2) a cause-and-effect activity toy for Mary, 3) a shoe tying adaptation for Kristi, 4) an iOS communication app (Pikit) for echolalia for Jesse and Alex, 5) a device to measure the viscosity of liquid to be swallowed for Maya, 6) an attachment point for a ventilator to a wheelchair for Adam, 7) a walker with a fold-down seat for Sara Grace, 8) a rugby wheelchair adaptation for Zion (returner from the 2018 Makeathon), 9) an adaptation for tying trash bags for Zoe (returner from the 2018 Makeathon), and 10) an adapted guitar pick for Linden.<br> 
+### Projects & Documentation
+
+1. Adapted swim equipment for Megan & Nashville Dolphins
+2. A cause-and-effect activity toy for Mary
+3. A shoe tying adaptation for Kristi
+4. An iOS communication app (Pikit) for echolalia for Jesse and Alex
+5. A device to measure the viscosity of liquid to be swallowed for Maya
+6. An attachment point for a ventilator to a wheelchair for Adam
+7. A walker with a fold-down seat for Sara Grace
+8. A rugby wheelchair adaptation for Zion (returner from the 2018 Makeathon)
+9. An adaptation for tying trash bags for Zoe (returner from the 2018 Makeathon)
+10. An adapted guitar pick for Linden.
+
+<br><br>
 
 
 # Fall 2019 Makeathon
@@ -68,20 +82,30 @@ This year, we hosted over 100 participants, including Makers, Need Knowers, and 
 
 {% include gallery id="gallery2019f" %}
 
-Projects included 1) an adapted video game controller for Zion (returner from the Spring 2019 Makeathon), 2) a wheelchair umbrella attachment for Carrie, 3) a waterproof casing for medical machines for Adam (returner from the Spring 2019 Makeathon), 4) a bath chair and cooling vest for Sara Grace (returner from the Spring 2019 Makeathon), 5) a tray holder for a reverse walker for Kristi (returner from the Spring 2019 Makeathon), 6) an updated guitar pick for Linden (returner from the Spring 2019 Makeathon), 7) an Xbox controller wheelchair attachment for Ivy, 8) an iOS app that interfaces with QR codes and RFID sensors for James, and 9) a mini golf club attachment for Hugh. 
+### Projects & Documentation
+
+1. An adapted video game controller for Zion (returner from the Spring 2019 Makeathon)
+  * [Adapted Video Game Controller Documentation](https://tomglobal.org/project?id=5dc351ca5cb35d632b07ee84)
+2. A wheelchair umbrella attachment for Carrie
+  * [Wheelchair Umbrella Attachment Documentation](https://tomglobal.org/project?id=5dc351fd5cb35d632b07ee85)
+3. A waterproof casing for medical machines for Adam (returner from the Spring 2019 Makeathon)
+4. A bath chair and cooling vest for Sara Grace (returner from the Spring 2019 Makeathon)
+  * [Adapted Bath Chair Documentation](https://tomglobal.org/project?id=5dc353f55cb35d632b07ee88)
+  * [Cooling Vest Documentation](https://tomglobal.org/project?id=5e017d16d848736b095543b6)
+5. A tray holder for a reverse walker for Kristi (returner from the Spring 2019 Makeathon)
+  * [Food Tray Documentation](https://tomglobal.org/project?id=5dd41c59d848736b095541b6)
+6. An updated guitar pick for Linden (returner from the Spring 2019 Makeathon)
+  * [Adaptable Guitar Pick Documentation](https://tomglobal.org/project?id=5dd41c9cd848736b095541b7)
+7. An Xbox controller wheelchair attachment for Ivy
+  * [CPXbox Documentation](https://tomglobal.org/project?id=5dc353205cb35d632b07ee87)
+8. An iOS app that interfaces with QR codes and RFID sensors for James
+  * [See++ Documentation](https://tomglobal.org/project?id=5dc354575cb35d632b07ee89)
+9. A mini golf club attachment for Hugh
+  * [Mini Golf Club Attachment Documentation](https://tomglobal.org/project?id=5dd41c53d848736b095541b5)
 
 {% include gallery caption="2019-2020 Executive Board" %}
 
-### Project Documentations
-
-1) [Adapted Video Game Controller Documentation](https://tomglobal.org/project?id=5dc351ca5cb35d632b07ee84)<br>
-2) [Wheelchair Umbrella Attachment Documentation](https://tomglobal.org/project?id=5dc351fd5cb35d632b07ee85)<br>
-4) [Adapted Bath Chair Documentation](https://tomglobal.org/project?id=5dc353f55cb35d632b07ee88) & [Cooling Vest Documentation](https://tomglobal.org/project?id=5e017d16d848736b095543b6)<br>
-5) [Food Tray Documentation](https://tomglobal.org/project?id=5dd41c59d848736b095541b6)<br>
-6) [Adaptable Guitar Pick Documentation](https://tomglobal.org/project?id=5dd41c9cd848736b095541b7)<br>
-7) [CPXbox Documentation](https://tomglobal.org/project?id=5dc353205cb35d632b07ee87)<br>
-8) [See++ Documentation](https://tomglobal.org/project?id=5dc354575cb35d632b07ee89)<br>
-9) [Mini Golf Club Attachment Documentation](https://tomglobal.org/project?id=5dd41c53d848736b095541b5)
+<br><br>
 
 
 # 2021 Makeathon
@@ -94,16 +118,28 @@ This year, we hosted over 70 participants, including Makers, Need Knowers, and T
 
 {% include gallery id="gallery2021" %}
 
-Projects included 1) a mobile sensory unit for Adam, 2) a seatbelt buckle stabilizer for Harper, 3) a magnetic elevated desk for Makhaela, 4) an air pump-controlled feeding device for Hugh (returner from the Fall 2019 Makeathon), 5) a poncho raincoat for use with a wheelchair or walker for Oluwatobi and Kristi (returner from the Fall 2019 Makeathon), 6) a basket attachment for a reverse walker for Amelia, 7) a one-handed pentatonic flute adaptation for Lucy, 8) a shopping cart seat for Madeline, and 9) a scooter-wheelchair hybrid device for Jack. Both the air pump-controlled feeding device (4) and the one-handed flute adaptation (7) were continued into the 2022 Open Innovation Challenge.
+### Projects & Documentation
 
-### Project Documentations
+1. A mobile sensory unit for Adam
+  * [Mobile Sensory Unit Documentation](https://tomglobal.org/project?id=615c78c60a3b463bd05551a6)
+2. A seatbelt buckle stabilizer for Harper
+  * [Seatbelt Attachment Documentation](https://tomglobal.org/project?id=618009134f10776dbe4885f5)
+3. A magnetic elevated desk for Makhaela
+  * [Standing Desk Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)
+4. An air pump-controlled feeding device for Hugh (returner from the Fall 2019 Makeathon)
+  * [Air Pump-Controlled Feeding Device Documentation](https://tomglobal.org/project?id=61800b054f10776dbe4885f7)
+5. A poncho raincoat for use with a wheelchair or walker for Oluwatobi and Kristi (returner from the Fall 2019 Makeathon)
+  * [Poncho Raincoat Documentation](https://tomglobal.org/project?id=61800ba74f10776dbe4885f8)
+6. A basket attachment for a reverse walker for Amelia
+  * [Basket Attachment Documentation](https://tomglobal.org/project?id=61800c214f10776dbe4885f9)
+7. A one-handed pentatonic flute adaptation for Lucy
+  * [Flute Passive Prosthetic Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)
+8. A shopping cart seat for Madeline
+  * [Shopping Cart Seat Documentation](https://tomglobal.org/project?id=61800cbd4f10776dbe4885fa)
+9. A scooter-wheelchair hybrid device for Jack. 
+  * [Scooter-Wheelchair Hybrid Documentatio](https://tomglobal.org/project?id=61800e0c4f10776dbe4885fb)
 
-1) [Mobile Sensory Unit Documentation](https://tomglobal.org/project?id=615c78c60a3b463bd05551a6)<br>
-2) [Seatbelt Attachment Documentation](https://tomglobal.org/project?id=618009134f10776dbe4885f5)<br>
-3) [Standing Desk Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)<br>
-4) [Air Pump-Controlled Feeding Device Documentation](https://tomglobal.org/project?id=61800b054f10776dbe4885f7)<br>
-5) [Poncho Raincoat Documentation](https://tomglobal.org/project?id=61800ba74f10776dbe4885f8)<br>
-6) [Basket Attachment Documentation](https://tomglobal.org/project?id=61800c214f10776dbe4885f9)<br>
-7) [Flute Passive Prosthetic Documentation](https://tomglobal.org/project?id=61800a644f10776dbe4885f6)<br>
-8) [Shopping Cart Seat Documentation](https://tomglobal.org/project?id=61800cbd4f10776dbe4885fa)<br>
-9) [Scooter-Wheelchair Hybrid Documentatio](https://tomglobal.org/project?id=61800e0c4f10776dbe4885fb)
+<br>
+
+Both the air pump-controlled feeding device (4) and the one-handed flute adaptation (7) were continued into the 2022 Open Innovation Challenge.
+

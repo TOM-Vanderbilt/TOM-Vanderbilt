@@ -32,18 +32,17 @@ This year, we hosted over 35 participants, including Makers, Need Knowers, and T
 
 ### Projects & Documentation
 
-Projects included... 
-1) A universal obstacle course obstacle for Adam & HappyFest<br>
-2) A modified drone controller for Eli
-  * [Modified Drone Controller Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168aba9)<br>
-3) An adjustable outdoor and bathtub seat for Authur<br>
-4) A control module adaptation for Amanda & Go Baby Go
-   * [Go Baby Go Control Module Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168aba7)<br>
-5) A wheelchair-mounted iPad holder for Jimmy<br>
-6) A one-handed cutting and writing device for Zion
-  * [Pinky Sleeve Documentation](https://tomglobal.org/project?id=5d406c57327725170bc5f8f4)<br>
-7) An assistive key holder and a feeding tray for Zoe
-  * [Feeding Tray Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168abad)
+* A universal obstacle course obstacle for Adam & HappyFest
+* A modified drone controller for Eli
+- [Modified Drone Controller Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168aba9)
+* An adjustable outdoor and bathtub seat for Authur
+* A control module adaptation for Amanda & Go Baby Go
+- [Go Baby Go Control Module Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168aba7)
+* A wheelchair-mounted iPad holder for Jimmy
+* A one-handed cutting and writing device for Zion
+- [Pinky Sleeve Documentation](https://tomglobal.org/project?id=5d406c57327725170bc5f8f4)
+* An assistive key holder and a feeding tray for Zoe
+- [Feeding Tray Documentation](https://tomglobal.org/project?id=5ca3885db506a2297168abad)
 
 
 # Spring 2019 Makeathon

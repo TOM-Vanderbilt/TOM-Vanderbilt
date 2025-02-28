@@ -113,7 +113,7 @@ gallery14l:
 
 This year, we hosted over 150 participants, including Makers, Need Knowers, and Team Leads, at our 6th annual Makeathon. We had 13 teams working throughout the weekend to prototype solutions for their Need Knowers. We also hosted Vanderbilt's Chancellor Diermeier! 
 
-{% include gallery caption="1. Chancellor Daniel Diermeier and President Eliza Hill; 2. Faculty Advisor Kevin Galloway, President Eliza Hill, 2022 President Sara Gregg, TOM: Vanderbilt Founder Bradley Schwartz" %}
+{% include gallery caption="1 - Chancellor Daniel Diermeier and President Eliza Hill; 2 - Faculty Advisor Kevin Galloway, President Eliza Hill, 2022 President Sara Gregg, TOM: Vanderbilt Founder Bradley Schwartz" %}
 
 The weekend culminated in a showcase where each team was able to present about the work they completed. Read more about the 2023 Makeathon projects below!
 

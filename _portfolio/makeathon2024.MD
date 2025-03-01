@@ -174,7 +174,7 @@ Liam, a returner from the 2023 Makeathon, is a 9-year-old with Kleefstra syndrom
 
 {% include gallery id="gallery6" %}
 
-Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair that could be flattened mounted to a lower base. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adapted Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
+Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair mounted to a lower base that could be flattened. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adapted Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
 
 {% include gallery id="gallery6g" %}
 

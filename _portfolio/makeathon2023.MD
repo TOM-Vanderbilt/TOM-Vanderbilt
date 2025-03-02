@@ -4,7 +4,7 @@ date: 2023-11-5
 excerpt: "TOM: Vanderbilt's signature event - our 6th annual Makeathon."
 header:
   image: /assets/img/2023 Makeathon Group.jpg
-  teaser: /assets/img/2023 Makeathon Group.jpg
+  teaser: /assets/img/2023 Makeathon Group Cropped.jpg
 gallery:
   - image_path: assets/img/2023 Diermeier.jpg
   - image_path: assets/img/2023 Galloway.jpg

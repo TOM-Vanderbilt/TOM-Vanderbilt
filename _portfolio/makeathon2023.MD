@@ -125,11 +125,11 @@ The weekend culminated in a showcase where each team was able to present about t
 
 **Team Lead: Charlotte Lichtenfeld**<br>
 
-Liam is a 7-year-old with Kleefstra Syndrome, which causes communication difficulties and hypotonia. He is not have a way to feed himself independently. Liam needed adapted silverware to hold his food. Additionally, his family needed a portable diaper-changing space that allows for privacy on long road trips.
+Liam is a 7-year-old with Kleefstra Syndrome, which causes communication difficulties and hypotonia. He does not have a way to feed himself independently. Liam needed adapted silverware to hold his food. Additionally, his family needed a portable diaper-changing space that allows for privacy on long road trips.
 
 {% include gallery id="gallery1" %}
 
-Team 1 adapted silverware such that it would securely hold food even when turned sideways. They also made a magnetic privacy drape (Buceee's themed!) that could attach to his family's car, allowing for the trunk to be used as a private changing space.
+Team 1 adapted silverware such that it would securely hold food even when turned sideways. They also made a magnetic privacy drape (Bucee's themed!) that could attach to his family's car, allowing for the trunk to be used as a private changing space.
 
 {% include gallery id="gallery1g" %}
 
@@ -229,7 +229,7 @@ Team 8 created head-mounted laser that clips onto glasses and projects a cross o
 
 **Team Lead: Kaitlyn Hannon**<br>
 
-Kate, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who have difficulty lifting and advancing their leg during gait training post-stroke. This lead to the shoe of the weak leg dragging on the floor, creating a fall risk. Kate currently uses an empty tissue box cut in half to decrease friction on a shoe's toe box, but it is not durable. Kate needed a durable, resuable solution that could work with various shoe sized to decrease friction between a patient's foot and the floor. 
+Kate, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who have difficulty lifting and advancing their leg during gait training post-stroke. This lead to the shoe of the weak leg dragging on the floor, creating a fall risk. Kate currently uses an empty tissue box cut in half to decrease friction on a shoe's toe box, but it is not durable. Kate needed a durable, reusable solution that could work with various shoe sized to decrease friction between a patient's foot and the floor. 
 
 {% include gallery id="gallery9" %}
 

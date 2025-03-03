@@ -29,7 +29,7 @@ galleryr3:
 
 # About
 
-After completing 4 successful Go Baby Go cars, the executive board built their 5th with a goal of solidifying the instructions so that members outside of exec could participate in adapting a Go Baby Go Car in the future.
+After completing four successful Go Baby Go cars, the executive board built their fifth with a goal of solidifying the instructions so that members outside of exec could participate in adapting a Go Baby Go Car in the future.
 
 {% include gallery id="galleryb1" %}
 
@@ -39,7 +39,7 @@ Two weeks before delivery day, we started by disassembling and rewiring the back
 
 {% include gallery id="galleryb3" %}
 
-April 13th was delivery day! Frances, our Need Knower, is a two-year old girl with arteriovenous malformation. She had her first stroke a month prior, leading to a loss of speech and mobility. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Frances safe. These supports included a 5-point harness and head supports. 
+April 13th was delivery day! Frances, our Need Knower, is a two-year-old girl with arteriovenous malformation. She had her first stroke a month prior, leading to a loss of speech and mobility. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Frances safe. These supports included a 5-point harness and head supports. 
 
 {% include gallery id="galleryr1" %}
 
@@ -47,7 +47,7 @@ Lastly, the car was decorated to be Bluey-themed, including a custom license pla
 
 {% include gallery id="galleryr2" %}
 
-Following the successful creation of instructions and our 5th car, TOM: Vanderbilt plans to host a Go Baby Go build party in Spring 2025!
+Following the successful creation of instructions and our fifth car, TOM: Vanderbilt plans to host a Go Baby Go build party in Spring 2025!
 
 ## Project Documentation
 

@@ -37,6 +37,8 @@ gallery:
 
 ---
 
+## Recent Awards
+
 {% include feature_row %}
 
 <br><br>

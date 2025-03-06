@@ -118,7 +118,7 @@ Team 1 created two different camera adaptations. One adaptation featured a large
 
 **Team Lead: Megan Wang**<br>
 
-Robby, a Vandy alum and returner from the 2023 Makeathon, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full-time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
+Robby, a Vandy alum and returner from the 2023 Makeathon, was in a car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full-time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
 
 {% include gallery id="gallery2" %}
 

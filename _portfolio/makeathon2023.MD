@@ -138,7 +138,7 @@ Team 1 adapted silverware such that it would securely hold food even when turned
 
 **Team Lead: Kaiser Williams**<br>
 
-Robby, a Vandy alum, was in a freak car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and uses a bluetooth gyroscope headmouse to help him interface with his computer. His current head mouse was causing pressure injuries to the bridge of his nose due to the weight and fit. Robby needed a more comportable and durable head mouse that enabled him to left and right click.
+Robby, a Vandy alum, was in a car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full time, and uses a bluetooth gyroscope headmouse to help him interface with his computer. His current head mouse was causing pressure injuries to the bridge of his nose due to the weight and fit. Robby needed a more comportable and durable head mouse that enabled him to left and right click.
 
 {% include gallery id="gallery2" %}
 
@@ -151,7 +151,7 @@ Team 2 designed a durable and comfortable computer/phone navigation tool that Ro
 
 **Team Lead: Abbie Wollheim**<br>
 
-Jameson, a returner from the 2022 Makeathon, is a 7-year-old elementary school student with pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS). He has a service dog, Sushi, who helps keep him safe. However, Jameson often elopes, dropping his dog's leash. Jameson needed a way to stay incentivised to stay with Sushi.
+Jameson, a returner from the 2022 Makeathon, is a 7-year-old elementary school student with pediatric autoimmune neuropsychiatric disorders associated with streptococcal infections (PANDAS). He has a service dog, Sushi, who helps to keep him safe. However, Jameson often elopes, dropping Sushi's leash. Jameson needed a way to stay incentivised to stay with his service dog.
 
 {% include gallery id="gallery3" %}
 

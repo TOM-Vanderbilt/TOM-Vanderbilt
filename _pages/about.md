@@ -1,6 +1,7 @@
 ---
 
 title: "About TOM: Vanderbilt"
+permalink: /about/
 gallery:
   - image_path: assets/img/2025 Exec (Headshots).jpg
 

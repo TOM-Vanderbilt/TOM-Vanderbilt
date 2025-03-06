@@ -74,7 +74,7 @@ By the end of the advanced session, 15 plastic toys were switch-adapted. Among t
 
 ## Beginner Session
 
-Our second session , the beginner session, focused on adapting interactive plush toys. These toys are great for individual children/families, and are especially good for younger children.
+Our second session, the beginner session, focused on adapting interactive plush toys. These toys are great for individual children/families and are especially good for younger children.
 
 {% include gallery id="gallery7" %}
 
@@ -84,7 +84,7 @@ Makers were given step-by-step instructions for adapting the plush toys. They st
 
 {% include gallery id="gallery9" %}
 
-With the audio cables ziptied and hot glued in place for strain relief, the toys were sewed back up.
+With the audio cables zip tied and hot glued in place for strain relief, the toys were sewed back up.
 
 {% include gallery id="gallery2" %}
 

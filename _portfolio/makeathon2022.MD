@@ -98,11 +98,11 @@ Team 1 tested acoustic paneling and determined that 8 panels per room provided t
 
 **Team Lead: Marin Schiffman**<br>
 
-Sara is a Vanderbilt student who was diagnosed with 100% hearing loss in her right ear in kindergarten. She struggles with driving because she cannot hear the person in the passenger seat over the music playing and paying attention to the road. She has tried cross-over hearing aids, but finds them too embarrassing to wear. Sara needed a device to transfer the sound from the passenger seat to the left side of the driver seat. 
+Sara is a Vanderbilt student who was diagnosed with 100% hearing loss in her right ear in kindergarten. She struggles with driving because she cannot hear the person in the passenger seat over the music playing and paying attention to the road. She has tried cross-over hearing aids but finds them too embarrassing to wear. Sara needed a device to transfer the sound from the passenger seat to the left side of the driver seat. 
 
 {% include gallery id="gallery2" %}
 
-Team 2 created a microphone to speaker amplifier circuit. The microphone was placed near the passenger seat, and the speaker was placed on the left side of the driver seat in Sara's car. This system allows Sara to hear the passenger talking, play music, and pay attention to the road simultaneously. The speaker documentation can be found here: [Microphone to Speaker Amplifier Documentation](https://tomglobal.org/project?id=6362e8f68694e6363718596f). 
+Team 2 created a microphone to speaker amplifier circuit. The microphone was placed near the passenger seat, and the speaker was placed on the left side of the driver's seat in Sara's car. This system allows Sara to hear the passengers talking, play music, and pay attention to the road simultaneously. The speaker documentation can be found here: [Microphone to Speaker Amplifier Documentation](https://tomglobal.org/project?id=6362e8f68694e6363718596f). 
 
 {% include gallery id="gallery2g" %}
 
@@ -115,7 +115,7 @@ Allie has ALS, a neurodegenerative condition that affects nerve cells in the bra
 
 {% include gallery id="gallery3" %}
 
-Team 3 created a neutral colored, heavy-weighted winter coat. The coat was designed like a cape and includes magnetic closures and long internal pockets to keep Allie's hands and arms warm. Additionally, Team 3 created a wall-mounted hook Allie could use to help her take off and on the coat independently. The coat documentation can be found here: [Accessible Winter Coat Documentation](https://tomglobal.org/project?id=6362e9ba8694e6363718598f).
+Team 3 created a neutral colored, heavy-weighted winter coat. The coat was designed like a cape and included magnetic closures and long internal pockets to keep Allie's hands and arms warm. Additionally, Team 3 created a wall-mounted hook Allie could use to help her take off and on the coat independently. The coat documentation can be found here: [Accessible Winter Coat Documentation](https://tomglobal.org/project?id=6362e9ba8694e6363718598f).
 
 {% include gallery id="gallery3g" %}
 
@@ -128,7 +128,7 @@ Alicia and Chelsea are two friends with cerebral palsy, a condition that affects
 
 {% include gallery id="gallery4" %}
 
-Team 4 adapted a grabber so that Alicia and Chelsea can use it to pick up small items and help in more specific tasks. Additionally, Team 4 prototyped a device that Alicia and Chelsea could use to help them button their pants and shirts. The grabber documentation can be found here: [Adapted Grabber Documentation](https://tomglobal.org/project?id=6362ea168694e636371859a7).
+Team 4 adapted a grabber so that Alicia and Chelsea can use it to pick up small items and help with more specific tasks. Additionally, Team 4 prototyped a device that Alicia and Chelsea could use to help them button their pants and shirts. The grabber documentation can be found here: [Adapted Grabber Documentation](https://tomglobal.org/project?id=6362ea168694e636371859a7).
 
 {% include gallery id="gallery4g" %}
 
@@ -137,11 +137,11 @@ Team 4 adapted a grabber so that Alicia and Chelsea can use it to pick up small 
 
 **Team Lead: Addy Novak & Lauren Grohowski**<br>
 
-Kristi, a returner from the 2021 Makethon, is a Vanderbilt Next Steps alum. She works at the Nashville Zoo, and uses a reverse walker to get around. She has to carry around scanners, radios, pens, and a water bottle at work, but doesn't have a secure place to put them. Kristi wanted a removable basket for her walker with adjustable dividers, hooks, and a waterproof covering.
+Kristi, a returner from the 2021 Makethon, is a Vanderbilt Next Steps alum. She works at the Nashville Zoo and uses a reverse walker to get around. She has to carry around scanners, radios, pens, and a water bottle at work, but doesn't have a secure place to put them. Kristi wanted a removable basket for her walker with adjustable dividers, hooks, and a waterproof covering.
 
 {% include gallery id="gallery5" %}
 
-Team 5 modified a metal mesh container to function as Kristi's basket. The team laser cut custom acrylic dividers and 3D printed an adaptive cup holder. They also screwed hooks to the outside of the basket. To address Kristi's waterproofing needs, a waterproof fabric was sewn to a retractable car windowshade, which was attached to the top edge of the basket. Kristi can pull this cover over her basket and secure it with velcro when it is raining outside. Lastly, Team 5 created sticker magnets to decorate the basket! The basket is clamped to Kristi's walker and easily removed when she gets in the car. The basket documentation can be found here: [Reverse Walker Basket Documentation](https://tomglobal.org/project?id=6362ea6c8694e636371859bf).
+Team 5 modified a metal mesh container to function as Kristi's basket. The team laser cut custom acrylic dividers and 3D printed an adaptive cup holder. They also screwed hooks to the outside of the basket. To address Kristi's waterproofing needs, a waterproof fabric was sewn to a retractable car window shade, which was attached to the top edge of the basket. Kristi can pull this cover over her basket and secure it with Velcro when it is raining outside. Lastly, Team 5 created sticker magnets to decorate the basket! The basket is clamped to Kristi's walker and easily removed when she gets in the car. The basket documentation can be found here: [Reverse Walker Basket Documentation](https://tomglobal.org/project?id=6362ea6c8694e636371859bf).
 
 {% include gallery id="gallery5g" %}
 

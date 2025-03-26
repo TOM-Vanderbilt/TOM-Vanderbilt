@@ -3,8 +3,8 @@ title: "2025 Go Baby Go"
 date: 2025-3-23
 excerpt: "TOM: Vanderbilt's 6th, 7th, 8th, and 9th Go Baby Go cars."
 header:
-  image: /assets/img/2024 GBG Frances at Home.jpg
-  teaser: /assets/img/2024 GBG Frances at Home.jpg
+  image: /assets/img/2025 GBG Day 1 Solder.jpg
+  teaser: /assets/img/2025 GBG Day 1 Solder.jpg
 galleryd11:
   - image_path: assets/img/2025 GBG Day 1 Solder.jpg
 galleryd12:
@@ -29,35 +29,33 @@ After solidifying the instructions from the five cars built so far, TOM: Vanderb
 
 ## Day 1 - Disassembly & Kill Switch
 
-xx
+During the first build party, teams were tasked with disassembling and rewiring the back of the car. This involved adding a relay for electrical safety and a kill switch so that parents could immediately shut off the car.
 
 {% include gallery id="galleryd11" %}
 
-xx
-
 {% include gallery id="galleryd12" %}
 
-xx
+On the blue car, the kill switch was placed on the back windsheild. On the black trucks, the kill switch was placed on the back right side of the car since the door to the truck bed collapsed down. 
 
 {% include gallery id="galleryd13" %}
 
-xx
+At the end of the build party, all four cars were operating properly! The car could only be turned on when the kill switch was open, and if the kill switch was closed, the front on/off button was powerless.  
 
-{% include gallery id="galleryd14" caption="Car 1 - Hutch;                         Car 2 - Knox" %}
+{% include gallery id="galleryd14" caption="Car 1 - Hutch; Car 2 - Knox" %}
 
-{% include gallery id="galleryd15" caption="Car 3 - Ángel;                         Car 4 - BJ" %}
-
-
+{% include gallery id="galleryd15" caption="Car 3 - Ángel; Car 4 - BJ" %}
 
 
 ## Day 2 - Go Button & Reassembly
 
-xx
+Stay tuned for Day 2 updates!
+
 
 ## Day 3 - Delivery Day!
 
-xx
+Stay tuned for Delivery Day updates!
+
 
 ## Project Documentation
 
-The finalized documentation for the blue Mercedes can be found here: [Go Baby Go Project Documentation](https://tomglobal.org/project?id=65dce93dc360e629290718f4)
+The finalized documentation for the blue car can be found here: [Go Baby Go Project Documentation](https://tomglobal.org/project?id=65dce93dc360e629290718f4)

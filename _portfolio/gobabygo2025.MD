@@ -1,6 +1,6 @@
 ---
 title: "2025 Go Baby Go"
-date: 2025-4-13
+date: 2025-3-23
 excerpt: "TOM: Vanderbilt's 6th, 7th, 8th, and 9th Go Baby Go cars."
 header:
   image: /assets/img/2024 GBG Frances at Home.jpg
@@ -34,6 +34,11 @@ After solidifying the instructions from the five cars built so far, TOM: Vanderb
 ## Day 1 - Disassembly & Kill Switch
 
 xx
+
+| [Team Hutch](assets/img/2025 Day 1 H.jpg)  | [Team Knox](assets/img/2025 Day 1 K.jpg)  | [Team Ángel](assets/img/2025 Day 1 A.jpg) | [Team BJ](assets/img/2025 Day 1 B.jpg) |
+| :-----------: |:--------------:| :-----:| :----------: |
+| Team Hutch     | Team Knox | Team Ángel | Team BJ |
+
 
 
 ## Day 2 - Go Button & Reassembly

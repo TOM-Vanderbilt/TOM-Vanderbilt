@@ -35,7 +35,7 @@ After solidifying the instructions from the five cars built so far, TOM: Vanderb
 
 xx
 
-| [Team Hutch](assets/img/2025 Day 1 H.jpg)  | [Team Knox](assets/img/2025 Day 1 K.jpg)  | [Team Ángel](assets/img/2025 Day 1 A.jpg) | [Team BJ](assets/img/2025 Day 1 B.jpg) |
+| ![Team Hutch](assets/img/2025 Day 1 H.jpg)  | ![Team Knox](assets/img/2025 Day 1 K.jpg)  | ![Team Ángel](assets/img/2025 Day 1 A.jpg) | ![Team BJ](assets/img/2025 Day 1 B.jpg) |
 | :-----------: |:--------------:| :-----:| :----------: |
 | Team Hutch     | Team Knox | Team Ángel | Team BJ |
 

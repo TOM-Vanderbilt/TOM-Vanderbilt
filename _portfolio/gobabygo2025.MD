@@ -35,7 +35,7 @@ During the first build party, teams were tasked with disassembling and rewiring 
 
 {% include gallery id="galleryd12" %}
 
-On the blue car, the kill switch was placed on the back windsheild. On the black trucks, the kill switch was placed on the back right side of the car since the door to the truck bed collapsed down. 
+On the blue car, the kill switch was placed on the back windshield. On the black trucks, the kill switch was placed on the back right side of the car since the door to the truck bed collapsed down. 
 
 {% include gallery id="galleryd13" %}
 

@@ -5,23 +5,19 @@ excerpt: "TOM: Vanderbilt's 6th, 7th, 8th, and 9th Go Baby Go cars."
 header:
   image: /assets/img/2024 GBG Frances at Home.jpg
   teaser: /assets/img/2024 GBG Frances at Home.jpg
-galleryb1:
-  - image_path: assets/img/2024 GBG Car 1.jpg
-  - image_path: assets/img/2024 GBG Car 2.jpg 
-galleryb2:
-  - image_path: assets/img/2024 GBG Wires.jpg
-galleryb3:
-    - image_path: assets/img/2024 GBG Pizza.jpg
-galleryr1:
-  - image_path: assets/img/2024 GBG Reveal PVC.jpg
-  - image_path: assets/img/2024 GBG Reveal Seating.jpg
-  - image_path: assets/img/2024 GBG Reveal Back.jpg
-galleryr2:
-  - image_path: assets/img/2024 GBG Reveal Top.jpg
-  - image_path: assets/img/2024 GBG Reveal Front.jpg
-  - image_path: assets/img/2024 GBG Reveal Side.jpg
-galleryr3:
-  - image_path: assets/img/2024 GBG Reveal Frances.jpg
+galleryd11:
+  - image_path: assets/img/2025 GBG Day 1 Solder.jpg
+galleryd12:
+  - image_path: assets/img/2025 GBG Day 1 Solder1.jpg
+  - image_path: assets/img/2025 GBG Day 1 Solder2.jpg
+galleryd13:
+  - image_path: assets/img/2025 GBG Day 1 Drill.jpg
+galleryd14:
+  - image_path: assets/img/2025 GBG Day 1 H.jpg
+  - image_path: assets/img/2025 GBG Day 1 K.jpg
+galleryd15:
+  - image_path: assets/img/2025 GBG Day 1 A.jpg
+  - image_path: assets/img/2025 GBG Day 1 B.jpg
 
 ---
 
@@ -34,10 +30,6 @@ After solidifying the instructions from the five cars built so far, TOM: Vanderb
 ## Day 1 - Disassembly & Kill Switch
 
 xx
-
-| Team Hutch     | Team Knox | Team Ángel | Team BJ |
-| :-----------: |:--------------:| :-----:| :----------: |
-| ![](assets/img/2025 Day 1 H.jpg)  | ![Team Knox](assets/img/2025 Day 1 K.jpg)  | ![Team Ángel](assets/img/2025 Day 1 A.jpg) | ![Team BJ](assets/img/2025 Day 1 B.jpg) |
 
 
 

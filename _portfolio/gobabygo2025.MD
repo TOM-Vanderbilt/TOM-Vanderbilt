@@ -29,28 +29,21 @@ galleryr3:
 
 # About
 
-After completing four successful Go Baby Go cars, the executive board built their fifth with a goal of solidifying the instructions so that members outside of exec could participate in adapting a Go Baby Go Car in the future.
+After solidifying the instructions from the five cars built so far, TOM: Vanderbilt held its first series of Go Baby Go build parties where members outside of exec could apply to participate in adapting a Go Baby Go Car.
 
-{% include gallery id="galleryb1" %}
+## Day 1 - Disassembly & Kill Switch
 
-{% include gallery id="galleryb2" %}
+xx
 
-Two weeks before delivery day, we started by disassembling and rewiring the back of the car. This involved adding a kill switch so that the parents could immediately shut off the car, and adding a relay for electrical safety. Then, three days later, we worked on the front of the car. The gas pedal was rewired to a 3D printed “Go” button that was secured to the steering wheel. A second relay was also added to the front wiring. Once the electrical modifications were complete, the car was reassembled. Thanks to one of our partners, Vanderbilt Hillel, we got to enjoy lunch together as we worked!
 
-{% include gallery id="galleryb3" %}
+## Day 2 - Go Button & Reassembly
 
-April 13th was delivery day! Frances, our Need Knower, is a two-year-old girl with arteriovenous malformation. She had her first stroke a month prior, leading to a loss of speech and mobility. Her family and occupational therapist came to the Wond’ry to determine the physical supports needed in the car to keep Frances safe. These supports included a 5-point harness and head supports. 
+xx
 
-{% include gallery id="galleryr1" %}
+## Day 3 - Delivery Day!
 
-Lastly, the car was decorated to be Bluey-themed, including a custom license plate!
-
-{% include gallery id="galleryr2" %}
-
-Following the successful creation of instructions and our fifth car, TOM: Vanderbilt plans to host a Go Baby Go build party in Spring 2025!
+xx
 
 ## Project Documentation
 
-The finalized documentation can be found here: [Go Baby Go Project Documentation](https://tomglobal.org/project?id=65dce93dc360e629290718f4)
-
-{% include gallery id="galleryr3" %}
+The finalized documentation for the blue Mercedes can be found here: [Go Baby Go Project Documentation](https://tomglobal.org/project?id=65dce93dc360e629290718f4)

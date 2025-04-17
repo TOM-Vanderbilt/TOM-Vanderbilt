@@ -3,29 +3,29 @@
 title: "Contact Us"
 
 gallery:
-  - image_path: assets/img/Headshot Elizabeth Walther.jpg
   - image_path: assets/img/Headshot Tessa Mahoney.jpg
   - image_path: assets/img/Headshot Maya Miller.jpg
+  - image_path: assets/img/Headshot Isabella Murano.jpg
 
 gallery2:
-  - image_path: assets/img/Headshot Isabella Murano.jpg
   - image_path: assets/img/Headshot Shannon Gordon.jpg
   - image_path: assets/img/Headshot Victor Dunagan.jpg
+  - image_path: assets/img/Headshot Hailey Jane Frank.jpg
 
 gallery3:
-  - image_path: assets/img/Headshot Hailey Jane Frank.jpg
   - image_path: assets/img/Headshot Kanani Silva.jpg
   - image_path: assets/img/Headshot Rylan Hunt.jpg
+  - image_path: assets/img/Headshot Olivia Bisesi.JPEG
 
 gallery4:
-  - image_path: assets/img/Headshot Olivia Bisesi.JPEG
   - image_path: assets/img/Headshot Kalyn Day.jpg
   - image_path: assets/img/Headshot Isabella Blauzdys.jpg
+  - image_path: assets/img/Headshot Ella Provancher.jpg
 
 gallery5:
-  - image_path: assets/img/Headshot Ella Provancher.jpg
   - image_path: assets/img/Headshot Chloe Park.jpg
   - image_path: assets/img/Headshot Kevin Galloway.jpg
+  - image_path: assets/img/Blank Headshot.jpg
 ---
 
 ## General Email
@@ -34,24 +34,24 @@ vanderbilt@tomglobal.org
 
 {% include gallery %}
 
-| **Elizabeth Walther**<br>Co-President<br><a href="mailto:elizabeth.g.walther@vanderbilt.edu" style="font-size: 0.75em;">elizabeth.g.walther@vanderbilt.edu</a> | &nbsp;&nbsp;**Tessa Mahoney**<br>&nbsp;&nbsp;Co-President<br>&nbsp;&nbsp;<a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.75em;">tessa.j.mahoney@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Maya Miller**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Logistics Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.75em;">maya.g.miller@vanderiblt.edu</a> |
+| **Tessa Mahoney**<br>President<br><a href="mailto:tessa.j.mahoney@vanderbilt.edu" style="font-size: 0.75em;">tessa.j.mahoney@vanderbilt.edu</a> | &nbsp;&nbsp;**Maya Miller**<br>&nbsp;&nbsp;Logistics Chair<br>&nbsp;&nbsp;<a href="mailto:maya.g.miller@vanderbilt.edu" style="font-size: 0.75em;">maya.g.miller@vanderiblt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Isabella Murano**<br>Logistics Chair&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:isabella.s.murano@vanderbilt.edu" style="font-size: 0.75em;">isabella.s.murano@vanderbilt.edu</a> |
 
 {% include gallery id="gallery2" %}
 
-| **Isabella Murano**<br>Logistics Chair<br><a href="mailto:isabella.s.murano@vanderbilt.edu" style="font-size: 0.75em;">isabella.s.murano@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;**Shannon Gordon**<br>&nbsp;&nbsp;&nbsp;Logistics Chair<br>&nbsp;&nbsp;&nbsp;<a href="mailto:shannon.a.gordon@vanderbilt.edu" style="font-size: 0.75em;">shannon.a.gordon@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Victor Dunagan**<br>&nbsp;&nbsp;&nbsp;&nbsp;Finance Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:victor.l.dunagan@vanderbilt.edu" style="font-size: 0.75em;">victor.l.dunagan@vanderbilt.edu</a> |
+| **Shannon Gordon**<br>Logistics Chair<br><a href="mailto:shannon.a.gordon@vanderbilt.edu" style="font-size: 0.75em;">shannon.a.gordon@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;**Victor Dunagan**<br>&nbsp;&nbsp;&nbsp;Finance Chair<br>&nbsp;&nbsp;&nbsp;<a href="mailto:victor.l.dunagan@vanderbilt.edu" style="font-size: 0.75em;">victor.l.dunagan@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Hailey Jane Frank**<br>&nbsp;&nbsp;&nbsp;&nbsp;Finance Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hailey.j.frank@vanderbilt.edu" style="font-size: 0.75em;">hailey.j.frank@vanderbilt.edu</a> |
 
 {% include gallery id="gallery3" %}
 
-| **Hailey Jane Frank**<br>Finance Chair<br><a href="mailto:hailey.j.frank@vanderbilt.edu" style="font-size: 0.75em;">hailey.j.frank@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Kanani Silva**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fundraising Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kanani.a.silva@vanderbilt.edu" style="font-size: 0.75em;">kanani.a.silva@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rylan Hunt**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maker Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:rylan.t.hunt@vanderbilt.edu" style="font-size: 0.75em;">rylan.t.hunt@vanderbilt.edu</a> |
+| **Kanani Silva**<br>Fundraising Chair<br><a href="mailto:kanani.a.silva@vanderbilt.edu" style="font-size: 0.75em;">kanani.a.silva@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Rylan Hunt**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maker Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:rylan.t.hunt@vanderbilt.edu" style="font-size: 0.75em;">rylan.t.hunt@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Olivia Bisesi**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maker Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:olivia.m.bisesi@vanderbilt.edu" style="font-size: 0.75em;">olivia.m.bisesi@vanderbilt.edu</a> |
 
 {% include gallery id="gallery4" %}
 
-| **Dani Topper**<br>Maker Recruitment Chair<br><br><a href="mailto:danielle.m.topper@vanderbilt.edu" style="font-size: 0.75em;">danielle.m.topper@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Kalyn Day**<br>&nbsp;&nbsp;&nbsp;&nbsp;Need Knower &nbsp;&nbsp;&nbsp;&nbsp;Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kalyn.j.day@vanderbilt.edu" style="font-size: 0.75em;">kalyn.j.day@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Isabella Blauzdys**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Need Knower<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Recruitment Chair <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:isabella.m.blauzdys@vanderbilt.edu" style="font-size: 0.75em;">isabella.m.blauzdys@vanderbilt.edu</a> |
+| **Kalyn Day**<br>Need Knower Recruitment Chair<br><a href="mailto:kalyn.j.day@vanderbilt.edu" style="font-size: 0.75em;">kalyn.j.day@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Isabella Blauzdys**<br>&nbsp;&nbsp;&nbsp;&nbsp;Need Knower Recruitment Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:isabella.m.blauzdys@vanderbilt.edu" style="font-size: 0.75em;">isabella.m.blauzdys@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Ella Provancher**<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:ella.e.provancher@vanderbilt.edu" style="font-size: 0.75em;">ella.e.provancher@vanderbilt.edu</a> |
 
 
 {% include gallery id="gallery5" %}
 
-| **Ella Provancher**<br>PR Chair<br><a href="mailto:ella.e.provancher@vanderbilt.edu" style="font-size: 0.75em;">ella.e.provancher@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Chloe Park**<br>&nbsp;&nbsp;&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chloe.j.park@vanderbilt.edu" style="font-size: 0.75em;">chloe.j.park@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dr. Kevin Galloway**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisor<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevin.c.galloway@vanderbilt.edu" style="font-size: 0.75em;">kevin.c.galloway@vanderbilt.edu</a> |
+| **Chloe Park**<br>PR Chair<br><a href="mailto:chloe.j.park@vanderbilt.edu" style="font-size: 0.75em;">chloe.j.park@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;**Dr. Kevin Galloway**<br>&nbsp;&nbsp;&nbsp;&nbsp;Faculty Advisor<br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:kevin.c.galloway@vanderbilt.edu" style="font-size: 0.75em;">kevin.c.galloway@vanderbilt.edu</a> |  |
 
 
 ## Previous Executive Boards

@@ -18,7 +18,7 @@ gallery3:
   - image_path: assets/img/Headshot Rylan Hunt.jpg
 
 gallery4:
-  - image_path: assets/img/Headshot Dani Topper.jpg
+  - image_path: assets/img/Headshot Olivia Bisesi.JPEG
   - image_path: assets/img/Headshot Kalyn Day.jpg
   - image_path: assets/img/Headshot Isabella Blauzdys.jpg
 

@@ -1,6 +1,6 @@
 ---
 title: "2025 Go Baby Go"
-date: 2025-3-23
+date: 2025-4-13
 excerpt: "TOM: Vanderbilt's 6th, 7th, 8th, and 9th Go Baby Go cars."
 header:
   image: /assets/img/2025 GBG Day 1 Solder.jpg

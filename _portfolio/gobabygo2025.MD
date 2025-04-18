@@ -119,7 +119,7 @@ Hutch is a 2.5-year-old with Down syndrome, congenital heart disease, and a G-tu
 
 {% include gallery id="galleryh" %}
 
-Hutch's car was modified to include a 5-point harness and head/back support. Along with his custom license plate, he was able to decorate his car to be Mickey Mouse themed - his favorite character!
+Hutch's car was modified to include a 5-point harness and head/back support. Along with his custom license plate, he was able to decorate his car to be Mickey Mouse-themed (his favorite character)!
 
 
 {% include gallery id="galleryhd" %}

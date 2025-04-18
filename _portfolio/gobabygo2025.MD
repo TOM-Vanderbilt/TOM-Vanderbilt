@@ -39,6 +39,7 @@ galleryh:
   - image_path: assets/img/2025 GBG H3.jpg
 
 galleryhd:
+  - image_path: assets/img/2025 GBG Hutch.jpg
 
 galleryk:
   - image_path: assets/img/2025 GBG K1.jpg
@@ -46,11 +47,12 @@ galleryk:
   - image_path: assets/img/2025 GBG K3.jpg
 
 gallerykd:
+  - image_path: assets/img/2025 GBG Knox.jpg
 
 gallerya:
   - image_path: assets/img/2025 GBG A1.jpg
   - image_path: assets/img/2025 GBG A2.jpg
-  - image_path: assets/img/2025 GBG A3.jpg
+  - image_path: assets/img/2025 GBG A3.JPG
 
 galleryad:
   - image_path: assets/img/2025 GBG Angel.jpg

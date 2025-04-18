@@ -33,6 +33,36 @@ galleryd25:
   - image_path: assets/img/2025 GBG Day 2 A.jpg
   - image_path: assets/img/2025 GBG Day 2 P.jpg
 
+galleryh:
+  - image_path: assets/img/2025 GBG H1.jpg
+  - image_path: assets/img/2025 GBG H2.jpg
+  - image_path: assets/img/2025 GBG H3.jpg
+
+galleryhd:
+
+galleryk:
+  - image_path: assets/img/2025 GBG K1.jpg
+  - image_path: assets/img/2025 GBG K2.jpg
+  - image_path: assets/img/2025 GBG K3.jpg
+
+gallerykd:
+
+gallerya:
+  - image_path: assets/img/2025 GBG A1.jpg
+  - image_path: assets/img/2025 GBG A2.jpg
+  - image_path: assets/img/2025 GBG A3.jpg
+
+galleryad:
+  - image_path: assets/img/2025 GBG Angel.jpg
+
+galleryp:
+  - image_path: assets/img/2025 GBG P1.jpg
+  - image_path: assets/img/2025 GBG P2.jpg
+  - image_path: assets/img/2025 GBG P3.jpg
+
+gallerypd:
+  - image_path: assets/img/2025 GBG PJ.jpg
+
 ---
 
 ## Date: March 23, April 6, and April 13, 2025<br>
@@ -82,6 +112,22 @@ At the end of the build party, all four cars were completely electrically modifi
 ## Day 3 - Delivery Day!
 
 Stay tuned for Delivery Day updates!
+
+{% include gallery id="galleryh" %}
+
+{% include gallery id="galleryhd" %}
+
+{% include gallery id="galleryk" %}
+
+{% include gallery id="gallerykd" %}
+
+{% include gallery id="gallerya" %}
+
+{% include gallery id="galleryad" %}
+
+{% include gallery id="galleryp" %}
+
+{% include gallery id="gallerypd" %}
 
 
 ## Project Documentation

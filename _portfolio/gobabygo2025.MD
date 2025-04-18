@@ -19,6 +19,20 @@ galleryd15:
   - image_path: assets/img/2025 GBG Day 1 A.jpg
   - image_path: assets/img/2025 GBG Day 1 B.jpg
 
+galleryd21:
+  - image_path: assets/img/2025 GBG Day 2 Solder 1.jpg
+galleryd22:
+  - image_path: assets/img/2025 GBG Day 2 Solder 2.jpg
+galleryd23:
+  - image_path: assets/img/2025 GBG Day 2 Button 1.jpg
+  - image_path: assets/img/2025 GBG Day 2 Button 2.jpg
+galleryd24:
+  - image_path: assets/img/2025 GBG Day 2 H.jpg
+  - image_path: assets/img/2025 GBG Day 2 K.jpg
+galleryd25:
+  - image_path: assets/img/2025 GBG Day 2 A.jpg
+  - image_path: assets/img/2025 GBG Day 2 P.jpg
+
 ---
 
 ## Date: March 23, April 6, and April 13, 2025<br>
@@ -48,7 +62,21 @@ At the end of the build party, all four cars were operating properly! The car co
 
 ## Day 2 - Go Button & Reassembly
 
-Stay tuned for Day 2 updates!
+During the second build party, teams were tasked with rewiring the front of the car and reassembling the car. This involved adding a relay for electrical safety and a large "Go" button that the kids could use to make the car move.
+
+{% include gallery id="galleryd21" %}
+
+{% include gallery id="galleryd22" %}
+
+The wires that were originally connected to the gas pedal were cut and rewired to the Go button. Each button was made with three 3D printed pieces, an internal mushroom button, springs, and screws. The springs could be adjusted to make the button more sensitive if the kids couldn't press as hard. 
+
+{% include gallery id="galleryd23" %}
+
+At the end of the build party, all four cars were completely electrically modified! With the Go button in place, each car is now much more accessible for children who wouldn't be able to activate a traditional gas pedal.  
+
+{% include gallery id="galleryd24" caption="Car 1 - Hutch; Car 2 - Knox" %}
+
+{% include gallery id="galleryd25" caption="Car 3 - Ángel; Car 4 - PJ" %}
 
 
 ## Day 3 - Delivery Day!

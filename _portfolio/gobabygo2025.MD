@@ -113,21 +113,44 @@ At the end of the build party, all four cars were completely electrically modifi
 
 ## Day 3 - Delivery Day!
 
-Stay tuned for Delivery Day updates!
+### Car 1: Hutch
+
+Hutch is a 2.5-year-old with Down syndrome, congenital heart disease, and a G-tube. He is able to crawl and scoot, but cannot yet walk.  
 
 {% include gallery id="galleryh" %}
 
+Hutch's car was modified to include a 5-point harness and head/back support. Along with his custom license plate, he was able to decorate his car to be Mickey Mouse themed - his favorite character!
+
+
 {% include gallery id="galleryhd" %}
+
+### Car 2: Knox
+
+Knox is a 22-month-old. He was born with cytomegalovirus (CMV), which has caused growth delays. His family is expecting him to be diagnosed with cerebral palsy when he turns 2. While he can crawl some and pull to stand, Knox struggles with balance.
 
 {% include gallery id="galleryk" %}
 
+Knox was the smallest kid we worked with this semester, so he received a smaller Mercedes rather than the Ford truck the other kids received. Knox's car was modified to include a 5-point harness and head/back support. His car was then decorated with a Mickey Mouse-themed license plate and additional stickers!
+
 {% include gallery id="gallerykd" %}
+
+### Car 3: Ángel
+
+Ángel is a 2.5-year-old who stopped developing cognitively at 12 months and eats through a feeding tube. He is able to crawl and pull himself to a standing position. Ángel is the first Need Knower we've worked with whose family speaks Spanish! 
 
 {% include gallery id="gallerya" %}
 
+Ángel's car was modified to include a 5-point harness and head/back support. He really likes farm animals, so his car was decorated to be a cow!
+
 {% include gallery id="galleryad" %}
 
+### Car 4: PJ
+
+PJ is a 6-year-old with myotonic dystrophy. He is the size of a typical 4-year-old, and gets tired quickly from walking due to his weak muscles. 
+
 {% include gallery id="galleryp" %}
+
+PJ's car was modified to include a head/back support. Additionally, his Go button was secured more strongly to the steering wheel so that he could use it to help him steer the car. PJ's favorite show is Sesame Street, so his car was completed with a Sesame Street-style license plate!
 
 {% include gallery id="gallerypd" %}
 

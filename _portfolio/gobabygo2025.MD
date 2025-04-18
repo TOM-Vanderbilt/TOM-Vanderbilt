@@ -71,7 +71,7 @@ gallerypd:
 
 # About
 
-After solidifying the instructions from the five cars built so far, TOM: Vanderbilt held its first series of Go Baby Go build parties where members outside of exec could apply to participate in adapting a Go Baby Go Car. This spring, we had four Need Knowers: Hutch, Knox, Ángel, and PJ. 
+After solidifying the instructions from the five cars built so far, TOM: Vanderbilt held its first series of Go Baby Go build parties where members outside of exec could apply to participate in adapting a Go Baby Go car. This spring, we had four Need Knowers: Hutch, Knox, Ángel, and PJ. 
 
 ## Day 1 - Disassembly & Kill Switch
 

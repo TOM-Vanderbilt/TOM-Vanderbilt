@@ -40,6 +40,7 @@ galleryh:
 
 galleryhd:
   - image_path: assets/img/2025 GBG Hutch.jpg
+  - image_path: assets/img/2025 GBG GIF H.gif
 
 galleryk:
   - image_path: assets/img/2025 GBG K1.jpg
@@ -48,7 +49,7 @@ galleryk:
 
 gallerykd:
   - image_path: assets/img/2025 GBG Knox.jpg
-  - image_path: assets/img/2025 GBG Video K.mov
+  - image_path: assets/img/2025 GBG GIF K.gif
 
 gallerya:
   - image_path: assets/img/2025 GBG A1.jpg
@@ -57,6 +58,7 @@ gallerya:
 
 galleryad:
   - image_path: assets/img/2025 GBG Angel.jpg
+  - image_path: assets/img/2025 GBG GIF A.gif
 
 galleryp:
   - image_path: assets/img/2025 GBG P1.jpg
@@ -65,6 +67,7 @@ galleryp:
 
 gallerypd:
   - image_path: assets/img/2025 GBG PJ.jpg
+  - image_path: assets/img/2025 GBG GIF P.gif
 
 ---
 

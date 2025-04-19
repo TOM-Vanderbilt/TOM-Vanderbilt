@@ -48,6 +48,7 @@ galleryk:
 
 gallerykd:
   - image_path: assets/img/2025 GBG Knox.jpg
+  - image_path: assets/img/2025 GBG Video K.mov
 
 gallerya:
   - image_path: assets/img/2025 GBG A1.jpg

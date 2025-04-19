@@ -126,7 +126,7 @@ Hutch's car was modified to include a 5-point harness and head/back support. Alo
 
 ### Car 2: Knox
 
-Knox is a 22-month-old. He was born with cytomegalovirus (CMV), which has caused growth delays. His family is expecting him to be diagnosed with cerebral palsy when he turns 2. While he can crawl some and pull to stand, Knox struggles with balance.
+Knox is a 22-month-old boy. He was born with cytomegalovirus (CMV), which has caused growth delays. His family is expecting him to be diagnosed with cerebral palsy when he turns 2. While he can crawl some and pull to stand, Knox struggles with balance.
 
 {% include gallery id="galleryk" %}
 
@@ -136,7 +136,7 @@ Knox was the smallest kid we worked with this semester, so he received a smaller
 
 ### Car 3: Ángel
 
-Ángel is a 2.5-year-old who stopped developing cognitively at 12 months and eats through a feeding tube. He is able to crawl and pull himself to a standing position. Ángel is the first Need Knower we've worked with whose family speaks Spanish! 
+Ángel is a 2.5-year-old who stopped developing cognitively at 12 months and eats through a feeding tube. He is able to crawl and pull himself to a standing position. Ángel is the first Need Knower we've worked with whose family speaks only Spanish! 
 
 {% include gallery id="gallerya" %}
 

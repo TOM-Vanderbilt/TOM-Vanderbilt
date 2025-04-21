@@ -55,6 +55,6 @@ As of April 2025, we have...
 
 ## Donate
 Interested in helping support TOM: Vandebilt's mission? Donate here!<br><br>
-[Link to Donate](https://secure.lglforms.com/form_engine/s/JpGFs3nCkxNcpHTkwJ23vQ?t=1568101561)
+[Link to Donate](https://giving.classy.org/campaign/683819/donate)
 
 {% include gallery %}

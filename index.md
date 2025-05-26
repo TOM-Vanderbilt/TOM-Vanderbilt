@@ -10,12 +10,12 @@ header:
       url: https://giving.classy.org/campaign/683819/donate
 excerpt: "TOM: Vanderbilt is dedicated to designing and disseminating accessible, open source solutions for individuals with disabilities and other unmet needs at no cost."
 feature_row:
- -  image_path: assets/img/Seatbelt Pusher Award.jpg
+  - image_path: assets/img/Seatbelt Pusher Award.jpg
     alt: "Seatbelt Pusher Honorable Mention"
     title: "2025 TOM Global Innovation Challenge - Honorable Mention + PrintLab License"
     excerpt: "Out of more than 470 participants from 13 countries, Vanderbilt's Seatbelt Pusher was awarded an Honorable Mention and PrintLab license."
 
- -  image_path: assets/img/Modified Stroller Award.jpg
+  - image_path: assets/img/Modified Stroller Award.jpg
     alt: "Modified Stroller Honorable Mention"
     title: "2025 TOM Global Innovation Challenge - Honorable Mention"
     excerpt: "Out of more than 470 participants from 13 countries, Vanderbilt's Modified Stroller was awarded an Honorable Mention."

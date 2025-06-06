@@ -236,10 +236,10 @@ defaults:
     values:
       search_exclude: true
 
-  - scope:
-      path: "feed.xml"
-    values:
-      search_exclude: true
+ # - scope:
+   #   path: "feed.xml"
+  #  values:
+  #    search_exclude: true
 
   - scope:
       path: "sitemap.xml"

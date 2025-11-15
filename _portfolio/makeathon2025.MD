@@ -14,25 +14,25 @@ galleryy:
 gallery1:
   - image_path: assets/img/2025 Team 1 Showcase.JPG
 gallery1g:
-  - image_path: assets/img/2025 Makeathon Team 1.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 1.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 1.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 1.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 1.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 1.3.JPG
 gallery2:
   - image_path: assets/img/2025 Team 2 Showcase.JPG
 gallery2g:
-  - image_path: assets/img/2025 Makeathon Team 2.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 2.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 2.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 2.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 2.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 2.3.JPG
 gallery3:
   - image_path: assets/img/2025 Team 3 Showcase.JPG
 gallery3g:
-  - image_path: assets/img/2025 Makeathon Team 3.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 3.2.PNG
-  - image_path: assets/img/2025 Makeathon Team 3.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 3.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 3.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 3.3.JPG
 gallery4:
   - image_path: assets/img/2025 Team 4 Showcase.JPG
 gallery4g:
-  - image_path: assets/img/2025 Makeathon Team 4.1.jpg
+  - image_path: assets/img/2025 Makeathon Team 4.1.JPG
   - image_path: assets/img/2025 Makeathon Team 4.2.JPG
   - image_path: assets/img/2025 Makeathon Team 4.3.jpg
 gallery5:
@@ -40,55 +40,55 @@ gallery5:
 gallery5g:
   - image_path: assets/img/2025 Makeathon Team 5.1.jpg
   - image_path: assets/img/2025 Makeathon Team 5.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 5.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 5.3.JPG
 gallery6:
   - image_path: assets/img/2025 Team 6 Showcase.JPG
 gallery6g:
-  - image_path: assets/img/2025 Makeathon Team 6.1.jpg
+  - image_path: assets/img/2025 Makeathon Team 6.1.JPG
   - image_path: assets/img/2025 Makeathon Team 6.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 6.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 6.3.JPG
 gallery7:
   - image_path: assets/img/2025 Team 7 Showcase.JPG
 gallery7g:
   - image_path: assets/img/2025 Makeathon Team 7.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 7.2.jpg
+  - image_path: assets/img/2025 Makeathon Team 7.2.JPG
   - image_path: assets/img/2025 Makeathon Team 7.3.jpg
 gallery8:
   - image_path: assets/img/2025 Team 8 Showcase.JPG
 gallery8g:
   - image_path: assets/img/2025 Makeathon Team 8.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 8.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 8.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 8.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 8.3.JPG
 gallery9:
   - image_path: assets/img/2025 Team 9 Showcase.JPG
 gallery9g:
-  - image_path: assets/img/2025 Makeathon Team 9.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 9.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 9.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 9.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 9.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 9.3.JPG
 gallery10:
   - image_path: assets/img/2025 Team 10 Showcase.JPG
 gallery10g:
-  - image_path: assets/img/2025 Makeathon Team 10.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 10.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 10.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 10.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 10.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 10.3.JPG
 gallery11:
   - image_path: assets/img/2025 Team 11 Showcase.JPG
 gallery11g:
-  - image_path: assets/img/2025 Makeathon Team 11.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 11.2.jpg
+  - image_path: assets/img/2025 Makeathon Team 11.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 11.2.JPG
   - image_path: assets/img/2025 Makeathon Team 11.3.jpg
 gallery12:
   - image_path: assets/img/2025 Team 12 Showcase.JPG
 gallery12g:
-  - image_path: assets/img/2025 Makeathon Team 12.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 12.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 12.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 12.1.JPG
+  - image_path: assets/img/2025 Makeathon Team 12.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 12.3.JPG
 gallery13:
   - image_path: assets/img/2025 Team 13 Showcase.JPG
 gallery13g:
   - image_path: assets/img/2025 Makeathon Team 13.1.jpg
-  - image_path: assets/img/2025 Makeathon Team 13.2.jpg
-  - image_path: assets/img/2025 Makeathon Team 13.3.jpg
+  - image_path: assets/img/2025 Makeathon Team 13.2.JPG
+  - image_path: assets/img/2025 Makeathon Team 13.3.JPG
 
 ---
 

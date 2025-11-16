@@ -20,10 +20,10 @@ Since 2014, TOM has grown from one community in Israel to dozens of locations ar
 TOM: Vanderbilt was founded in 2017 in Nashville, Tennessee as one of the first university communities in the United States. TOM: Vanderbilt operates out of the Wond'ry, an interdisciplinary center for innovation that provides the tools and resources for students and faculty to bring their ideas to life.
 
 ## Stats
-As of May 2025, we have...
-* hosted **7** Makeathons
-* worked on **85+** projects
-* helped **70+** Need Knowers
+As of November 2025, we have...
+* hosted **8** Makeathons
+* worked on **105+** projects
+* helped **80+** Need Knowers
 
 ## Awards
 * 2025 TOM Global Innovation Challenge - Honorable Mention + PrintLab License

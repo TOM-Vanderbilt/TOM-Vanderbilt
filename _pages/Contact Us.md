@@ -56,6 +56,21 @@ vanderbilt@tomglobal.org
 
 ## Previous Executive Boards
 
+### 2025 Executive Board
+Tessa Mahoney - President<br>
+Maya Miller - Logistics Chair<br>
+Isabella Murano - Logistics Chair<br>
+Shannon Gordon - Logistics Chair<br>
+Victor Dunagan - Finance Chair<br>
+Hailey Jane Frank - Finance Chair<br>
+Kanani Silva - Fundraising Chair<br>
+Rylan Hunt - Maker Recruitment Chair<br>
+Olivia Bisesi - Maker Recruitment Chair<br>
+Kalyn Day - Need Knower Recruitment Chair<br>
+Isabella Blauzdys - Need Knower Recruitment Chair<br>
+Ella Provancher - PR Chair<br>
+Chloe Park - PR Chair<br>
+
 ### 2024 Executive Board
 Elizabeth Walther - President<br>
 Hadley Rossignol - Logistics Chair<br>

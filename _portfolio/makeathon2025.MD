@@ -110,11 +110,11 @@ The weekend culminated in a showcase where each team was able to present about t
 
 **Team Lead: Kalyn Day**<br>
 
-Jen is the founder of AbleVoices, an organization that teaches photography to individuals with disabilities as a means of self-expression. Her organization uses traditional point-and-shoot cameras, but not all of her participants have the fine motor skills needed to press the button. Jen needed a new method for those with limited fine motor skills to activate the camera's button.
+Robby, a Vandy alum and returner from the 2023 and 2024 Makeathons, was in a car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full-time, and if he’s on a meeting in his bedroom, he doesn’t have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door.
 
 {% include gallery id="gallery1" %}
 
-Team 1 created two different camera adaptations. One adaptation featured a larger surface area for the participants to press the camera button, and the other adaptation featured an external button wired to a servo motor that clicked the camera button. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Camera Adaptation Documentation](https://tomglobal.org/project?id=66fdd2046b0782001398c3ae).
+Building off of last year’s work, Team 1 prototyped an Amazon Alexa-automated door controller. Its documentation can be found here: [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3).
 
 {% include gallery id="gallery1g" %}
 
@@ -123,11 +123,11 @@ Team 1 created two different camera adaptations. One adaptation featured a large
 
 **Team Lead: Chloe Park**<br>
 
-Robby, a Vandy alum and returner from the 2023 Makeathon, was in a car accident in 2022 that left him with a C4/C5 spinal cord injury. He has little movement below his mid-shoulders. He works remotely full-time, and if he's on a meeting in his bedroom, he doesn't have an easy way of closing and locking the door independently. Robby needed an automated way of opening, closing, locking, and unlocking his bedroom door. 
+Liam, a returner from the 2023 and 2024 Makeathons, is a 10-year-old with Kleefstra syndrome. Liam has hypotonia and gets tired easily. His family needed an affordable stroller/wheelchair that could support Liam when he needs to sit during outings. Additionally, Liam needed a tablet holder for his school desk as well as a grab bar for his Galileo Vibration Machine. 
 
 {% include gallery id="gallery2" %}
 
-Team 2 prototyped an automatic door controller that could be controlled by Robby's Amazon Alexa in his bedroom. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Automatic Door Control Documentation](https://tomglobal.org/project?id=671046176b078200139becf3).
+Team 2 modified a collapsible wheelchair to include a cup holder and storage bags with Buc-ees decorations – one of Liam’s favorite characters! They also 3D printed a stand for his AAC device and created a height-adjustable bar Liam can use during physical therapy. The wheelchair documentation can be found here: [Collapsible Wheelchair Documentation](https://tomglobal.org/project?id=68d5c62bb5d0a5001389a8e0). The AAC stand can be found here: [Tablet Stand Documentation](https://tomglobal.org/project?id=68d5c6f0b5d0a5001389f098). Lastly, the Galileo grab bar documentation can be found here: [Galileo Bar Documentation](https://tomglobal.org/project?id=68d5c6e4b5d0a5001389efd7).
 
 {% include gallery id="gallery2g" %}
 
@@ -136,11 +136,11 @@ Team 2 prototyped an automatic door controller that could be controlled by Robby
 
 **Team Lead: Shannon Gordon**<br>
 
-Beverly had blood clots in her left hand in 2018 that led to a partial amputation. She then had a stroke on her right side while recovering from the amputation, limiting the mobility of her right arm/hand. She loved playing the piano and cooking but has had trouble doing those things since the incident. Beverly wanted something to help her play piano again, and something to help her hold and use kitchen utensils while cooking.
+Chase is a 9-year-old with severe autism. He has a tendency to take off his clothes and elope, and his parents needed a sensory-friendly way to secure his Jiobit GPS tracker to him. Additionally, Chase enjoys rocking and wanted a form of a tilted axis chair to provide vestibular stimulation.
 
 {% include gallery id="gallery3" %}
 
-Team 3 created a sliding arm rest for Beverly's right hand and finger prosthetics for Beverly's left hand, enabling her to play piano again. Team 3 also created a utensil holder that strapped to Beverly's hand. Both projects were continued into the 2025 Global Innovation Challenge. The Piano Aid documentation can be found here: [Piano Aid Documentation](https://tomglobal.org/project?id=66fe099b6b07820013993862). The Cooking Aid documentation can be found here: [Cooking Aid Documentation](https://tomglobal.org/project?id=66fe0b536b0782001399509d).
+Team 3 created a sensory-friendly bracelet to hold Chase’s GPS device, keeping him safe and comfortable. Team 3 also built a tilted axis chair, using a yoga ball as the base, which allows for gentle rocking to provide vestibular stimulation. The tilted axis chair documentation can be found here: [Tilted Axis Chair Documentation](https://tomglobal.org/project?id=68fb959f12671000123e96f5).
 
 {% include gallery id="gallery3g" %}
 
@@ -149,11 +149,11 @@ Team 3 created a sliding arm rest for Beverly's right hand and finger prosthetic
 
 **Team Lead: Kanani Silva**<br>
 
-Kenny has neuropathy in both hands (his fingers are curled up and he can't move them). He has trouble gripping things and lost his job because he could no longer write with a pencil. Kenny needed a way to help him grasp and manipulate a pencil/pen so that he could write independently.
+Miyako, a returner from the 2024 Makeathon, is a 9-year-old with muscular dystrophy that affects her mobility. She recently had surgery to place flexible rods in her back and fuse her neck. She is able to sit up straight but can’t rotate her head. Miyako needed a child-sized shower chair to give her more independence and balance. She also wanted an adjustable easel to complete her homework.
 
 {% include gallery id="gallery4" %}
 
-Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write. They also created a finger split that enabled a better pinching motion for activities of daily living. Lastly, Team 4 created a hand stretcher Kenny could wear to bed so that his hand would not be as sore when he woke up in the morning. The finger splint project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Pinching Aid and Writing Aid Documentation](https://tomglobal.org/project?id=671e59c06b078200139de98e).
+Team 4 created a child-sized shower chair with a backing, arm rests, and a caddy that Miyako can use to shower more independently. They also designed an adjustable, magnetic easel that can adjust angularly and vertically so that Miyako can be more comfortable when she does her homework. 
 
 {% include gallery id="gallery4g" %}
 
@@ -162,11 +162,11 @@ Team 4 created a mouse-like grip that Kenny could use to grip a pencil and write
 
 **Team Lead: Maya Miller**<br>
 
-Miyako is an 8-year-old with an unknown disability (similar to cerebral palsy) and scoliosis that is getting worse. Her head is usually craned up, making it difficult to look at things in her hands. Miyako wanted a mount for her Nintendo Switch so that she could easily see it while playing. She also wanted a way to put on socks independently as the sock aids currently on the market are only sized for adults.
+Hadley Jo is an 11-year-old with a rare hereditary motor and sensory neuropathy (Type 6B). She uses a wheelchair but was not able to enjoy water activities due to her wheelchair’s electronics. Hadley Jo needed a waterproof wheelchair so that she could enjoy splashpads without being carried. Additionally, Hadley Jo’s family needed a custom wheelchair lift to help her get in and out of the car as she grows.
 
 {% include gallery id="gallery5" %}
 
-Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch to her wheelchair. They also created a clamp for her car seat so that she could play in the car. Additionally, Team 5  created a Miyako-sized sock aid, allowing her to put on socks independently. The Nintendo Switch mount documentation can be found here: [Nintendo Switch Wheelchair Mount Documentation](https://tomglobal.org/project?id=671d34a76b078200139d92e3).
+Team 5 built a custom lightweight wheelchair (in her favorite color!) so that Hadley Jo can enjoy the water for longer. Team 5 also prototyped a wheelchair lift using an electric drill and carjack. The splashpad wheelchair documentation can be found here: [Splashpad Wheelchair Documentation](https://tomglobal.org/project?id=69128f28c303f80013edb9a7).
 
 {% include gallery id="gallery5g" %}
 
@@ -175,11 +175,11 @@ Team 5 created a custom 3D-printed clamp to attach Miyako's Nintendo Switch to h
 
 **Team Lead: Hailey Jane Frank**<br>
 
-Liam, a returner from the 2023 Makeathon, is a 9-year-old with Kleefstra syndrome. He often experiences meltdowns when walking outside the house that stop when he is able to sit down. Liam is too large for commercial strollers, and a medical stroller for his size would be $7000. Liam and his family needed an affordable stroller that could support Liam.
+Zander is a 6-year-old with cerebral cortex damage resulting from a car accident that impacts his cognitive and physical abilities. He loves bright lights and making people laugh. Zander wanted a chair he could sit in independently, a device to help him learn to crawl, and a table that is compatible with his Testa chair. 
 
 {% include gallery id="gallery6" %}
 
-Team 6 created two stroller options for Liam. The first was a folding chair mounted on a wheeled base. The second was a chair mounted to a lower base that could be flattened. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adapted Stroller Documentation](https://tomglobal.org/project?id=66fdd1776b0782001398b331).
+Team 6 designed a corner chair to allow Zander to sit without support, a light-up scooter so that he could push himself across the floor, and a table to hold his eye-gaze device so that he can learn to communicate from his Testa chair. The corner seat documentation can be found here: [Corner Seat Documentation](https://tomglobal.org/project?id=68fc245012671000123f7581).
 
 {% include gallery id="gallery6g" %}
 
@@ -188,11 +188,11 @@ Team 6 created two stroller options for Liam. The first was a folding chair moun
 
 **Team Lead: Rylan Hunt**<br>
 
-Deklan is an 11-year-old with Duchenne muscular dystrophy. He uses a power wheelchair to get around most of the time. His wheelchair is extremely heavy, and while his family has a ramp to store it at the back of their car, the ramp is narrow and the wheelchair often falls off, leavings his parents to bear the hundreds of pounds to keep it on track. Additionally, Deklan loves drawing, but often gets tired from moving his arms for more than a couple minutes. Deklan needed sidings for his wheelchair ramp, as well as a folding table that could attach to his wheelchair for his art. He also needed an adaptive Halloween costume for his school's Halloween dance!
+Alaina is 22 years old and has cerebral palsy and autism. She communicates using an AAC tablet. One of her favorite activities is horseback riding, but she cannot use her AAC device while riding. Alaina needed a saddle-attached mount that her tablet can be placed on as well as a tablet shader so that the bright light doesn’t interfere with Alaina’s ability to see her device.
 
 {% include gallery id="gallery7" %}
 
-Team 7 created a folding table that could be clamped onto Deklan's wheelchair, inspired by tables in classrooms. They also created removable sidings that could be attached to his car's wheelchair ramps. Lastly, they crafted him a Dragon Ball Z Son Goku light-up Halloween costume. The folding table project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Folding Table Attachment Documentation](https://tomglobal.org/project?id=67049b116b0782001399e9d7). Additionally, the wheelchair ramp sidings documentation can be found here: [Wheelchair Ramp Sidings Documentation](https://tomglobal.org/project?id=66fdd28d6b0782001398fbfa).
+Team 7 designed a removable and adjustable tablet mount that securely attaches to a horse saddle, allowing Alaina to use her AAC comfortably while on horseback. Team 7 also found a compatible tablet shader to further support Alaina’s communication and independence during riding sessions. The saddle mount documentation can be found here: [AAC Saddle Mount Documentation](https://tomglobal.org/project?id=68fa534412671000123dce69). The tablet shader documentation can be found here: [Tablet Shader Documentation](https://tomglobal.org/project?id=68fa562812671000123e244a).
 
 {% include gallery id="gallery7g" %}
 
@@ -201,11 +201,11 @@ Team 7 created a folding table that could be clamped onto Deklan's wheelchair, i
 
 **Team Lead: Olivia Bisesi**<br>
 
-Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who are severly weak or paralyzed. She uses a standing frame in the clinic for exercises, but some patients have increased muscle tone in their feet which prevents them from putting their feet flat on the foot plates. She currently uses a mix of belts/straps/towels under a patient's foot, but it's not ideal. Additionally, it is hard for patients to continue exercises at home if they can only work on a squishy and unsupportive mattress. Elise needed a set of wedges to put in the standing frame's foot plates to bias the patients' feet towards eversion. She also needed a lightweight surface that patients could place on their bed to have a firmer surface. 
+Colton is a 5-year-old with quadruple cerebral palsy and dystonia. He cannot sit up on his own, so he uses a P-Pod chair during most activities during the day. Colton needed an activity table that is the correct height for his P-Pod chair. He also wanted a switch-adapted toy for play time.
 
 {% include gallery id="gallery8" %}
 
-Team 8 created a set of foot plate inserts for both feet at varying angles, giving Elise multiple options for biasing her patients' feet towards eversion. They also created a light weight yet sturdy folding bed topper that gives patients a more firm surface to complete their physical therapy exercises on at home. The foot wedges documentation can be found here: [Foot Eversion Wedges Documentation](https://tomglobal.org/project?id=6710166c6b078200139ba876). The exercise mat documentation can be found here: [Exercise Mat Documentation](https://tomglobal.org/project?id=671019216b078200139bd0c5).
+Team 8 created a custom adjustable table for Colton’s P-Pod chair, allowing him to eat, play with toys, and engage in activities comfortably and independently. The team also switch-adapted a talking zebra toy that Colton could play with.
 
 {% include gallery id="gallery8g" %}
 
@@ -214,11 +214,11 @@ Team 8 created a set of foot plate inserts for both feet at varying angles, givi
 
 **Team Lead: Isabella Blauzdys**<br>
 
-Nassanah has hypermobile Elhers-Danlos syndrome, leading her to frequently hyperextend and injure her joints. She travels often for work, and has difficulty pushing and lifting her suitcase. When at home, she makes frequent trips to the grocery store as she can only carry one bag up her her apartment at a time. Nassanah needed wrist supports for rolling and lifting her luggage, and something to make carrying groceries upstairs easier.
+Mila is a 22-month-old with cerebral palsy and hydrocephalus. She uses a medical stroller to support her posture. Mila has a twin sister, Maizy, who also needs a stroller. Mila and Maizy’s mom needed a solution so that she doesn’t have to push two strollers or use a double stroller that can’t support Mila. Mila’s parents also wanted a Toddler Mobility Trainer, one of TOM Global’s products, to help build strength in Mila’s arms. 
 
 {% include gallery id="gallery9" %}
 
-Team 9 created an insulated grocery vest, placing a majority of the weight at Nassanah's core, enabling Nassanah to take fewer trips between her car and her apartment. They also created custom wrist braces that were more rigid than her daily-use braces. Lastly, they created a waist-driven suitcase pusher so Nassanah could navigate airports hands-free. The grocery vest documentation can be found here: [Grocery Vest Documentation](https://tomglobal.org/project?id=671046846b078200139bf5c0). The wrist brace documentation can be found here: [Travel Braces Documentation](https://tomglobal.org/project?id=66fdd2bc6b07820013990bf8). The suitcase pusher documentation can be found here: [Suitcase Pusher Documentation](https://tomglobal.org/project?id=671c137f6b078200139d33d1).
+Team 9 built a detachable front extension that securely attaches to Mila’s medical stroller and provides a safe, comfortable seat for Maizy. This solution allows the twins to be easily and safely transported together. Team 9 also put together a Toddler Mobility Trainer with custom side and head supports so that Mila can begin exploring independent mobility. 
 
 {% include gallery id="gallery9g" %}
 
@@ -227,11 +227,11 @@ Team 9 created an insulated grocery vest, placing a majority of the weight at Na
 
 **Team Lead: Ella Provancher**<br>
  
-Paige and Heather are occupational therapists at the Susan Gray School, a preschool that serves children of all abilities. Some children are age-appropriate for sitting upright at a table, but are smaller in stature, making the current seats inaccessible. Paige and Heather needed a small, adjustable chair with various attachments (foot plates, laterals, head rest, etc.) that can be added to support the student while being at a table with their peers. 
+Chizenum is 23 years old and is minimally verbal. Her mom encourages her to use an AAC device, but she gets easily frustrated with all of the options. When she is ill, she won’t communicate, causing her to become angry and aggressive. Her mom is also concerned that Chizenum wouldn’t be able to contact her family if she got lost. Chizenum needed a simplified app to make communication easier.
 
 {% include gallery id="gallery10" %}
 
-Team 10 created an adjustable laser-cut toddler chair that has an attachable head and lateral supports. This project was continued into the 2025 Global Innovation Challenge. Its documentation can be found here: [Adjustable Toddler Chair Documentation](https://tomglobal.org/project?id=6733e311e1449b00127ee87a).
+Team 10 designed a simplified iPad app that functions like an AAC device but features fewer, more personalized options tailored to Chizenum’s daily routines and favorite things (restaurants, TV shows, etc.). Team 10 also created a bracelet that can be tapped with an iPhone to display her parent’s contact information and a link to the communication app in case Chizenum becomes separated from her parents in public. 
 
 {% include gallery id="gallery10g" %}
 
@@ -240,11 +240,11 @@ Team 10 created an adjustable laser-cut toddler chair that has an attachable hea
 
 **Team Lead: Elizabeth Walther**<br>
 
-Elise, a physical therapist at the Pi Beta Phi Rehabilitation Center, works with patients who have cerebral palsy and other similar conditions. These patients often need help standing up from a seated position. Elise needed a board that patients could strap their feet in and that could be adjusted width-wise.
+Stella is an 8-year-old with spina bifida. She loves meeting new people and exploring new places. Stella needed a tray table for her wheelchair so that she could eat lunch at school more easily. Additionally, when Stella goes on hikes, she cannot transfer into her all-terrain wheelchair independently. Her parents wanted a custom step that Stella could remove once she’s in her all-terrain wheelchair.
 
 {% include gallery id="gallery11" %}
 
-Team 11 created a rolling sit-to-stand board with foot plates patients could strap their feet in. These foot plates could be adjusted laterally to accommodate different stances. The project documentation can be found here: [Sit-to-Stand Board Documentation](https://tomglobal.org/project?id=66fdd3ed6b0782001399237f).
+Team 11 created a collapsible tray table for Stella’s wheelchair that she could use for lunch time at school and for playing with toys at home. Team 11 also created a step that Stella could independently attach and detach so that she could transfer from the ground into her all-terrain wheelchair independently. The tray table documentation can be found here: [KiRogue Tray Documentation](https://tomglobal.org/project?id=69063aef126710001240da16). The all-terrain wheelchair step documentation can be found here: [All-Terrain Wheelchair Step Documentation](https://tomglobal.org/project?id=690650241267100012412b8a).
 
 {% include gallery id="gallery11g" %}
 
@@ -253,11 +253,11 @@ Team 11 created a rolling sit-to-stand board with foot plates patients could str
 
 **Team Lead: Isabella Murano**<br>
 
-Hugh is a 9-year-old with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
+Wyatt is a 10-year-old with a complex medical history. He struggles with poor dexterity and low energy, making typical tasks much harder for him. Wyatt’s mom wanted a range of devices to support his dexterity and independence.
 
 {% include gallery id="gallery12" %}
 
-Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here: [Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
+Team 12 created a large set of custom devices for Wyatt. They made silicone-molded grips to help him hold a toothbrush and pencil, leg guides to help him put on socks, a storage bag for his push chair, protective shower glasses for his sensory needs, and some fun 3D-printed fidget toys. 
 
 {% include gallery id="gallery12g" %}
 
@@ -266,11 +266,11 @@ Team 12 3D-printed bike handlebar adaptations that gave Hugh an easier way of ho
 
 **Team Lead: Victor Dunagan**<br>
 
-Hugh is a 9-year-old with clubbed hands. He is currently unable to ride a bike since he can't comfortably hold onto the handlebars. He also has a hard time removing and putting back on marker caps when he draws. Lastly, he doesn't have winter gloves that fit him properly. Hugh needed a bike handlebar adaptation, a marker cap grip, and adapted winter gloves.
+Chandler, a 2018 Vandy alum, became paralyzed from the waist down after a shooting in 2024. He has very little core strength and cannot lift his chest up. Chandler wanted a long gardening tool so that he could weed and cut plants while sitting up in his chair. He also needed a fold-away table that he could add to his wheelchair. Chandler served as both a Need Knower and a Maker during the Makeathon!
 
 {% include gallery id="gallery13" %}
 
-Team 13 3D-printed bike handlebar adaptations that gave Hugh an easier way of holding to the handlebars. They also created two different marker cap grip options that allowed Hugh to remove marker caps using his arms. Lastly, they sewed him custom Star Wars-themed winter gloves that he could put on independently. The marker cap grip project was continued into the 2025 Global Innovation Challenge. The bike handlebar adaptation documentation can be found here: [Bike Adaptation Documentation](https://tomglobal.org/project?id=66fdd3356b078200139914fd).
+Team 13 adapted a set of tools to allow Chandler to do gardening work and pick items up from the comfort of his wheelchair. The team also prototyped a modular desk space for Chandler’s wheelchair that would allow him to work on a range of projects. 
 
 {% include gallery id="gallery13g" %}
 

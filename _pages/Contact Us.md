@@ -8,7 +8,7 @@ gallery:
   - image_path: assets/img/Headshot Ava Kunesh.jpg
 
 gallery2:
-  - image_path: assets/img/Blank Headshot.jpg
+  - image_path: assets/img/Headshot Kenan Hekimci.JPEG
   - image_path: assets/img/Headshot Hailey Jane Frank.jpg
   - image_path: assets/img/Headshot Rachel Prizant.JPEG
 

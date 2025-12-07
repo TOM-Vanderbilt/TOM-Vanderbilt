@@ -51,7 +51,7 @@ vanderbilt@tomglobal.org
 
 {% include gallery id="gallery5" %}
 
-| **Keirra Taube**<br>PR Chair<br><a href="mailto:keirra.a.taube@vanderbilt.edu" style="font-size: 0.75em;">keirra.a.taube@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Charlie Borchers**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:charlie.a.borchers@vanderbilt.edu" style="font-size: 0.75em;">charlie.a.borchers@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;**Dr. Kevin Galloway**<br>&nbsp;&nbsp;&nbsp;Faculty Advisor<br>&nbsp;&nbsp;&nbsp;<a href="mailto:kevin.c.galloway@vanderbilt.edu" style="font-size: 0.75em;">kevin.c.galloway@vanderbilt.edu</a> |
+| **Keirra Taube**<br>PR Chair<br><a href="mailto:keirra.a.taube@vanderbilt.edu" style="font-size: 0.75em;">keirra.a.taube@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Charlie Borchers**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PR Chair<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:charles.a.borchers@vanderbilt.edu" style="font-size: 0.75em;">charles.a.borchers@vanderbilt.edu</a> | &nbsp;&nbsp;&nbsp;**Dr. Kevin Galloway**<br>&nbsp;&nbsp;&nbsp;Faculty Advisor<br>&nbsp;&nbsp;&nbsp;<a href="mailto:kevin.c.galloway@vanderbilt.edu" style="font-size: 0.75em;">kevin.c.galloway@vanderbilt.edu</a> |
 
 
 ## Previous Executive Boards

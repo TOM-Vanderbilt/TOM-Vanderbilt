@@ -17,7 +17,7 @@ Sign-ups for the 2026 Toy Adaptation will open this spring. Please check back.
 
 
 ## 2026 Go Baby Go
-[Go Baby Go Sign Up](https://docs.google.com/forms/d/e/1FAIpQLSd-dMuCZ6dlCBNCfyoIXWkWd-wW-mywjcxbRxbBW6y60fDCyA/viewform)
+[Sign up Here!](https://docs.google.com/forms/d/e/1FAIpQLSd-dMuCZ6dlCBNCfyoIXWkWd-wW-mywjcxbRxbBW6y60fDCyA/viewform)
 
 
 ## 2026 Makeathon
